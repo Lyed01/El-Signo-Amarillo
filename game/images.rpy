@@ -21,7 +21,7 @@ image bg iglesia_atrio    = "images/bg/iglesia_atrio.jpg"
 # -----------------------------------------------------
 
 # Scott (sin expresiones, versión base)
-image sc = "images/char/scott/scott.png"
+image sc = "images/char/scott1.webp"
 
 # Tessie (sin expresiones, versión base)
 image te = "images/char/tessie/tessie.png"

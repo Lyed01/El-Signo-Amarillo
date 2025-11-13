@@ -4,8 +4,6 @@
 
 label esc_1:
 
-    play ambient audio.amb_bruma fadein 1.0
-    scene bg estudio_day with fade
 
     n "La bruma cubre la ciudad."
     n "El humo de las fábricas se eleva entre los tejados, donde los estandartes del régimen ondean rígidos, sin color."
@@ -14,6 +12,11 @@ label esc_1:
     n "El aire huele a carbón, acero caliente y aceite quemado."
 
     n "Scott permanece inmóvil, apoyado sobre el alféizar de la ventana de su estudio."
+    show sc:
+        xalign 0.2
+        yalign 1.0
+        alpha 0.0
+        linear 1.0 alpha 1.0
     n "Sus manos descansan sobre la piedra fría."
 
     n "Desde allí observa la plaza, las calles desiertas, los edificios envueltos en humo."
