@@ -68,12 +68,12 @@ label esc_1:
         n "¿Qué logra recordar?"
 
         "Nada. Reprimir el recuerdo. (Branch 1)":
-            jump esc_2A_norecall
+            $ branch = 1
 
         "La infancia en los bosques bretón. (Branch 2)":
-            jump esc_2B
+            $ branch = 2
 
         "El frente oriental: la nieve y la deserción. (Branch 3)":
-            jump esc_2C
+            $ branch = 3
 
     return
