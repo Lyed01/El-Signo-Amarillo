@@ -65,6 +65,7 @@ define audio.sfx_recuerdo_guerra= "audio/sfx/tiroteoGuerra.ogg"
 define audio.sfx_transicion     = "audio/sfx/transicion.ogg"
 define audio.sfx_campana        = "audio/sfx/unGolpeCampana.ogg"
 define audio.sfx_auto           = "audio/sfx/viajeAuto.ogg"
+define audio.sfx_motor          = "audio/sfx/motor.ogg"
 
 # -----------------------------------------------------
 # EFECTOS ESPECIALES (USO RARO)

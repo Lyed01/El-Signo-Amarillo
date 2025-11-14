@@ -15,8 +15,9 @@ label esc_2C:
 
     # (Cuando tengas un fondo real de nieve, colócalo aquí)
     scene bg estudio_day with dissolve
+    # acá va el fondo 
 
-    play sound audio.sfx_ #gordo puto
+    play sound audio.amb_guerra_distant
     n "El paisaje es blanco, interminable."
     n "La tierra está teñida de rojo; el barro pegajoso se mezcla con la sangre."
     n "Los tanques avanzan lentamente, chirriando como animales de hierro."
@@ -40,7 +41,7 @@ label esc_2C:
 
     # Regreso al presente
     stop ambient fadeout 1.0
-    play sound audio.sfx_blindado
+    play sound audio.sfx_motor
     scene bg estudio_day with fade
     play ambient audio.amb_estudio fadein 1.0
 
