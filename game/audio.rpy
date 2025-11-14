@@ -69,7 +69,7 @@ define audio.sfx_motor          = "audio/sfx/motor.ogg"
 define audio.sfx_suspiro        = "audio/sfx/suspiro.ogg"
 define audio.sfx_tessieRisa     = "audio/sfx/tessieRisa.ogg"
 define audio.sfx_telaRomper     = "audio/sfx/telaRomper.ogg"
-
+define audio.sfx_botas          = "audio/sfx/botas.ogg"
 # -----------------------------------------------------
 # EFECTOS ESPECIALES (USO RARO)
 # -----------------------------------------------------

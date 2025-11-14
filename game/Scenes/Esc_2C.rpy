@@ -7,14 +7,13 @@ label esc_2C:
 
     # Entrar al recuerdo
     scene black with dissolve
-    stop ambient fadeout 1.0
-    play ambient audio.amb_bruma fadein 1.0
+    play sound audio.sfx_transicion
 
     n "Scott cierra los ojos."
     n "El murmullo de la ciudad se disuelve, y el sonido de la bruma da paso a un eco distante: la nieve helada del frente oriental."
 
     # (Cuando tengas un fondo real de nieve, colócalo aquí)
-    scene bg estudio_day with dissolve
+    scene bg estudio1 with dissolve 
     # acá va el fondo 
 
     play sound audio.amb_guerra_distant
@@ -40,7 +39,7 @@ label esc_2C:
     n "Dos ojos vacíos de los caídos, ni las voces rotas que todavía lo llaman en sueños."
 
     # Regreso al presente
-    stop ambient fadeout 1.0
+    play sound audio.sfx_transicion
     scene bg estudio_day with fade
     play ambient audio.amb_estudio fadein 1.0
 

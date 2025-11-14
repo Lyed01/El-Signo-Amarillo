@@ -23,13 +23,13 @@ label esc_1:
     n "La luz gris se refleja en el vidrio, deformando su rostro."
     n "Todo parece detenido."
 
-    play sound audio.sfx_blindado
+    play sound audio.sfx_motor
     n "A lo lejos, se escuchan los motores de los vehículos blindados patrullando el perímetro."
 
     play sound audio.sfx_botas
     n "El eco metálico de las botas resuena entre los adoquines."
 
-    play sound audio.sfx_vientoFrio
+    play sound audio.theme_ventisca
     n "El viento golpea el vidrio, arrastrando polvo y hollín."
 
     n "Frente a él, el caballete vacío."
@@ -45,7 +45,7 @@ label esc_1:
     n "Por un instante, la sombra de un hombre de rostro blando y abultado se proyecta sobre el lienzo."
     n "Scott parpadea; la figura desaparece."
 
-    play sound audio.sfx_fosforo
+    play sound audio.sfx_cigarrillo
     n "Saca un cigarrillo. Lo enciende."
     n "La llama tiembla y el humo asciende, mezclándose con la neblina exterior."
 
