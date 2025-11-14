@@ -66,6 +66,9 @@ define audio.sfx_transicion     = "audio/sfx/transicion.ogg"
 define audio.sfx_campana        = "audio/sfx/unGolpeCampana.ogg"
 define audio.sfx_auto           = "audio/sfx/viajeAuto.ogg"
 define audio.sfx_motor          = "audio/sfx/motor.ogg"
+define audio.sfx_suspiro        = "audio/sfx/suspiro.ogg"
+define audio.sfx_tessieRisa     = "audio/sfx/tessieRisa.ogg"
+define audio.sfx_telaRomper     = "audio/sfx/telaRomper.ogg"
 
 # -----------------------------------------------------
 # EFECTOS ESPECIALES (USO RARO)
