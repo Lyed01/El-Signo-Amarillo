@@ -59,8 +59,6 @@ label esc_23C_1:
         "No hacer nada":
             jump esc_24C_1A
 
-        timer 30 jump esc_24C_1_auto
-
     return
 
 label esc_24C_1_auto:
