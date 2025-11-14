@@ -31,6 +31,8 @@ image bg iglesia_interior   = im.Scale("images/bg/iglesia_interior.png", 1920, 1
 image bg plaza_iglesia    = im.Scale("images/bg/plaza_iglesia.png", 1920, 1080)
 image bg sotano_iglesia   = im.Scale("images/bg/sotano_iglesia.webp", 1920, 1080)
 image bg escena1          = im.Scale("images/bg/escena1.png", 1920, 1080)
+image bg bibliotecaNoche  = im.Scale("images/bg/bibliotecaNoche.webp", 1920, 1080)
+image bg estudioNoche    = im.Scale("images/bg/estudioNoche.webp", 1920, 1080)
 
 
 

@@ -40,7 +40,7 @@ label esc_2C:
 
     # Regreso al presente
     play sound audio.sfx_transicion
-    scene bg estudio_day with fade
+    scene bg estudio1 with fade
 
     play sound audio.sfx_motor
     n "El sonido de los motores blindados lo trae de vuelta. El recuerdo se disuelve lentamente."
@@ -56,7 +56,7 @@ label esc_2C:
     n "Nada de lo que pinte podrá escapar de esa sombra."
 
     # El agente
-    scene bg iglesia_atrio with dissolve
+    scene bg atrio with dissolve
 
     n "Fuera, algo se mueve."
     n "Scott se inclina."
@@ -73,7 +73,7 @@ label esc_2C:
     n "de la obediencia impuesta."
 
     # Vuelta al estudio
-    scene bg estudio_day with dissolve
+    scene bg estudio1 with dissolve
 
     n "Scott apaga su cigarrillo."
     n "No aparta la vista."

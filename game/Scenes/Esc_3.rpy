@@ -4,7 +4,7 @@
 
 label esc_3:
 
-    scene bg studio_day with fade
+    scene bg estudio_tessie_pintada with fade
 
     n "Desde la ventana, Scott observa la plaza."
     n "Apoyado contra el atrio, un hombre permanece inmóvil."

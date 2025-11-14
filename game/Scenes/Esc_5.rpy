@@ -1,6 +1,6 @@
 label esc_5:
 
-    scene bg estudio_noche with fade
+    scene bg estudioNoche with fade
 
     n "El humo del cigarrillo flota en el aire, espeso, inmóvil."
     n "La luz del atardecer ha muerto; solo queda un resplandor gris filtrándose por la ventana."
