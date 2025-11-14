@@ -69,20 +69,20 @@ label esc_3:
 
     te "Debe de ser el aguarrás, o algo."
 
-    play audio.sfx_suspiro
+    play sound audio.sfx_suspiro  
     n "Scott suspira."
     n "Hundido en frustración, aprieta los pinceles contra la tela hasta deformarla."
     n "De su boca escapa una maldición que apenas se oye."
 
     sc "(exacerbado): ¡Muy bonito! ¡Arruina tus pinceles como un niño! Lleva semanas trabajando, y ahora mira… ¿¡de qué sirve!?" 
     
-    play audio.sfx_telaRomper
+    play sound audio.sfx_telaRomper
     n "Scott desgarra el lienzo"
 
     n "Tessie no responde."
     n "El aire vibra, como si la ciudad respirara dentro del estudio."
 
-    play audio.theme_policia
+    play sound audio.theme_policia
     n "El ruido lejano de las patrullas se mezcla con el roce del trapo."
 
     n "En el ventanal, la silueta del hombre del atrio sigue allí, fija, vigilante."

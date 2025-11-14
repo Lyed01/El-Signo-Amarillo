@@ -17,7 +17,7 @@ image bg estudio2    = "images/bg/estudio2.jpg"
 image bg flashback    = "images/bg/flasbackguerra.jpg"
 image bg recepcion1    = "images/bg/recepcion1.jpg"
 image bg recepcion2    = "images/bg/recepcion2.jpg"
-image bg recepcion2.2    = "images/bg/recepcion2(lampara).jpg"
+image bg recepcion2_2    = "images/bg/recepcion2(lampara).jpg"
 image bg atrio    = "images/bg/atrio.jpg"
 image bg auto    = "images/bg/brum_brum.jpg"
 image bg calle_dia    = "images/bg/calle_dia .jpg"
@@ -32,10 +32,10 @@ image bg plaza_iglesia    = "images/bg/plaza_iglesia.jpg"
 image bg sotano_iglesia   = "images/bg/sotano_iglesia.jpg"
 
 
-image bg recepcion2.2    = "images/bg/recepcion2(lampara).jpg"
-image bg recepcion2.2    = "images/bg/recepcion2(lampara).jpg"
-image bg recepcion2.2    = "images/bg/recepcion2(lampara).jpg"
-image bg recepcion2.2    = "images/bg/recepcion2(lampara).jpg"
+image bg recepcion2_2    = "images/bg/recepcion2(lampara).jpg"
+image bg recepcion2_2    = "images/bg/recepcion2(lampara).jpg"
+image bg recepcion2_2    = "images/bg/recepcion2(lampara).jpg"
+image bg recepcion2_2    = "images/bg/recepcion2(lampara).jpg"
 
 
 
