@@ -6,6 +6,12 @@ label esc_3:
 
     scene bg estudio_tessie_pintada with fade
 
+    show sc1:
+        xalign 0.2
+        yalign 1.0
+        alpha 0.0
+        linear 1.0 alpha 1.0
+
     n "Desde la ventana, Scott observa la plaza."
     n "Apoyado contra el atrio, un hombre permanece inmóvil."
     n "Su rostro, abultado y grisáceo, parece hecho de cera muerta."
