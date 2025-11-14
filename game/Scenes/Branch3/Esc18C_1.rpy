@@ -1,81 +1,103 @@
-ESC.19 – HOSPEDAJE DE TESSIE – INT. – NOCHE / BRUMA
-El libro amarillo yace abierto sobre la mesa.
-Las páginas viejas brillan débilmente bajo la luz temblorosa de la lámpara.
-Los símbolos parecen respirar en el silencio.
-SCOTT y TESSIE están frente a él.
-No se atreven a tocarlo, pero la cercanía del objeto los mantiene atrapados.
-El aire es espeso, cargado de algo que no pertenece solo al miedo, sino también al recuerdo.
-TESSIE se inclina sobre el texto.
-Pasa los dedos por los trazos.
-Cada símbolo vibra con un brillo apenas perceptible.
-TESSIE
- (en un hilo de voz)
- Scott…
- No son simples dibujos.
- Hay un patrón… algo que conecta con lo que me contaste de los días de gloria.
-Scott cierra los ojos un instante.
-Los recuerdos del frente lo asaltan:
-los hombres que desaparecieron por hablar de libertad,
-los nombres borrados de los informes,
-los símbolos grabados en muros clandestinos.
-SCOTT
- (voz grave)
- Tessie… esos símbolos no son solo historia.
- Son la memoria de quienes se atrevieron a creer en algo diferente.
- El régimen los destruyó, y ahora, solo mencionarlos es un crimen.
-TESSIE
- (alzando la vista, asustada)
- ¿Un crimen?
- ¿Por qué nos haría daño solo el saberlo?
-SCOTT
- Porque saber…
- significa ser detectable.
-Se acerca al libro.
-Sus sombras se cruzan sobre la mesa.
+label esc_18C_1:
 
-SCOTT
- Cada símbolo, cada nombre, cada fragmento de ese pasado glorioso…
- el régimen los rastrea.
- Y quienes los poseen… no sobreviven mucho tiempo.
-Tessie da un paso atrás.
-Su respiración se entrecorta.
-Los ojos, fijos en las páginas, reflejan fascinación y miedo.
-TESSIE
- Entonces…
- no es el libro ni los símbolos los que son peligrosos.
- Es lo que ellos pueden hacer con alguien que sabe demasiado.
-Scott asiente.
-Su voz es apenas un susurro.
-SCOTT
- Exacto.
- Todo lo que aprendemos, todo lo que recordamos de ese pasado…
- nos convierte en objetivos.
- Y nadie sobrevive al conocimiento, Tessie.
- No cuando el régimen decide mirar.
-El silencio se instala otra vez.
-Afuera, la bruma de la ciudad ocupada se mueve lentamente,
-indiferente pero vigilante.
-Los ruidos metálicos de una patrulla retumban a lo lejos.
-Dentro de la habitación,
-las sombras parecen escucharlos.
-El aire está saturado de peligro,
-de memoria,
-de una verdad que no puede decirse.
-TESSIE
- (susurrando)
- No puedo dejar de mirar…
- pero sé que tenemos que ser cuidadosos.
- O no sobreviviremos.
-Scott asiente lentamente.
-Sus ojos permanecen en el libro.
-Respira hondo, con esfuerzo.
-SCOTT
- (para sí mismo)
- Cada palabra… cada símbolo…
- es una cuerda que nos ata al pasado.
- Y al mismo tiempo… nos delata.
-La lámpara parpadea.
-Las sombras sobre las paredes parecen moverse con vida propia.
-Afuera,
-una sirena corta el aire de la noche.
-CORTE A NEGRO.
+    scene bg hospedaje_noche with fade
+
+    n "El silencio es absoluto."
+    n "Solo el tic-tac del reloj y el leve crepitar de la lámpara rompen la quietud."
+    n "El aire parece detenido, expectante."
+
+    show te at center with dissolve
+
+    n "Tessie se inclina sobre el libro amarillo."
+    n "Sus dedos tiemblan mientras acarician la cubierta gastada."
+    n "El cuero refleja la luz de la lámpara con un resplandor enfermizo."
+
+    show sc at left with dissolve
+
+    n "Scott está a su lado, inmóvil."
+    n "Su corazón late con violencia, sus pensamientos son un torbellino de advertencias."
+
+    sc "(voz baja, urgente) Tessie… no lo abras."
+    sc "No sabés lo que hay dentro."
+
+    n "Tessie levanta la mirada. Sus ojos tienen un brillo nuevo, una mezcla de curiosidad y decisión."
+
+    te "Lo sé…"
+    te "Pero necesito verlo."
+    te "Necesito comprender."
+
+    n "Scott da un paso, pero es tarde."
+
+    # --- EL LIBRO SE ABRE ---
+    play sfx audio.sfx_paper_rustle
+
+    n "Ella levanta la tapa."
+    n "El sonido seco del cuero al abrirse llena la habitación."
+    n "Una ráfaga leve de aire antiguo se escapa del libro, trayendo un aroma a polvo y tinta olvidada."
+
+    n "Las páginas amarillentas se abren solas, como si el tiempo respirara a través de ellas."
+
+    n "La luz de la lámpara ilumina los símbolos:"
+    n "líneas curvas, espirales, trazos dorados que parecen moverse."
+
+    n "No son solo dibujos: se retuercen bajo la mirada, formando patrones imposibles."
+
+    n "Scott siente un escalofrío. El sudor le recorre la frente."
+
+    sc "(temblando) ¿Ves lo que está… haciendo?"
+    sc "No es solo tinta."
+    sc "Es… una presencia."
+
+    n "Tessie no responde. Sus ojos recorren las páginas, fascinados."
+    n "Pasa las hojas lentamente, sin pestañear."
+    n "Cada símbolo parece hablarle, susurrando algo que solo ella puede oír."
+
+    te "(voz débil) Es extraño…"
+    te "Como si viera algo más allá de las palabras."
+    te "Algo vivo… pero que no pertenece a este mundo."
+
+    n "Scott se inclina sobre ella."
+    n "Intenta cerrar el libro, pero una fuerza invisible lo mantiene abierto."
+
+    # Efecto especial opcional
+    # play sfx audio.fx_hum_signo
+
+    n "El aire del lugar vibra, cargado de electricidad."
+
+    sc "Tessie…"
+    sc "No puedo detener esto."
+    sc "El Signo… lo sentís, ¿verdad?"
+    sc "No es historia, ni símbolos."
+    sc "Es una verdad que no debería existir."
+
+    n "Sus miradas se cruzan."
+    n "En ese instante, comprenden lo mismo:"
+    n "el libro no es un objeto, sino un portal."
+
+    n "La comprensión los sacude."
+
+    # Pequeño destello opcional para simbolizar el Signo
+    # scene bg hospedaje_noche_glow with dissolve
+
+    n "El Signo Amarillo los envuelve con su brillo corrupto,"
+    n "una luz que parece surgir del papel y filtrarse en la piel."
+
+    n "El silencio vuelve."
+    n "Pero ya no es silencio."
+    n "Es una presión, una presencia."
+
+    n "Cada símbolo late con intención propia, como si el libro los observara."
+
+    n "Tessie sostiene el volumen con ambas manos."
+    n "Su respiración se acelera, entre miedo y fascinación."
+
+    n "Scott retrocede un paso, incapaz de separarla del libro."
+    n "Comprende que el peligro ya no está fuera,"
+    n "sino en el aire que respiran, en la conciencia que los rodea."
+
+    n "El conocimiento prohibido los ha tocado."
+    n "Y la marca del Signo Amarillo ya es parte de ambos."
+
+    scene black with fade
+
+    return

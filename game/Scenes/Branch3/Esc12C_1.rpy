@@ -5,7 +5,7 @@ label esc_12C_1:
     n "La ciudad está envuelta en humo industrial."
     n "El sonido de los motores lejanos se mezcla con el silbido del viento entre los edificios."
     n "Los estandartes del régimen cuelgan inmóviles, empapados por la humedad."
-x
+
     n "Scott avanza por la calle. Camina con paso rápido, el abrigo cerrado hasta el cuello."
     n "Cada paso resuena como un eco vacío entre los muros."
     n "Su respiración forma nubes en el aire frío."
