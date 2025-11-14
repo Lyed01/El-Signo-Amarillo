@@ -5,7 +5,7 @@
 label esc_3:
 
     play ambient audio.amb_estudio fadein 1.0
-    scene bg studio_day with fade
+    scene bg estudio1 with fade
 
     n "Desde la ventana, Scott observa la plaza."
     n "Apoyado contra el atrio, un hombre permanece inmóvil."

@@ -4,7 +4,7 @@
 
 label esc_4:
 
-    scene bg studio_day with fade
+    scene bg estudio1 with fade
     play ambient audio.amb_estudio fadein 1.0
 
     n "Scott vuelve al caballete."
