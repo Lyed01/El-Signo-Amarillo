@@ -4,6 +4,7 @@
 
 label esc_1:
 
+    scene bg escena1
 
     n "La bruma cubre la ciudad."
     n "El humo de las fábricas se eleva entre los tejados, donde los estandartes del régimen ondean rígidos, sin color."

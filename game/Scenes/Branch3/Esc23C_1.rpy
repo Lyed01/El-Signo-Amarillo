@@ -62,8 +62,6 @@ label esc_23C_1:
             $ choice23 = 1
             jump esc_24C_1A
 
-    tIMER
-
     return
 
 label esc_24C_1_auto:
