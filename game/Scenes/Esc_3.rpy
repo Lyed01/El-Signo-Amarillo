@@ -39,6 +39,7 @@ label esc_3:
     n "Mira el lienzo, incrédulo."
 
     # Diálogo
+    
     te "¿He hecho algo malo?"
 
     play sound audio.sfx_cigarrillo

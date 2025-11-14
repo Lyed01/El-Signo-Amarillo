@@ -55,14 +55,11 @@ label esc_23C_1:
     menu:
         "Detenerla — intervenir antes de que toque el libro":
             $ choice23 = 2
-            jump esc_24C_1B
+            
 
         "No hacer nada":
            
             $ choice23 = 1
-            jump esc_24C_1A
+            
 
     return
-
-label esc_24C_1_auto:
-    jump esc_24C_1A
