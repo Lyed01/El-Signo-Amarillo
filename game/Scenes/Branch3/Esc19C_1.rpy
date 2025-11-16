@@ -17,6 +17,7 @@ label esc_19C_1:
     n "Pasa los dedos por los trazos."
     n "Cada símbolo vibra con un brillo apenas perceptible."
 
+    show te1 at right
     te "(en un hilo de voz) Scott…"
     te "No son simples dibujos."
     te "Hay un patrón… algo que conecta con lo que me contaste de los días de gloria."

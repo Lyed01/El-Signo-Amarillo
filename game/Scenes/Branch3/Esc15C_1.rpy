@@ -11,7 +11,7 @@ label esc_15C_1:
     n "Frente a él, Tessie lo observa, iluminada por la luz amarillenta."
     n "Hay sinceridad en su mirada, pero también una chispa que él teme: curiosidad."
 
-    show te at center with dissolve
+    show te1 at center
 
     te "Scott…"
     te "No quería que te enojaras."

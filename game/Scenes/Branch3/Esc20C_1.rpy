@@ -19,6 +19,7 @@ label esc_20C_1:
     n "Un sonido metálico irrumpe en la calle: ruedas sobre adoquines mojados."
     n "Se repite, acompasado. No hay duda."
 
+    show te1 at right
     te "(susurrando) ¿Lo escuchás?"
 
     show sc1 at left

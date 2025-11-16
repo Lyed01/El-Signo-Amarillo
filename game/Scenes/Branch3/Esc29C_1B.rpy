@@ -1,15 +1,16 @@
 label esc_29C_1B:
 
+#REVISAR VON NAZA EN RENPY
     scene bg calle_ciudad_noche_lluvia with fade
     play ambient "amb_lluvia_bruma.ogg" fadein 1.0
 
     n "La lluvia seguía golpeando los adoquines, dibujando ondas en los charcos que reflejaban la luz difusa de los faroles."
     n "La bruma se arrastraba entre las esquinas, envolviendo la calle en un resplandor amarillo y enfermo."
 
-    show te neutral at right 
+    show te1 neutral at right 
     n "Desde el balcón, Tessie observaba a Scott con preocupación."
     
-    show sc neutral at left 
+    show sc1 neutral at left 
     n "Él permanecía junto a la ventana, los ojos fijos en el exterior, atrapado por un impulso que ni él mismo entendía."
 
     te "“Scott… ¿qué haces? La noche está llena de peligros.”"
@@ -19,7 +20,6 @@ label esc_29C_1B:
 
     n "El ruido se repetía, como un ritmo mecánico, antiguo, un latido deformado por la lluvia. Cada golpe lo atraía un poco más, como si la ciudad misma lo estuviera llamando."
 
-    show sc1 at left
     sc "«Debo ver qué es… No puedo ignorarlo.»"
 
     te "“No bajes, Scott… No sabes lo que puede estar ahí abajo.”"

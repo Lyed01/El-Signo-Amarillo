@@ -20,6 +20,7 @@ label esc_3:
     n "Scott aparta la vista."
     n "Vuelve al caballete."
 
+    show te1 at right
     # Tessie posando
     n "Hace una seña a Tessie, que posa en silencio bajo la luz gris que entra por la ventana."
 

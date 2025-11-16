@@ -11,6 +11,7 @@ label esc_14C_1:
     n "Tessie está sentada frente a Scott, los ojos bajos, nerviosos."
     n "Él la observa en silencio, percibiendo que hay algo más detrás de su inquietud."
 
+    show te1 at right
     te "Scott… necesito contarte lo que encontré."
 
     n "Scott no responde. Su mirada se endurece lentamente."

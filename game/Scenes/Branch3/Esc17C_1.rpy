@@ -3,7 +3,7 @@ label esc_17C_1:
     scene bg hospedaje_noche with fade
 
     # Tessie revela que trajo el libro
-    show te at center with dissolve
+    show te1 at center 
 
     te "(voz baja, firme) Scott…"
     te "No pude evitar traerlo."

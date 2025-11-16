@@ -18,6 +18,7 @@ label esc_21C_1:
     n "Sus respiraciones son cortas, medidas."
     n "El latido de sus corazones llena el aire."
 
+    show te1 at right
     te "(susurrando) ¿Creés que nos vieron?"
 
     show sc1 at left

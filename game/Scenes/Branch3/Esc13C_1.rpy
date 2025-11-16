@@ -24,6 +24,7 @@ label esc_13C_1:
 
     n "Corre hacia ella. La toma de los hombros, con una mezcla de alivio y reproche."
 
+    show te1 at right
     te "(voz baja) Scott… no sabía que estabas preocupado."
 
     sc "¿No sabías?"

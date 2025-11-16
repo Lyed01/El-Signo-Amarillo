@@ -22,6 +22,7 @@ label esc_28C_1B:
     n "Las sombras se alargaban, avanzaban y retrocedían con un ritmo inquietante."
     n "Cada farol revelaba un instante: figuras en los tejados, siluetas deslizándose entre portales, rostros insinuados entre la niebla que desaparecían al parpadear."
 
+    show te1 at right
     te "“Scott… No sé cómo, pero siento que nos miran. Cada movimiento que hacemos.”"
 
     show sc1 at left

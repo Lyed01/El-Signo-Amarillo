@@ -7,6 +7,7 @@ label esc_8C:
 
     n "El recuerdo de la noche anterior la sigue. No como un miedo inmediato, sino como una pregunta que insiste."
 
+    show te1 at right
     te "(murmura) Scott no me dijo todo… Sé que no."
 
     n "La curiosidad, más que el temor, la empuja."

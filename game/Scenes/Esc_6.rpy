@@ -10,6 +10,7 @@ label esc_6:
     n "Tiembla. Sus ojos húmedos relucen a la luz tenue."
     n "La respiración se acelera, entrecortada."
 
+    show te1 at right
     te "¡No puedo…! Siento que algo terrible va a pasar…"
 
     show sc1 at left

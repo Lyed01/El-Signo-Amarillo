@@ -10,6 +10,7 @@ label esc_5:
     n "Scott la mira sin hablar. La tensión aún vibra en el aire, suspendida entre ambos."
     n "El silencio pesa. El sonido lejano de una patrulla se mezcla con el zumbido eléctrico del estudio."
 
+    show te1 at right
     te "Scott… debo contarte un sueño. O quizá algo más… una premonición."
 
     n "Scott levanta la mirada. Permanece quieto, atento. La observa mientras el humo se disuelve lentamente."

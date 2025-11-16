@@ -11,6 +11,7 @@ label esc_23C_1:
     n "Afuera, las ruedas metálicas del carro crujían sobre los adoquines, cada movimiento más cercano que el anterior."
     n "El chirrido de un engranaje recorrió el pasillo como una amenaza contenida."
 
+    show te1 at right
     te "(susurrando, apenas audible) Scott… Van a entrar. Si ven lo que hemos estado leyendo…"
 
     show sc1 at left

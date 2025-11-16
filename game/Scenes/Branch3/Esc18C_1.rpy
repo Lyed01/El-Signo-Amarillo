@@ -6,14 +6,12 @@ label esc_18C_1:
     n "Solo el tic-tac del reloj y el leve crepitar de la lámpara rompen la quietud."
     n "El aire parece detenido, expectante."
 
-    show te at center 
+     
 
     n "Tessie se inclina sobre el libro amarillo."
     n "Sus dedos tiemblan mientras acarician la cubierta gastada."
     n "El cuero refleja la luz de la lámpara con un resplandor enfermizo."
-
-    show sc at left 
-
+ 
     n "Scott está a su lado, inmóvil."
     n "Su corazón late con violencia, sus pensamientos son un torbellino de advertencias."
 
@@ -23,6 +21,7 @@ label esc_18C_1:
 
     n "Tessie levanta la mirada. Sus ojos tienen un brillo nuevo, una mezcla de curiosidad y decisión."
 
+    show te1 at center
     te "Lo sé…"
     te "Pero necesito verlo."
     te "Necesito comprender."

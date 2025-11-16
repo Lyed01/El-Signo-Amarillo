@@ -15,6 +15,7 @@ label esc_4:
 
     n "Los tonos se corrompen: amarillos sucios, verdes marchitos, sombras que parecen absorber la luz."
 
+    show te1 at right
     te "No sé qué está pasando con los colores. Tu pintura… se ve… horrible."
 
     n "Scott aprieta los dientes."

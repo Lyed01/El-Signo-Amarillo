@@ -9,7 +9,7 @@ label esc_16C_1:
     n "La luz de la lámpara parpadea."
     n "Las sombras parecen avanzar, estrechando el aire entre ellos."
 
-    show te at center with dissolve
+    show te1 at center 
 
     n "Tessie permanece sentada, las manos crispadas sobre sus piernas,"
     n "los ojos abiertos, brillantes de confusión y miedo."

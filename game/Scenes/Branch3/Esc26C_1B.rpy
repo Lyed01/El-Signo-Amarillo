@@ -8,6 +8,7 @@ label esc_26C_1B:
     n "Scott y Tessie avanzaban pegados a las paredes, sus pasos casi inaudibles bajo el ruido constante del agua."
     n "Cada sombra parecía un vigilante, cada eco de ruedas o botas sonaba como una advertencia."
 
+    show te1 at right
     te "“Nunca había sentido algo así… Es como si toda la ciudad nos observara.”"
 
     sc "«La ciudad no perdona. Todo lo que vimos hoy… cualquier paso en falso podría costarnos caro. Tenemos que mantenernos invisibles.»"
