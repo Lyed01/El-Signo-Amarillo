@@ -2,7 +2,6 @@
 default subbranch = 0
 default path11 = 0
 default choice23 = 0   
-default opcion = false
 
 label start:
 
