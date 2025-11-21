@@ -2,7 +2,7 @@
 default subbranch = 0
 default path11 = 0
 default choice23 = 0   
-
+default opcion = false
 
 label start:
 
@@ -26,6 +26,7 @@ label start:
         
     elif subbranch == 21:
         call esc_7B
+        call esc_7B_2
         call esc_8B
         
     elif subbranch == 2:
