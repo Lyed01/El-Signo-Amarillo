@@ -13,16 +13,13 @@ label esc_16B:
     "La luz matinal entra por las ventanas, iluminando sus rostros mientras el estudio parece estrecharse a su alrededor, atrapando la tensión de una decisión que cambiaría todo."
 
     menu:
-
-        
         "Quedarse":
-            $ rechazoATessie = true
+            $ rechazoATessie = True
 
-        
         "Irse con Tessie":
-            $ rechazoATessie = false
+            $ rechazoATessie = False
 
-        return
+    return
     # Aquí irán las dos opciones de Scott (Aceptar / Rechazar)
     # Puedo agregarlas cuando me digas.
     # jump escena_17  # Temporal

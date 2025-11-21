@@ -1,27 +1,16 @@
-﻿<<<<<<< HEAD
-﻿default branch = 0
-
-=======
+﻿
 default branch = 0
->>>>>>> 08b22383cace1fd51626d64e6015e5f57dd7bf93
 default subbranch = 0
 
-#variables branch 1
+# variables branch 1
 
+# variables branch 2
+default rechazoATessie = False
 
-#variables branch 2
-default rechazoATessie = false
-
-
-#variables branch 3
+# variables branch 3
 default path11 = 0
-default choice23 = 0   
-<<<<<<< HEAD
- 
-
-=======
+default choice23 = 0
 default opcion = False
->>>>>>> 08b22383cace1fd51626d64e6015e5f57dd7bf93
 
 label start:
 
@@ -63,31 +52,8 @@ label start:
         call esc_8B
         
     elif subbranch == 2:
-<<<<<<< HEAD
-        call esc_7B_1
-        call esc_7B_2
-        call esc_8B
-        call esc_9B
-        call esc_10B
-        call esc_11B
-        call esc_12B_1
-    if 
-        call esc_12B_2
-        call esc_13B
-        call esc_14B
-        call esc_15B
-        call esc_16B
-    if rechazoATessie == true:
-        call esc_17B_2A
-        call esc_18B_2A
-        call esc_19B_2A
-        call esc_20B_2A
-    else:
-        call esc_17B_2B
-        call esc_18B_2B
-        call esc_19B_2B
-        call esc_20B_2B
-        call esc_21B_2B
+        call esc_7
+        call esc_8
         
     elif subbranch == 3:
         call esc_7C
