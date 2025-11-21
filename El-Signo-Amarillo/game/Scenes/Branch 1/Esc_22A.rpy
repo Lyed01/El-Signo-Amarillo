@@ -1,4 +1,4 @@
-label esc_21A:
+label esc_22A:
 
     scene estudio_scott_crepusculo with fade
 
@@ -53,6 +53,8 @@ label esc_21A:
 
     n "La cámara se aleja. El resplandor amarillo crece, lentamente, detrás de las nubes."
 
+
+    scene black with fade
     n "CORTE A NEGRO. Silencio. Solo queda el rumor leve de algo que respira."
 
     return
