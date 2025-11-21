@@ -1,6 +1,6 @@
 # escena_8.rpy
 
-label escena_8_recepcion:
+label esc_8B:
 
     scene recepcion_manana
     with fade

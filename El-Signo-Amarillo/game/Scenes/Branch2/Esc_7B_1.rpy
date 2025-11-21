@@ -1,6 +1,6 @@
 # escena_opcion1.rpy
 
-label opcion_1_tessie:
+label esc_7B_1:
 
     SCOTT "Mira, Tessie... no te atormentes más. Ven, siéntate un momento junto a la ventana. Respirá el aire, aunque huela a óxido. Fumá un poco si eso te ayuda."
 
