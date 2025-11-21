@@ -1,8 +1,8 @@
-﻿default branch = 0
+default branch = 0
 default subbranch = 0
 default path11 = 0
 default choice23 = 0   
-default option = false
+default opcion = False
 
 label start:
 
@@ -23,7 +23,21 @@ label start:
     if subbranch == 1:
         call esc_7A
         call esc_8A
-        
+        call esc_9A
+        call esc_10A
+        call esc_11A
+        call esc_12A
+        call esc_13A
+        call esc_14A
+        call esc_15A
+        call esc_16A
+        call esc_17A
+        call esc_18A
+        call esc_19A
+        call esc_20A
+        call esc_21A
+        call esc_22A
+
     elif subbranch == 21:
         call esc_7B
         call esc_7B_2
