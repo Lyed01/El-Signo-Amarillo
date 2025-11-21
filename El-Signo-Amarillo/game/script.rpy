@@ -1,7 +1,19 @@
 ﻿default branch = 0
+
 default subbranch = 0
+
+#variables branch 1
+
+
+#variables branch 2
+default rechazoATessie = false
+
+
+#variables branch 3
 default path11 = 0
 default choice23 = 0   
+ 
+
 
 label start:
 
@@ -36,18 +48,21 @@ label start:
         call esc_10B
         call esc_11B
         call esc_12B_1
+    if 
         call esc_12B_2
         call esc_13B
         call esc_14B
         call esc_15B
         call esc_16B
+    if rechazoATessie == true:
         call esc_17B_2A
-        call esc_17B_2B
         call esc_18B_2A
-        call esc_18B_2B
         call esc_19B_2A
-        call esc_19B_2B
         call esc_20B_2A
+    else:
+        call esc_17B_2B
+        call esc_18B_2B
+        call esc_19B_2B
         call esc_20B_2B
         call esc_21B_2B
         
