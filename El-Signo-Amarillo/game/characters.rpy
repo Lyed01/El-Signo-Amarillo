@@ -20,10 +20,23 @@ define n = Character(
 
 define sc = Character(
     "Scott",
-    color = "#89b4fa",
+    color = "#ff0000",
     what_prefix = "«",
     what_suffix = "»"
 )
+
+define scott_nino = Character(
+    "Scotty",
+    color = "#a8c9ff",
+    what_prefix = "«",
+    what_suffix = "»"
+)
+
+define madre = Character(
+
+    "Mama",
+    color = "#efb1de",
+    )
 
 define te = Character(
 
