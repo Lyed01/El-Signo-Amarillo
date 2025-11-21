@@ -1,4 +1,4 @@
-label escena_19_estudio_amanecer_mortal:
+label esc_19A:
 
     scene estudio_amanecer with fade
 

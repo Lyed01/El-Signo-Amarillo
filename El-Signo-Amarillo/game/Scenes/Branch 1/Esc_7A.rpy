@@ -1,4 +1,4 @@
-label escena_7_recomienda_salida_tessie:
+label esc_7A:
 
     scene estudio with fade
 

@@ -1,4 +1,4 @@
-label escena_17_estudio_madrugada_ruidos:
+label esc_17A:
 
     scene estudio_noche with fade
 

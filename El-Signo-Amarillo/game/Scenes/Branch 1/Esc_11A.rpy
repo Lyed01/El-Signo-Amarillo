@@ -1,4 +1,4 @@
-label escena_11_estudio_noche_lluvia:
+label esc_11A:
 
     scene estudio_noche_lluvia with fade
 

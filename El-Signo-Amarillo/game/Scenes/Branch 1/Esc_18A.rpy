@@ -1,4 +1,4 @@
-label escena_18_estudio_noche_locura:
+label esc_18A:
 
     scene estudio_caos with fade
 

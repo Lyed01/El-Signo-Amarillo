@@ -1,4 +1,5 @@
-label escena_12_estudio_lluvia_noche_tardia:
+label esc_12A:
+
 
     scene estudio_noche_tardia with fade
 
