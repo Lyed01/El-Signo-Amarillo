@@ -1,6 +1,6 @@
 # escena_10.rpy
 
-label escena_10_estudio:
+label esc_10B:
 
     scene estudio_tarde
     with fade

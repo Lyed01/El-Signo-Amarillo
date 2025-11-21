@@ -1,4 +1,4 @@
-label branch_escape_scene18:
+label esc_18B_2B:
 
     scene bg_street_morning_fog with fade
     play ambient "engine_idle_fog.ogg" fadein 1.5

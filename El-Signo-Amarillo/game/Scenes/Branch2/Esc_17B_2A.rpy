@@ -1,4 +1,4 @@
-label escena_17_rechazo:
+label esc_17B_2A:
 
     scene estudio_scott_manana with fade
 

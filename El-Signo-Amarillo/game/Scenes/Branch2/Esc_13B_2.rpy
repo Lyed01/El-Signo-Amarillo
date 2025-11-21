@@ -1,4 +1,4 @@
-label escena_13:
+label esc_13B:
 
     scene estudio_scott_tarde with fade
 

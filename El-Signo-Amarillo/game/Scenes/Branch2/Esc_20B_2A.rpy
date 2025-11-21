@@ -1,4 +1,4 @@
-label final_branch_scott_execution:
+label esc_20B_2A:
 
     scene bg_execution_yard with fade
     play ambient "wind.ogg" fadein 2.0

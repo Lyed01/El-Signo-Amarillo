@@ -1,4 +1,4 @@
-label branch_escape_scene21:
+label esc_21B_2B:
 
     scene bg_road_sunset with fade
     play ambient "car_road_low.ogg" fadein 1.5

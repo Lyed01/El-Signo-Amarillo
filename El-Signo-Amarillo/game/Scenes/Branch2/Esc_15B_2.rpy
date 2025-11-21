@@ -1,6 +1,6 @@
-label escena_15:
+label esc_15B:
 
-    scene estudio_scott_manana with fade
+    scene estudio_scottesc_B_manana with fade
 
     "La luz del sol entra tenue por las ventanas, iluminando el estudio con un tono cálido."
     "Los papeles y herramientas de la obra están esparcidos sobre la mesa."

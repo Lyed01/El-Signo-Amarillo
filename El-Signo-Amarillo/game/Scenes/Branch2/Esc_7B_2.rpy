@@ -1,6 +1,6 @@
 # escena_opcion2.rpy
 
-label opcion_2_tessie:
+label esc_7B_2:
 
     SCOTT "Tessie… deberías tomarte un tiempo libre. Salí unos días al campo, lejos del ruido, de esta ciudad que todo lo contamina. Te haría bien respirar aire limpio."
 

@@ -1,4 +1,4 @@
-label branch_escape_scene20:
+label esc_20B_2B:
 
     scene bg_car_interior_afternoon with dissolve
     play ambient "car_road_low.ogg" fadein 1.5

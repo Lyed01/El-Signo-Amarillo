@@ -1,4 +1,4 @@
-label escena_18:
+label esc_18B_2A:
 
     scene estudio_scott_dia with fade
 

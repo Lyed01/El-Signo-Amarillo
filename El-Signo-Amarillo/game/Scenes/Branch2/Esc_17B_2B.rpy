@@ -1,4 +1,4 @@
-label branch_escape_scott_tessie:
+label esc_17B_2B:
 
     scene bg_studio_morning with fade
     play ambient "morning_wind.ogg" fadein 2.0

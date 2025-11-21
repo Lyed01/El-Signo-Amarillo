@@ -29,8 +29,27 @@ label start:
         call esc_8B
         
     elif subbranch == 2:
-        call esc_7
-        call esc_8
+        call esc_7B_1
+        call esc_7B_2
+        call esc_8B
+        call esc_9B
+        call esc_10B
+        call esc_11B
+        call esc_12B_1
+        call esc_12B_2
+        call esc_13B
+        call esc_14B
+        call esc_15B
+        call esc_16B
+        call esc_17B_2A
+        call esc_17B_2B
+        call esc_18B_2A
+        call esc_18B_2B
+        call esc_19B_2A
+        call esc_19B_2B
+        call esc_20B_2A
+        call esc_20B_2B
+        call esc_21B_2B
         
     elif subbranch == 3:
         call esc_7C

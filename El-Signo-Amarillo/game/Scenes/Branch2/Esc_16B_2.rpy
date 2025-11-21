@@ -1,4 +1,4 @@
-label escena_16:
+label esc_16B:
 
     scene estudio_scott_manana with fade
 

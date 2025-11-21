@@ -1,4 +1,4 @@
-label escena_19:
+label esc_19B_2A:
 
     scene estudio_scott_tarde_nublada with fade
 
