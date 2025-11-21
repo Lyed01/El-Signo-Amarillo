@@ -51,6 +51,31 @@ define th = Character(
 
 
 # -----------------------------------------------------
+# PERSONAJES SECUNDARIOS (abreviaturas usadas en escenas)
+# -----------------------------------------------------
+
+define md = Character(
+    "Médico",
+    color = "#c9d1ff",
+)
+
+define ag = Character(
+    "Agente",
+    color = "#d1c9c9",
+)
+
+define of = Character(
+    "Oficial",
+    color = "#d1d1c9",
+)
+
+define es = Character(
+    "Espía",
+    color = "#c9d1b5",
+)
+
+
+# -----------------------------------------------------
 # OPCIONAL — PARA FUTUROS TEXTOS (Libro, documentos)
 # -----------------------------------------------------
 
