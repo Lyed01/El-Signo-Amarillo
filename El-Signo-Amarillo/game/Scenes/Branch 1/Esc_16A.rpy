@@ -1,4 +1,4 @@
-label escena_16_estudio_noche_opresiva:
+label esc_16A:
 
     scene estudio_noche with fade
 

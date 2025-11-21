@@ -1,4 +1,4 @@
-label escena_20_estudio_amanecer_gris:
+label esc_20A:
 
     scene estudio_amanecer_gris with fade
 

@@ -1,4 +1,4 @@
-label escena_8_atrio_iglesia_plaza_estudio:
+label esc_8A:
 
     scene plaza_atardecer with fade
 

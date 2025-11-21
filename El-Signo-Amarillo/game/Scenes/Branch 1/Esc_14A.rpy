@@ -1,4 +1,4 @@
-label escena_14_estudio_madrugada_quinque:
+label esc_14A:
 
     scene estudio_madrugada with fade
 

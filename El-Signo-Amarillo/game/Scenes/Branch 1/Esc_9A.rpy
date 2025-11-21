@@ -1,4 +1,4 @@
-label escena_9_estudio_atrio_manana:
+label esc_9A:
 
     scene estudio_manana with fade
 

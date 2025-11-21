@@ -1,5 +1,4 @@
-label escena_13_estudio_noche_lluvia_fina:
-
+label esc_13A:
     scene estudio_noche_lluvia with fade
 
     n "El estudio estaba envuelto en penumbra. Afuera, la lluvia golpeaba el empedrado con un ritmo constante, y cada relámpago iluminaba fugazmente las paredes cubiertas de bocetos. El humo de los cigarrillos formaba una bruma densa, tan espesa como el silencio entre ellos."

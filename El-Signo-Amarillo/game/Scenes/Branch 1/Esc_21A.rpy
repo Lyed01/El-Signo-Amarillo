@@ -1,4 +1,4 @@
-label escena_21_exterior_casa_amanecer:
+label esc_21A:
 
     scene exterior_casa_scott_amanecer with fade
 

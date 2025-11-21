@@ -1,4 +1,4 @@
-label escena_10_estudio_manana_tarde:
+label esc_10A:
 
     scene estudio_gris with fade
 
