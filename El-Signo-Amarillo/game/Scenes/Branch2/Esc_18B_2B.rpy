@@ -14,9 +14,9 @@ label esc_18B_2B:
 
     "Scott abre la puerta del auto; Tessie mira una última vez hacia las ventanas del estudio, donde la luz del sol empieza a filtrarse tímidamente."
 
-    tessie "(en voz baja) Parece… que todo fue un sueño."
+    te "(en voz baja) Parece… que todo fue un sueño."
 
-    scott "(serio, mientras enciende el motor) Entonces no miremos atrás."
+    sc "(serio, mientras enciende el motor) Entonces no miremos atrás."
 
     play sound "car_start.ogg"
 
@@ -29,7 +29,7 @@ label esc_18B_2B:
     "Por un momento, el aire parece calmo…"
 
     # Detalle del Signo Amarillo brillando
-    show yellow_sign_glow at center with slow_dissolve
+    show yellow_sign_glow at center with dissolve
     pause 1.0
     hide yellow_sign_glow with fade
 
@@ -37,6 +37,6 @@ label esc_18B_2B:
 
     "El sonido del motor se aleja, fundiéndose con el viento."
 
-    scene black with slow_fade
+    scene black with fade
 
     return

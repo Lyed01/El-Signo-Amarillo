@@ -13,9 +13,9 @@ label esc_9B:
 
     "Él la observa de reojo, notando la paz que irradia su presencia."
 
-    TESSIE "(riendo, relajada) No pensé que volvería a disfrutar tanto de esto."
+    te "(riendo, relajada) No pensé que volvería a disfrutar tanto de esto."
 
-    SCOTT "(sin dejar de pintar) A veces… el arte es lo único que mantiene las cosas en pie."
+    sc "(sin dejar de pintar) A veces… el arte es lo único que mantiene las cosas en pie."
 
     "Un silencio cálido se instala entre ambos. El estudio se vuelve un refugio momentáneo, lejos de las sombras que los acechan."
 

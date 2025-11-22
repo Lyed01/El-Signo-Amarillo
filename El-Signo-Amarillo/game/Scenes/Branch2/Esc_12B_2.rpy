@@ -9,7 +9,7 @@ label esc_12B_2:
     show tessie triste at left
     show scott tenso at right
 
-    "te" "…"
+    te "…"
 
     "Tessie respira hondo y retira lentamente las manos de la cubierta del libro."
 
@@ -17,7 +17,7 @@ label esc_12B_2:
 
     show scott aliviado at right
 
-    "sc" "Tessie… gracias. No entendés lo que podría haber pasado."
+    sc "Tessie… gracias. No entendés lo que podría haber pasado."
 
     show tessie seria at left
 
@@ -26,4 +26,4 @@ label esc_12B_2:
     "Ambos permanecen en silencio, unidos por una calma frágil… casi artificial."
 
     # Luego continuás hacia la siguiente escena
-    jump siguiente_escena  # Cambiá este jump por el label correcto
+return

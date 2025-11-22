@@ -16,13 +16,13 @@ label esc_16B:
 
         
         "Quedarse":
-            $ rechazoATessie = true
+            $ rechazoATessie = True
 
         
         "Irse con Tessie":
-            $ rechazoATessie = false
+            $ rechazoATessie = False
 
-        return
+    return
     # Aquí irán las dos opciones de Scott (Aceptar / Rechazar)
     # Puedo agregarlas cuando me digas.
     # jump escena_17  # Temporal

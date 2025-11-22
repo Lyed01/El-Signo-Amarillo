@@ -2,11 +2,11 @@
 
 label esc_7B_2:
 
-    SCOTT "Tessie… deberías tomarte un tiempo libre. Salí unos días al campo, lejos del ruido, de esta ciudad que todo lo contamina. Te haría bien respirar aire limpio."
+    sc "Tessie… deberías tomarte un tiempo libre. Salí unos días al campo, lejos del ruido, de esta ciudad que todo lo contamina. Te haría bien respirar aire limpio."
 
     "Ella lo mira, sorprendida por la serenidad en su voz."
 
-    SCOTT "Solo descansá. El mundo puede esperar."
+    sc "Solo descansá. El mundo puede esperar."
 
     "Tessie asiente, con un temblor leve en los labios. Hay un extraño brillo en su mirada: gratitud, desconcierto, algo íntimo y tembloroso."
 

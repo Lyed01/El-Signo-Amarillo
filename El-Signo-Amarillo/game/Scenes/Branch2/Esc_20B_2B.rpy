@@ -12,31 +12,31 @@ label esc_20B_2B:
     "TESSIE hojea el libro con la despreocupación de quien encuentra un objeto viejo sin importancia."
     "Las páginas crujen al pasar; el sol se refleja en el borde amarillento del papel."
 
-    tessie "(sonriendo levemente) Está lleno de símbolos raros… y frases en otro idioma. Escuchá esto, Scott:"
+    te "(sonriendo levemente) Está lleno de símbolos raros… y frases en otro idioma. Escuchá esto, Scott:"
     
-    tessie "(leyendo) “...bajo la mirada del rey, el sueño se disuelve y el cuerpo recuerda su verdadero nombre…”"
+    te "(leyendo) “...bajo la mirada del rey, el sueño se disuelve y el cuerpo recuerda su verdadero nombre…”"
 
     "SCOTT, al volante, asiente distraído. Al principio no presta demasiada atención, pero su expresión se endurece poco a poco."
 
-    tessie "(hojeando otra página) “...las ciudades se doblan sobre sí mismas, y los hombres olvidan su rostro…”"
-    tessie "(pausa, divertida) Vaya poesía oscura, ¿no te parece?"
+    te "(hojeando otra página) “...las ciudades se doblan sobre sí mismas, y los hombres olvidan su rostro…”"
+    te "(pausa, divertida) Vaya poesía oscura, ¿no te parece?"
 
     show scott driving_concern at left
-    scott "(suavemente) Déjame ver eso un momento, Tessie."
+    sc "(suavemente) Déjame ver eso un momento, Tessie."
 
     "Ella sonríe y le pasa el libro sin sospecha."
 
-    tessie "¿Lo reconocés?"
+    te "¿Lo reconocés?"
 
     show scott book_hold at left
     "SCOTT lo toma, observa las páginas abiertas y se queda inmóvil."
     "Sus dedos tiemblan apenas al rozar el símbolo en relieve de la portada."
 
-    scott "(en voz baja, casi para sí) Sí… lo he visto antes."
+    sc "(en voz baja, casi para sí) Sí… lo he visto antes."
 
-    tessie "¿Dónde?"
+    te "¿Dónde?"
 
-    scott "(tras una pausa, sin apartar la vista del libro) En un sueño… o en algo que preferiría no recordar."
+    sc "(tras una pausa, sin apartar la vista del libro) En un sueño… o en algo que preferiría no recordar."
 
     "El ruido del motor parece apagarse bajo la tensión creciente."
     "El auto sigue avanzando, pero el paisaje fuera de la ventana se siente más lejano, más irreal."

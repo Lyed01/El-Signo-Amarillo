@@ -33,10 +33,24 @@ define scott_nino = Character(
 )
 
 define madre = Character(
-
     "Mama",
     color = "#efb1de",
     )
+
+define modelo = Character(
+    "Rosi",
+    color = "#b42ee5", 
+)
+
+define soldado = Character(
+    "soldado",
+    color = "#490000",
+)
+
+define general = Character(
+    "general",
+    color = "#490000",
+)
 
 define te = Character(
 

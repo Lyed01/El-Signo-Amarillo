@@ -10,7 +10,7 @@ label esc_17B_2B:
 
     "TESSIE observa a SCOTT con expectación, su corazón latiendo rápido."
 
-    scott "Está bien… vamos. Juntos."
+    sc "Está bien… vamos. Juntos."
 
     "Una leve sonrisa se dibuja en el rostro de TESSIE."
 
@@ -25,6 +25,6 @@ label esc_17B_2B:
     "Saben que el mundo que conocen quedará atrás…"
     "…pero que se enfrentarán a él juntos."
 
-    scene black with slow_fade
+    scene black with fade
 
     return

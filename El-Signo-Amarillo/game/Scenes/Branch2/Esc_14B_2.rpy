@@ -7,7 +7,7 @@ label esc_14B:
     # Tessie despidiéndose
     show tessie neutral at center
     "La bruma invade el estudio mientras el viento agita las persianas."
-    "te" "Nos vemos, Scott…"
+    te "Nos vemos, Scott…"
     "TESSIE se despide con un gesto breve, su silueta perdiéndose entre la niebla de la ciudad."
 
     hide tessie with dissolve
@@ -20,11 +20,11 @@ label esc_14B:
     # Thomas aparece
     show thomas neutral at right with dissolve
 
-    "sc" "No quiero que nadie más se acerque a ese libro. ¿Entendés, Thomas? Es demasiado peligroso."
+    sc "No quiero que nadie más se acerque a ese libro. ¿Entendés, Thomas? Es demasiado peligroso."
 
-    "th" "Sí, señor. Nadie lo tocará."
+    th "Sí, señor. Nadie lo tocará."
 
     "El murmullo distante de la ciudad entra por las ventanas entreabiertas, mezclándose con el crujido de papeles y el eco de una amenaza silenciosa."
 
     # Punto final de la escena
-    jump escena_15   # Cambiá esto por el siguiente label
+return

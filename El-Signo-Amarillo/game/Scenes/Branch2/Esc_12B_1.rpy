@@ -9,23 +9,23 @@ label esc_12B_1:
     show tessie normal at left
     show scott alterado at right
 
-    "te" "Sostengo el libro entre mis manos... estos símbolos parecen moverse."
+    te "Sostengo el libro entre mis manos... estos símbolos parecen moverse."
 
-    "sc" "¡No abras eso! ¡Déjalo!"
+    sc "¡No abras eso! ¡Déjalo!"
 
     show tessie decidida at left
 
     "El aire se tensa. Tessie lo mira fijamente, sin soltar el libro."
 
-    "te" "…"
+    te "…"
 
     "Con un suspiro casi desafiante, Tessie abre el libro. Las páginas crujen como si protestaran."
 
     show scott miedo at right
 
-    "sc" "Tessie… no…"
+    sc "Tessie… no…"
 
     "Un viento frío atraviesa la habitación, trayendo consigo algo que ninguno de los dos puede comprender."
 
     # Aquí podés continuar a la siguiente parte, o conectar con otra opción
-    jump siguiente_escena  # cambiá esto por el label que corresponda
+return

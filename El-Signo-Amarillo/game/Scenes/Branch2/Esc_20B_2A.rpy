@@ -19,13 +19,13 @@ label esc_20B_2A:
     "O tal vez imagine a Tessie leyendo esta noticia."
 
     show officer at left
-    officer "Apunten."
+    general "Apunten."
 
     "SCOTT respira hondo. No tiembla."
 
     "Una ligera sonrisa cruza su rostro. No es desafío. Es resignación."
 
-    officer "¡Fuego!"
+    general "¡Fuego!"
 
     play sound "gunshots.ogg"
 
@@ -38,7 +38,7 @@ label esc_20B_2A:
 
     "Cuando la bruma vuelve a cubrir el patio, el cuerpo de SCOTT yace inmóvil, recostado contra la pared."
 
-    scene black with slow_fade
+    scene black with fade
     "Solo queda el silencio. El mismo que acompañó a Scott desde su estudio hasta este final inevitable."
 
     return

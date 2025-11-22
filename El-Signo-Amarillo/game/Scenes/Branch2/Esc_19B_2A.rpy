@@ -15,7 +15,7 @@ label esc_19B_2A:
 
     "Nadie responde. Solo el eco de los nudillos repitiendo el golpe, esta vez acompañado por un tono de voz autoritario:"
 
-    voz_regimen "¡Abra en nombre del régimen!"
+    soldado "¡Abra en nombre del régimen!"
 
     "SCOTT se queda inmóvil. El trapo cae de sus manos. La pintura fresca gotea desde el pincel hasta el suelo."
 
@@ -26,7 +26,7 @@ label esc_19B_2A:
 
     "Pero antes de hacerlo, la puerta se abre de golpe. Dos hombres uniformados irrumpen, seguidos por un oficial de mirada fría."
 
-    oficial "Scott. Está bajo arresto por posesión de material prohibido."
+    general "Scott. Está bajo arresto por posesión de material prohibido."
 
     "SCOTT no responde. Solo aprieta el libro contra el pecho, comprendiendo."
     "Entre el ruido de las botas y las órdenes secas, una idea le atraviesa la mente como un cuchillo: alguien habló."

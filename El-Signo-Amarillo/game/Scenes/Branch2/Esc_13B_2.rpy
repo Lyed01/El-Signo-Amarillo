@@ -7,7 +7,7 @@ label esc_13B:
     show tessie neutral at left
     show scott serio at right
 
-    "sc" "No puede caer en manos equivocadas."
+    sc "No puede caer en manos equivocadas."
 
     "SCOTT toma el libro de las manos de Tessie con firmeza, sus dedos apretando la cubierta con tensión contenida."
 
@@ -21,11 +21,11 @@ label esc_13B:
     show tessie preocupada at left
     show scott cansado at right
 
-    "te" "Scott…"
+    te "Scott…"
 
     "TESSIE observa su gesto, la determinación endureciendo el rostro de Scott. El aire parece volverse más pesado entre ellos."
 
     "El viento golpea las ventanas con insistencia, trayendo consigo el murmullo lejano de la ciudad y una sensación de amenaza latente."
 
     # Continúa a la próxima escena
-    jump escena_14   # Cambiá este label por el próximo en tu ruta
+return

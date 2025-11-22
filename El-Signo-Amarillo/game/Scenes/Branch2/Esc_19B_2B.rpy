@@ -13,19 +13,19 @@ label esc_19B_2B:
 
     "TESSIE, apoyada contra la ventanilla, deja escapar un suspiro. Busca algo en el asiento trasero y encuentra un libro cubierto de polvo, con la portada desvanecida."
 
-    tessie "(confundida) Scott… ¿habías traído esto?"
+    te "(confundida) Scott… ¿habías traído esto?"
 
-    scott "(levantando la vista, distraído) ¿El qué?"
+    sc "(levantando la vista, distraído) ¿El qué?"
 
     "TESSIE sostiene el libro a la luz del sol. La portada está desvanecida."
 
-    tessie "(leyendo apenas) No tiene título… parece antiguo."
+    te "(leyendo apenas) No tiene título… parece antiguo."
 
     "TESSIE levanta un poco más el libro. En la tapa se distingue un relieve tenue, un símbolo que parece moverse bajo la superficie."
 
-    scott "…No… no lo recuerdo. ¿Dónde lo encontraste?"
+    sc "…No… no lo recuerdo. ¿Dónde lo encontraste?"
 
-    tessie "Estaba junto al bolso."
+    te "Estaba junto al bolso."
 
     "Sin esperar respuesta, TESSIE abre el libro."
 
@@ -35,10 +35,10 @@ label esc_19B_2B:
 
     "Sus ojos recorren las primeras líneas. Su expresión cambia: primero curiosidad… luego un desconcierto helado."
 
-    tessie "(leyendo en voz baja) “El que contempla el Signo Amarillo queda ligado al destino del rey que no muere…”"
+    te "(leyendo en voz baja) “El que contempla el Signo Amarillo queda ligado al destino del rey que no muere…”"
 
     # Efecto visual del Signo Amarillo brillando
-    show yellow_sign_glow at center with slow_dissolve
+    show yellow_sign_glow at center with dissolve
     pause 1.2
     hide yellow_sign_glow with fade
 

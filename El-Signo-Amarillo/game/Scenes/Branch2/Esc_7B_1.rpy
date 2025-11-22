@@ -2,11 +2,11 @@
 
 label esc_7B_1:
 
-    SCOTT "Mira, Tessie... no te atormentes más. Ven, siéntate un momento junto a la ventana. Respirá el aire, aunque huela a óxido. Fumá un poco si eso te ayuda."
+    sc "Mira, Tessie... no te atormentes más. Ven, siéntate un momento junto a la ventana. Respirá el aire, aunque huela a óxido. Fumá un poco si eso te ayuda."
 
     "Tessie se sienta en el alféizar. La brasa del cigarrillo ilumina su rostro, temblando con el viento."
 
-    SCOTT "Solo necesitás dejar que el mundo se aquiete un rato. El tabaco y la luz bastarán por ahora... no curan, pero sirven."
+    sc "Solo necesitás dejar que el mundo se aquiete un rato. El tabaco y la luz bastarán por ahora... no curan, pero sirven."
 
     "Ella asiente en silencio. El humo se mezcla con la bruma gris que entra por la ventana."
 
