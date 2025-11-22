@@ -1,7 +1,10 @@
-﻿default branch = 0
+default branch = 0
 default subbranch = 0
 
-#variables branch 1
+# variables branch 1
+
+# variables branch 2
+default rechazoATessie = False
 
 
 #variables branch 2
@@ -12,6 +15,10 @@ default tessieIgnoraScott = False
 default path11 = 0
 default choice23 = 0   
  
+
+# variables branch 3
+default path11 = 0
+default choice23 = 0
 
 default opcion = False
 
@@ -75,7 +82,9 @@ label start:
             call esc_19B_2B
             call esc_20B_2B
             call esc_21B_2B
-        
+        call esc_7
+        call esc_8
+    
     elif subbranch == 3:
         call esc_7C
         call esc_8C

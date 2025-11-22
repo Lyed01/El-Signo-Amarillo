@@ -13,12 +13,9 @@ label esc_16B:
     "La luz matinal entra por las ventanas, iluminando sus rostros mientras el estudio parece estrecharse a su alrededor, atrapando la tensión de una decisión que cambiaría todo."
 
     menu:
-
-        
         "Quedarse":
             $ rechazoATessie = True
 
-        
         "Irse con Tessie":
             $ rechazoATessie = False
 
