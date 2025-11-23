@@ -1,4 +1,4 @@
-label escena_14:
+label esc_14A_1:
 
     scene estudio_scott_tarde
 

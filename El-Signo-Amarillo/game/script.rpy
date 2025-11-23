@@ -3,9 +3,6 @@ default subbranch = 0
 
 # variables branch 1
 
-# variables branch 2
-default rechazoATessie = False
-
 
 #variables branch 2
 default rechazoATessie = False
@@ -14,11 +11,6 @@ default tessieIgnoraScott = False
 #variables branch 3
 default path11 = 0
 default choice23 = 0   
- 
-
-# variables branch 3
-default path11 = 0
-default choice23 = 0
 
 default opcion = False
 
@@ -46,8 +38,10 @@ label start:
         call esc_11A
         call esc_12A
         call esc_13A
-        call esc_14A
-        call esc_15A
+        call esc_14A_1
+        call esc_14A_2
+        call esc_15A_1
+        call esc_15A_2
         call esc_16A
         call esc_17A
         call esc_18A
