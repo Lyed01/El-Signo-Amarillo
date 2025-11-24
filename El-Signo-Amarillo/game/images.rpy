@@ -53,7 +53,8 @@ image te4 = "images/char/tessie4.webp"
 image tho1 = "images/char/thomas1.webp"
 image tho = "images/char/thomas2.webp"
 
-
+# Agente
+image ag = "images/char/agente.png"
 
 # el signo amarillo brillando
 image yellow_sign_glow = "images/effects/yellow_sign_glow.png"
