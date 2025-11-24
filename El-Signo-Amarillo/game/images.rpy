@@ -41,12 +41,11 @@ image bg estudioNoche    = im.Scale("images/bg/estudioNoche.webp", 1920, 1080)
 
 # Scott (sin expresiones, versión base)
 image sc1 = im.Scale("images/char/scott222.webp", 408*2.2, 284*2.2)
-image scott_nino = im.Scale("images/char/scott_nino.png",409*2, 611*2)
-image sc2 = "images/char/scott2.webp"
+image scott_nino = im.Scale("images/char/scott_nino.png",409, 611)
 
 # Tessie (sin expresiones, versión base)
-image te1 = im.Scale("images/char/tessie1.png", 399*2.2, 626*2.2)
-image te = im.Scale("images/char/tessie2.png", 401*2.5, 270*2.5)
+image te1 = im.Scale("images/char/tessie1.png", 399, 626)
+image te = im.Scale("images/char/tessie2.png", 401, 270)
 image te3 = "images/char/tessie3.webp"
 image te4 = "images/char/tessie4.webp"
 
