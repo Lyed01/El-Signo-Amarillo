@@ -1,6 +1,6 @@
 label esc_7A:
 
-    scene estudio with fade
+    scene bg estudio1 with fade
 
     n "El estudio había quedado sumido en un silencio denso, casi tangible, después del relato de Tessie. La luz gris que entraba por la ventana daba a sus mejillas un matiz pálido, y sus manos, aún temblorosas, se aferraban al borde de la mesa como si aquella madera fuera lo único que la mantenía en pie."
 
