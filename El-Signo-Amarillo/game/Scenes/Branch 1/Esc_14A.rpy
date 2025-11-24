@@ -1,6 +1,6 @@
-label esc_14A_2:
+label esc_14A:
 
-    scene estudio_madrugada with fade
+    scene bg estudioNoche with fade
 
     n "El estudio estaba casi a oscuras. Solo el quinqué sobre la mesa derramaba un círculo tembloroso de luz sobre los papeles, los pinceles y las tazas frías de café. Afuera, la lluvia había cesado, pero el aire seguía cargado de humedad, y el silencio de la ciudad era tan profundo que podía oírse el crujido de la madera al dilatarse."
 

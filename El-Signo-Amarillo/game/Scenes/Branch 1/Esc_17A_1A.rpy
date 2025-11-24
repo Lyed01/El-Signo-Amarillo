@@ -1,6 +1,6 @@
 label esc_17A_1A:
 
-    scene estudio_scott_atardecer_dorado
+    scene bg estudio1 with fade
 
     n "El sol se filtraba en haces oblicuos por las cortinas entreabiertas. El polvo flotaba en el aire como un enjambre de partículas doradas, y el estudio —por una vez— no parecía un refugio ni una trinchera, sino un lugar vivo, casi amable."
 
@@ -12,15 +12,11 @@ label esc_17A_1A:
 
     te "—Le juro que así, tan serio, parece un cirujano —dijo con una media sonrisa."
 
-    n "Scott arqueó una ceja sin dejar de pintar."
-
     sc "—Eso explicaría por qué las modelos suelen salir vivas de mis retratos."
 
     n "Tessie rió. Fue una risa limpia, cristalina, como una nota que atraviesa la habitación y la ilumina."
 
-    te "—No sé si vivas, pero al menos hermosas —bromeó."
-
-    n "Él sonrió."
+    te "—No sé si vivas, pero al menos hermosas."
 
     sc "—La hermosura no la invento yo. Solo la registro antes de que el mundo la estropee."
 
@@ -28,40 +24,28 @@ label esc_17A_1A:
 
     te "—A veces olvido que también lo estropea a usted."
 
-    n "Scott bajó el pincel."
-
     sc "—¿El mundo?"
 
-    n "—La ciudad. Los hombres del atrio. Todo eso que está allá afuera. —Hizo un gesto vago hacia la ventana—. Pero aquí adentro parece no existir."
+    te "—La ciudad. Los hombres del atrio. Todo eso que está allá afuera. Pero aquí adentro parece no existir."
 
-    n "Scott la observó en silencio, y por un momento sus miradas se cruzaron. El aire entre ambos se volvió denso, cargado de una calidez difícil de nombrar."
+    n "Scott la observó en silencio; el aire entre ambos se volvió cálido, denso."
 
-    sc "—Quizás ese sea el secreto —murmuró él—. Fingir que lo de afuera no existe… hasta que nos lo creemos."
-
-    n "Tessie sonrió apenas, inclinando la cabeza."
+    sc "—Quizás ese sea el secreto. Fingir que lo de afuera no existe… hasta que nos lo creemos."
 
     te "—Entonces sigamos fingiendo."
 
-    n "El reloj marcó las seis. Afuera, los sonidos de la ciudad parecían amortiguados, lejanos. Solo quedaba el murmullo de las cerdas del pincel sobre la tela, el golpeteo suave del bastidor, y sus respiraciones acompasadas."
-
-    n "Scott retrocedió unos pasos, evaluando la pintura."
+    n "El reloj marcó las seis. Afuera, los sonidos de la ciudad parecían amortiguados, lejanos. Solo quedaba el murmullo del pincel y sus respiraciones."
 
     sc "—Ya casi está."
 
-    te "—¿Y le gusta? —preguntó ella, sin moverse."
+    te "—¿Y le gusta?"
 
-    sc "—Mucho. —La miró con una calma nueva—. Por primera vez, me gusta pintar lo que tengo enfrente… y no lo que temo perder."
-
-    n "Tessie sonrió de lado."
+    sc "—Mucho. Por primera vez, me gusta pintar lo que tengo enfrente… y no lo que temo perder."
 
     te "—Entonces deje que el miedo se canse."
 
-    n "Rieron los dos, suave, sin estridencias, con la complicidad de quienes, al menos por un momento, creen haber engañado a la oscuridad."
+    n "Rieron juntos, suave y cómplice. El estudio quedó envuelto en un silencio amable, tibio."
 
-    n "La tarde seguía avanzando, bañando el estudio en tonos de miel. Por un instante, el tiempo pareció suspendido entre las risas, el olor del óleo y el brillo de la tela recién pintada."
-
-    n "Y aunque el silencio regresó, fue un silencio amable, tibio, como si el peligro —esa sombra que rondaba entre los días— hubiera decidido alejarse…"
-
-    n "O quizás solo estaba esperando que volvieran a bajar la guardia."
+    n "Pero bajo la tela que cubría el primer retrato, algo pareció crujir. Como si el lienzo respirara."
 
     return

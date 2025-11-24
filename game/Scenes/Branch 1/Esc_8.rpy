@@ -1,6 +1,6 @@
-label esc_8A:
+label escena_8_atrio_iglesia_plaza_estudio:
 
-    scene bg atrio_iglesia_agente with fade
+    scene plaza_atardecer with fade
 
     n "La tarde descendía sobre la ciudad con un resplandor grisáceo, apagado por la bruma y el humo industrial que flotaba sobre los techos. En el atrio de la iglesia vecina, aún podía verse al agente del régimen, inmóvil, apoyado en la baranda de piedra, con el rostro blando y abultado vuelto hacia la calle. Sus ojos, hundidos en la penumbra, parecían seguir cada movimiento con un interés repulsivo."
 

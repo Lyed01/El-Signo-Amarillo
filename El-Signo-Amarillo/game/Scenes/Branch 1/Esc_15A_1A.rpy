@@ -1,6 +1,6 @@
-label escena_15:
+label esc_15A_1A:
 
-    scene estudio_scott_atardecer
+    scene bg estudio2 with fade
 
     n "El sol se filtraba por la ventana con un resplandor denso, amarillento, casi febril. La luz atravesaba el humo de los cigarrillos y los velos de polvo, tiñendo el estudio con una calma tensa, como si el aire mismo estuviera cansado de respirar."
 
@@ -20,15 +20,15 @@ label escena_15:
 
     n "Scott encendió un cigarrillo y exhaló despacio."
 
-    sc "—Entonces deberías quedarte todo el tiempo que necesites." 
-    sc "—" 
+    sc "—Entonces deberías quedarte todo el tiempo que necesites."
+    sc "—"
     sc "Intentó sonreír, pero su voz tenía un tono grave, preocupado."
 
     n "Tessie sonrió también, aunque su expresión era más melancólica que alegre."
 
     te "—No quiero ser una carga."
 
-    sc "—No lo sos." 
+    sc "—No lo sos."
     sc "—Solo parecés cansada."
 
     n "Ella dudó unos segundos antes de hablar."
@@ -47,12 +47,12 @@ label escena_15:
 
     sc "—¿Qué soñaste?"
 
-    te "—Estaba en una calle que no conocía. Era de noche, pero había una especie de luz amarilla en el aire, como si viniera de abajo, de la tierra misma. Caminaba sola, y detrás de mí se escuchaban pasos. Al principio creí que era una persona… pero cuando me di vuelta, eran muchos." 
+    te "—Estaba en una calle que no conocía. Era de noche, pero había una especie de luz amarilla en el aire, como si viniera de abajo, de la tierra misma. Caminaba sola, y detrás de mí se escuchaban pasos. Al principio creí que era una persona… pero cuando me di vuelta, eran muchos."
     te "—Una multitud entera."
 
     n "Scott la observaba sin moverse."
 
-    te "—No tenían rostro. Todos llevaban el mismo abrigo, los mismos movimientos, como si fueran copias unos de otros. Pero en medio de todos…" 
+    te "—No tenían rostro. Todos llevaban el mismo abrigo, los mismos movimientos, como si fueran copias unos de otros. Pero en medio de todos…"
     te "—había un par de ojos. Solamente eso: dos ojos encendidos, brillando entre la multitud, siguiéndome."
 
     n "Scott dejó el cigarrillo en el cenicero sin apagarlo."
@@ -65,12 +65,12 @@ label escena_15:
 
     n "La frase cayó pesada, y durante un instante, Scott sintió el impulso de mirar hacia el lienzo cubierto, pero se contuvo."
 
-    te "—No era un sueño." 
+    te "—No era un sueño."
     te "—Lo sé. Cuando desperté, escuché los pasos todavía. Afuera. En la calle."
 
     n "Scott se levantó con lentitud y fue hasta la ventana. Las luces del atardecer bañaban la plaza, vacía, silenciosa. Nada se movía. Ni siquiera el viento."
 
-    sc "—No hay nadie, Tess." 
+    sc "—No hay nadie, Tess."
     sc "—Solo el ruido de la ciudad."
 
     n "Ella lo observó, con algo entre ternura y desesperanza."

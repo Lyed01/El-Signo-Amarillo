@@ -1,6 +1,6 @@
 label esc_18A:
 
-    scene estudio_caos with fade
+    scene bg estudioNoche with fade
 
     n "El resplandor amarillento llenaba el estudio entero, deformando los objetos, borrando los límites entre materia y sombra."
     n "Todo temblaba: el suelo, los cristales, los cuerpos. La realidad parecía derretirse en una masa viscosa, y el aire se volvió pesado como un líquido."

@@ -1,6 +1,6 @@
 label esc_21A:
 
-    scene exterior_casa_scott_amanecer with fade
+    scene bg casa_scott with fade
 
     n "El amanecer había llegado del todo, pero su luz no era limpia. Un sol amortajado, de tono ceniciento, se alzaba sobre la ciudad."
     n "La neblina lo envolvía todo: los árboles, las verjas, los techos, y el edificio donde Scott había vivido y pintado."

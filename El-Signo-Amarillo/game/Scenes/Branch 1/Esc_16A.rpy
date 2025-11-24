@@ -1,6 +1,6 @@
 label esc_16A:
 
-    scene estudio_noche with fade
+    scene bg estudioNoche with fade
 
     n "El amanecer aún no llegaba. El estudio estaba sumido en una penumbra viscosa, impregnada de humo, polvo y el olor metálico del aire húmedo."
     n "Afuera, el viento arrastraba papeles por la plaza, y el repique distante de una campana rota marcaba la hora sin exactitud."

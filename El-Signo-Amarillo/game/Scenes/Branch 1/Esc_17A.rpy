@@ -1,6 +1,6 @@
 label esc_17A:
 
-    scene estudio_noche with fade
+    scene bg estudioNoche with fade
 
     n "El quinqué se había apagado hacía rato, pero el estudio aún seguía iluminado por una claridad incierta, amarillenta, que no parecía venir de ningún lugar."
     n "El libro permanecía abierto sobre la mesa, las páginas vibrando levemente como si respiraran."

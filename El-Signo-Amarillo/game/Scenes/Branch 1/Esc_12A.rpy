@@ -1,7 +1,6 @@
 label esc_12A:
 
-
-    scene estudio_noche_tardia with fade
+    scene bg estudioNoche with fade
 
     n "El reloj marcaba las once. La lluvia seguía golpeando los cristales con un ritmo constante, y el humo del cigarrillo de Scott se mezclaba con el olor húmedo del aceite y el yeso. El estudio estaba en penumbra, solo iluminado por la lámpara sobre el caballete, que proyectaba sombras alargadas sobre las paredes."
 

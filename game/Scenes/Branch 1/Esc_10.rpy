@@ -1,6 +1,6 @@
-label esc_10A:
+label escena_10_estudio_manana_tarde:
 
-    scene bg estudio1 with fade
+    scene estudio_gris with fade
 
     n "La luz que entraba por la ventana era tenue, difusa por la bruma que cubría la ciudad. El humo de las fábricas teñía los rayos del sol de un tono amarillento, como si la propia atmósfera se hubiera contagiado del color enfermizo que persistía en los cuadros de Scott."
 

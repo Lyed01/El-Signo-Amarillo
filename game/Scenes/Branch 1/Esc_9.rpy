@@ -1,6 +1,6 @@
-label esc_9A:
+label escena_9_estudio_atrio_manana:
 
-    scene bg estudio1 with fade
+    scene estudio_manana with fade
 
     n "La neblina cubría la plaza como un velo espeso. El aire olía a carbón y humedad, y el sonido distante de un órgano desafinado emergía desde la iglesia vecina, ahora vacía y en venta. Scott se encontraba frente a la ventana, observando la figura inmóvil del agente en el atrio: el mismo hombre blando, gris y silencioso que desde hacía días parecía haberse fundido con la piedra."
 
@@ -42,7 +42,7 @@ label esc_9A:
 
     n "Thomas apretó los puños."
 
-    th "—Me acerqué, señor. No sé qué me dio. Le pegué. Un golpe directo. Pero cuando lo hice… sentí que mi mano se hundía, como si no golpeara carne, sino algo blando, una masa sin huesos."
+    th "—Me acerqué, señor. No sé qué me dio. Le pegué. Un golpe directo. Pero cuando lo hice… sentí que mi mano se hundía, como si no golpeara carne, sino algo blando, una masa sin huesos." 
     th "—Él me agarró la muñeca. Fue como meterla en un pantano helado. Y cuando logré soltarme…"
 
     n "Thomas extendió la mano temblorosa."

@@ -1,6 +1,6 @@
 label esc_19A:
 
-    scene estudio_amanecer with fade
+    scene bg estudio1 with fade
 
     n "Una claridad pálida comenzaba a filtrarse por las ventanas rotas. No era la luz del día, sino un resplandor muerto, sin temperatura, que parecía brotar desde las paredes mismas."
     n "El aire olía a polvo y óxido, y el estudio —antes cálido, lleno de pinceles y vida— ahora era un santuario arrasado, cubierto por cenizas amarillas."

@@ -1,6 +1,6 @@
-label esc_15A_2:
+label esc_15A:
 
-    scene estudio_noche with fade
+    scene bg estudioNoche with fade
 
     n "El ruido del agua contra los cristales era leve, casi hipnótico. En el estudio, la luz del quinqué parpadeaba, derramando un tono ámbar que volvía todo más irreal: los lienzos, las sombras, los rostros."
     n "El libro amarillo descansaba sobre la mesa, cerrado, como un corazón que todavía latía."

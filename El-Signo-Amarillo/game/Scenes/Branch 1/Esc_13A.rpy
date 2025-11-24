@@ -1,5 +1,5 @@
 label esc_13A:
-    scene estudio_noche_lluvia with fade
+    scene bg estudio_noche_lluvia with fade
 
     n "El estudio estaba envuelto en penumbra. Afuera, la lluvia golpeaba el empedrado con un ritmo constante, y cada relámpago iluminaba fugazmente las paredes cubiertas de bocetos. El humo de los cigarrillos formaba una bruma densa, tan espesa como el silencio entre ellos."
 
@@ -41,7 +41,7 @@ label esc_13A:
 
     te "—¿Como ahora?"
 
-    sc "—Exactamente igual." 
+    sc "—Exactamente igual."
     sc "—La última vez que lo vi fue en la academia. Estaba detrás de un retrato mío, en la exposición. No lo pinté, pero su cara estaba allí, mirándome desde el lienzo. Esa noche quemé todo y me fui."
 
     n "El viento golpeó la ventana con violencia. Tessie se estremeció."
@@ -71,3 +71,4 @@ label esc_13A:
     n "El estudio quedó en silencio, salvo por el ruido de la lluvia y el humo que subía lento, como un rezo sin fe."
 
     return
+

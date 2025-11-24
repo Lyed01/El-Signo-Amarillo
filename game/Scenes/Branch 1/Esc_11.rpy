@@ -1,6 +1,6 @@
-label esc_11A:
+label escena_11_estudio_noche_lluvia:
 
-    scene bg estudioNoche with fade
+    scene estudio_noche_lluvia with fade
 
     n "La luz del quinqué temblaba sobre los lienzos apoyados contra la pared. Afuera, la lluvia caía fina, dejando un murmullo constante sobre los techos de metal. El estudio olía a aceite de linaza y cigarrillos; un refugio cálido en medio del aire húmedo que traía el otoño."
 
@@ -14,7 +14,7 @@ label esc_11A:
 
     n "Ella asintió lentamente."
 
-    te "—Sí… pero esta vez es diferente. No hay ruido, no hay gente. Solo la plaza, vacía. Estoy sola, y el cielo es del color del plomo. En el atrio de la iglesia hay un hombre… el mismo de siempre, el del rostro blando. Me mira, y cuando quiero moverme, no puedo. Ni siquiera respirar."
+    te "—Sí… pero esta vez es diferente. No hay ruido, no hay gente. Solo la plaza, vacía. Estoy sola, y el cielo es del color del plomo. En el atrio de la iglesia hay un hombre… el mismo de siempre, el del rostro blando. Me mira, y cuando quiero moverme, no puedo. Ni siquiera respirar." 
     te "—Siento que me observa incluso después de despertar."
 
     n "Scott se acercó, apagando el cigarrillo en el borde del cenicero."
@@ -63,7 +63,7 @@ label esc_11A:
 
     n "Él la rodeó con un brazo, sin apartar la vista de la ventana."
 
-    sc "—Yo también, Tess. Pero prometeme una cosa: si vuelve a mirarte… no le devolvas la mirada."
+    sc "—Yo también, Tess. Pero prometeme una cosa: si vuelve a mirarte… no le devuelvas la mirada."
 
     n "Ella asintió despacio."
 

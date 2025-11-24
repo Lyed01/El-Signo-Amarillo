@@ -1,6 +1,6 @@
 label esc_22A:
 
-    scene estudio_scott_crepusculo with fade
+    scene bg estudioNoche with fade
 
     n "La luz del día ya no regresó. El tiempo parecía suspendido dentro del estudio, donde el aire se espesaba como resina y cada objeto flotaba entre la vigilia y el sueño."
     n "La ciudad afuera había quedado en silencio: sin motores, sin voces, sin campanas. Solo un viento tenue que traía polvo y el eco lejano de algo que ya no existía."
@@ -52,7 +52,6 @@ label esc_22A:
     n "Afuera, la ciudad seguía en calma, ignorante. El viento movió una hoja de papel por la calle, una hoja que llevaba impreso un símbolo apenas visible: una espiral abierta, un ojo, un trazo curvo."
 
     n "La cámara se aleja. El resplandor amarillo crece, lentamente, detrás de las nubes."
-
 
     scene black with fade
     n "CORTE A NEGRO. Silencio. Solo queda el rumor leve de algo que respira."

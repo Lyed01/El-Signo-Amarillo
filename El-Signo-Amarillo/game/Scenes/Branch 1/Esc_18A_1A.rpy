@@ -1,6 +1,6 @@
 label esc_18A_1A:
 
-    scene estudio_scott_noche
+    scene bg estudioNoche with fade
 
     n "La ciudad estaba cubierta por un manto de niebla y silencio. Afuera, los faroles de la plaza se reflejaban en los adoquines húmedos, pero ninguna sombra se movía. Solo el murmullo lejano de la lluvia reciente y el eco de pasos que ya habían partido completaban la calma inquietante."
 

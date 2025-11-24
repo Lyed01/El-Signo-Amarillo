@@ -1,6 +1,6 @@
 label esc_19A_1A:
 
-    scene estudio_scott_noche_profunda
+    scene bg estudioNoche with fade
 
     n "La lámpara sobre el caballete proyectaba un círculo cálido de luz, suficiente para iluminar el lienzo y los trazos sobre la mesa de trabajo. Afuera, la ciudad dormía bajo un manto de niebla, el silencio roto apenas por un ocasional ladrido lejano o el golpe de una puerta que se cerraba en la distancia."
 

@@ -1,6 +1,6 @@
 label esc_20A:
 
-    scene estudio_amanecer_gris with fade
+    scene bg estudio1 with fade
 
     n "El día nacía sin luz. Una claridad enferma, lechosa, se derramaba sobre los escombros del estudio."
     n "El aire olía a madera quemada, aceite rancio y polvo antiguo. Todo estaba cubierto por una pátina amarilla, como si el mundo entero se hubiese secado dentro de una pintura."
