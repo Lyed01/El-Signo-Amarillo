@@ -1,4 +1,4 @@
-label esc_15A:
+label esc_15A_2A:
 
     scene bg estudioNoche with fade
 
