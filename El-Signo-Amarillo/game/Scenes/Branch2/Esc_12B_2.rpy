@@ -6,8 +6,8 @@ label esc_12B_2:
 
     "El estudio permanece en silencio, roto solo por el leve crujido de las páginas del libro cerrado."
 
-    show tessie triste at left
-    show scott tenso at right
+    show te at left
+    show sc1 at right
 
     te "…"
 
@@ -15,12 +15,11 @@ label esc_12B_2:
 
     "Sus ojos bajan al suelo, como si estuviera calculando el peso de lo que casi hizo."
 
-    show scott aliviado at right
+    show sc1 at right
 
     sc "Tessie… gracias. No entendés lo que podría haber pasado."
 
-    show tessie seria at left
-
+    show te at left
     "El viento sigue azotando las ventanas, trayendo consigo olor a humo y metal."
 
     "Ambos permanecen en silencio, unidos por una calma frágil… casi artificial."

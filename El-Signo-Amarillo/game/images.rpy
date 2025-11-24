@@ -51,3 +51,8 @@ image te4 = "images/char/tessie4.webp"
 # Thomas (sin expresiones, version base)
 image tho1 = "images/char/thomas1.webp"
 image tho = "images/char/thomas2.webp"
+
+
+
+# el signo amarillo brillando
+image yellow_sign_glow = "images/effects/yellow_sign_glow.png"

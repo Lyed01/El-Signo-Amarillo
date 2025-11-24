@@ -18,17 +18,9 @@ label esc_20B_2A:
     "Por un instante, cierra los ojos. Tal vez recuerde su estudio… la textura del óleo en sus dedos…"
     "O tal vez imagine a Tessie leyendo esta noticia."
 
-    show officer at left
-    general "Apunten."
-
-    "SCOTT respira hondo. No tiembla."
-
-    "Una ligera sonrisa cruza su rostro. No es desafío. Es resignación."
-
-    general "¡Fuego!"
-
-    play sound "gunshots.ogg"
-
+    scene black with fade
+    play sound audio.sfx_disparos
+    scene bg campo_fusilacion with fade
     "El estruendo corta el amanecer."
     "Las aves levantan vuelo desde los muros."
     "El humo de la pólvora se disipa lentamente."

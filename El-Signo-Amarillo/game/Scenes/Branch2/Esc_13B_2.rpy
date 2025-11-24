@@ -4,8 +4,8 @@ label esc_13B:
 
     play ambience "viento.ogg" fadein 1.0
 
-    show tessie neutral at left
-    show scott serio at right
+    show te at left
+    show sc1 at right
 
     sc "No puede caer en manos equivocadas."
 
@@ -18,8 +18,8 @@ label esc_13B:
 
     "Cierra el cajón lentamente, como si estuviera sellando un secreto demasiado peligroso para ver la luz."
 
-    show tessie preocupada at left
-    show scott cansado at right
+    show te at left
+    show sc1 at right
 
     te "Scott…"
 

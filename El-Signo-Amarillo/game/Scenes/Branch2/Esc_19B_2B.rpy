@@ -6,8 +6,8 @@ label esc_19B_2B:
     "El sol se hunde lentamente detrás de los campos dorados."
     "El auto de SCOTT avanza por una carretera vacía, flanqueada por árboles que parecen observarlos en silencio."
 
-    show scott driving at left
-    show tessie car_passenger at right
+    show sc1 at left
+    show te at right
 
     "Dentro, el aire es espeso, cargado de cansancio y expectativa."
 
@@ -29,7 +29,7 @@ label esc_19B_2B:
 
     "Sin esperar respuesta, TESSIE abre el libro."
 
-    play sound "dust_page.ogg"
+    play sound audio.theme_main
 
     "El papel amarillento exhala un polvo fino."
 
