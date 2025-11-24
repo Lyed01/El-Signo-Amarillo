@@ -1,15 +1,15 @@
 label esc_15B:
 
-    scene bg estudio2 with fade
+    scene bg estudio1 with fade
 
     "La luz del sol entra tenue por las ventanas, iluminando el estudio con un tono cálido."
     "Los papeles y herramientas de la obra están esparcidos sobre la mesa."
 
-    show tessie neutral at left with dissolve
+    show te at left with dissolve
 
     "TESSIE llega, con pasos vacilantes, y se detiene frente a SCOTT."
 
-    show scott neutral at right with dissolve
+    show sc1 at right with dissolve
 
     te "Scott… hay algo que necesito decirte."
 

@@ -6,14 +6,14 @@ label esc_12B_1:
 
     "El viento golpea las ventanas, mezclando el olor a humo industrial con el de papel viejo. La ciudad, cubierta por la bruma, parece contener la respiración."
 
-    show tessie normal at left
-    show scott alterado at right
+    show te at left
+    show sc1 at right
 
     te "Sostengo el libro entre mis manos... estos símbolos parecen moverse."
 
     sc "¡No abras eso! ¡Déjalo!"
 
-    show tessie decidida at left
+    show te at left
 
     "El aire se tensa. Tessie lo mira fijamente, sin soltar el libro."
 
@@ -21,7 +21,7 @@ label esc_12B_1:
 
     "Con un suspiro casi desafiante, Tessie abre el libro. Las páginas crujen como si protestaran."
 
-    show scott miedo at right
+    show sc1 at right
 
     sc "Tessie… no…"
 

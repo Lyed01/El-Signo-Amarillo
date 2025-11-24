@@ -5,20 +5,20 @@ label esc_14B:
     play ambience "viento.ogg" fadein 1.0
 
     # Tessie despidiéndose
-    show tessie neutral at center
+    show te at center
     "La bruma invade el estudio mientras el viento agita las persianas."
     te "Nos vemos, Scott…"
     "TESSIE se despide con un gesto breve, su silueta perdiéndose entre la niebla de la ciudad."
 
-    hide tessie with dissolve
+    hide te with dissolve
 
     # Scott queda solo
-    show scott serio at center
+    show sc1 at center
     "SCOTT permanece en el estudio, respirando hondo, apoyado sobre la mesa donde el libro sigue escondido."
     "El silencio es pesado, cargado de tensión."
 
     # Thomas aparece
-    show thomas neutral at right with dissolve
+    show tho at right with dissolve
 
     sc "No quiero que nadie más se acerque a ese libro. ¿Entendés, Thomas? Es demasiado peligroso."
 
