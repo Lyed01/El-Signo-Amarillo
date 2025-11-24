@@ -7,7 +7,7 @@ default noadvertir = False
 
 #variables branch 2
 default rechazoATessie = False
-default tessieIgnoraScott = False
+#default tessieIgnoraScott = False
 
 #variables branch 3
 default path11 = 0
@@ -70,36 +70,53 @@ label start:
        
        
         
-    elif subbranch == 2:
-        call esc_7B_1
-        call esc_7B_2
-        call esc_8B
-        call esc_9B
-        call esc_10B
-        call esc_11B    
-        if tessieIgnoraScott:
-            call esc_12B_1
-        else:
-            call esc_12B_2
-            call esc_13B
-            call esc_14B
-            call esc_15B
-            call esc_16B
-        if rechazoATessie == True:
-            call esc_17B_2A
-            call esc_18B_2A
-            call esc_19B_2A
-            call esc_20B_2A
-        else:
-            call esc_17B_2B
-            call esc_18B_2B
-            call esc_19B_2B
-            call esc_20B_2B
-            call esc_21B_2B
-        call esc_7
-        call esc_8
+    # -----------------------------
+# SUBBRANCH == 2
+# -----------------------------
+if subbranch == 2:
+    call esc_7B_2
+    call esc_8B
+    call esc_9B
+    call esc_10B
+    call esc_11B    
+    call esc_12B_2
+    call esc_13B
+    call esc_14B
+    call esc_15B
+    call esc_16B
+
+    if rechazoATessie:
+        call esc_17B_2A
+        call esc_18B_2A
+        call esc_19B_2A
+        call esc_20B_2A
+    else:
+        call esc_17B_2B
+        call esc_18B_2B
+        call esc_19B_2B
+        call esc_20B_2B
+        call esc_21B_2B
+
+
+# -----------------------------
+# SUBBRANCH == 21
+# -----------------------------
+if subbranch == 21:
+    call esc_7B_1
+    call esc_8B
+    call esc_9B
+    call esc_10B
+    call esc_11B
+    call esc_12B_1
+    call esc_16A
+    call esc_17A
+    call esc_18A
+    call esc_19A
+    call esc_20A
+    call esc_21A
+    call esc_22A         
     
-    elif subbranch == 3:
+    if subbranch == 3:
         call esc_7C
         call esc_8C
         call esc_9C
