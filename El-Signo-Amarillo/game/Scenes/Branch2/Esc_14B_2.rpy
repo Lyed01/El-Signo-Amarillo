@@ -18,7 +18,7 @@ label esc_14B:
     "El silencio es pesado, cargado de tensión."
 
     # Thomas aparece
-    show tho2 at right with dissolve
+    show tho at right with dissolve
 
     sc "No quiero que nadie más se acerque a ese libro. ¿Entendés, Thomas? Es demasiado peligroso."
 

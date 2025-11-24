@@ -12,13 +12,14 @@ label esc_13B:
     "SCOTT toma el libro de las manos de Tessie con firmeza, sus dedos apretando la cubierta con tensión contenida."
 
     hide tessie
-    show scott serio at center
+    show sc1 at center
 
     "Sin esperar respuesta, Scott cruza el estudio y coloca el libro en un cajón profundo, escondido entre carpetas y objetos polvorientos."
 
     "Cierra el cajón lentamente, como si estuviera sellando un secreto demasiado peligroso para ver la luz."
 
     show te at left
+    hide sc1
     show sc1 at right
 
     te "Scott…"
