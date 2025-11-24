@@ -38,10 +38,10 @@ label start:
         call esc_11A
         call esc_12A
         call esc_13A
-        call esc_14A_1
-        call esc_14A_2
-        call esc_15A_1
-        call esc_15A_2
+        call esc_14A_1A
+        call esc_14A_2A
+        call esc_15A_1A
+        call esc_15A_2A
         call esc_16A
         call esc_17A
         call esc_18A
