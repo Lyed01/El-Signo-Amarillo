@@ -47,7 +47,6 @@ label escena_23:
     n "Su respiración es un temblor constante."
     n "Mira el cuerpo de TESSIE una última vez."
     n "Una furia ciega lo recorre de pies a cabeza."
-
     n "La lluvia aumenta, golpeando los ventanales."
     n "La lámpara parpadea."
     n "SCOTT cierra los ojos. Aprieta los dientes."
@@ -56,17 +55,17 @@ label escena_23:
     n "Ambos lo arrastran hacia un destino sin retorno."
 
     menu:
-        "¿Qué hará Scott?":
-            "Opción A – Tomar venganza":
-                jump escena_23_venganza
+        "Opcion A - Tomar venganza":
+            jump opcionA
 
-            "Opción B – Sucumbir":
-                jump escena_23_sucumbir
+        "Opcion B - Sucumbir":
+            jump opcionB
 
 
 # ------------------------------
 # RUTA A – TOMAR VENGANZA
 # ------------------------------
+
 
 label escena_23_venganza:
 
