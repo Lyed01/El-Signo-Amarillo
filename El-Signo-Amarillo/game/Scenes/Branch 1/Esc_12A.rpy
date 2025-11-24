@@ -68,4 +68,17 @@ label esc_12A:
 
     n "Y aunque Scott no lo miró directamente, supo que lo había oído."
 
+    # ============================================
+    #        BLOQUE DE DECISIÓN AGREGADO
+    # ============================================
+
+    menu:
+        "Advertir a Tessie sobre el peligro (RUTA A)":
+            $ advertir = True
+            $ noadvertir = False
+
+        "No advertirla, dejar que siga investigando (RUTA A_1A)":
+            $ advertir = False
+            $ noadvertir = True
+
     return

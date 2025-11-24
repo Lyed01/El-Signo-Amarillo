@@ -2,7 +2,8 @@ default branch = 0
 default subbranch = 0
 
 # variables branch 1
-
+default advertir = False
+default noadvertir = False
 
 #variables branch 2
 default rechazoATessie = False
@@ -31,24 +32,43 @@ label start:
 
     # Subrama desde Escena 6
     if subbranch == 1:
+
         call esc_7A
         call esc_8A
         call esc_9A
         call esc_10A
         call esc_11A
-        call esc_12A
-        call esc_13A
-        call esc_14A_1A
-        call esc_14A_2A
-        call esc_15A_1A
-        call esc_15A_2A
-        call esc_16A
-        call esc_17A
-        call esc_18A
-        call esc_19A
-        call esc_20A
-        call esc_21A
-        call esc_22A
+        call esc_12A     # ← AQUÍ SE TOMA LA DECISIÓN
+
+        # ======================================
+        #       DECISIÓN DESPUÉS DE ESC_12A
+        # ======================================
+        if advertir:
+
+            # RUTA A (original)
+            call esc_13A
+            call esc_14A_2A
+            call esc_15A_2A
+            call esc_16A
+            call esc_17A
+            call esc_18A
+            call esc_19A
+            call esc_20A
+            call esc_21A
+            call esc_22A
+
+        elif noadvertir:
+
+            # RUTA ALTERNATIVA A_1A
+            call esc_13A_1A
+            call esc_14A_1A
+            call esc_15A_1A
+            call esc_16A_1A
+            call esc_17A_1A
+            call esc_18A_1A
+            call esc_19A_1A
+       
+       
         
     elif subbranch == 2:
         call esc_7B_1
