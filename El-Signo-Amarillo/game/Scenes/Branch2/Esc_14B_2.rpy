@@ -1,6 +1,6 @@
 label esc_14B:
 
-    scene estudio_scott_tarde with fade
+    scene bg estudio1 with fade
 
     play ambience "viento.ogg" fadein 1.0
 

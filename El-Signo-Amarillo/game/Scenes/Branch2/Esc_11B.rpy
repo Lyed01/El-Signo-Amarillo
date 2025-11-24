@@ -2,7 +2,7 @@
 
 label esc_11B:
 
-    scene estudio_tarde
+    scene bg estudio1
     with fade
 
     "TESSIE sostiene el libro entre las manos, aún absorta en las páginas cubiertas de símbolos. El silencio se vuelve espeso. El sonido lejano del tráfico parece extinguirse bajo una presión invisible."

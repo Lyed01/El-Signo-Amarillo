@@ -1,6 +1,6 @@
 label esc_6:
 
-    scene bg estudiooche with fade
+    scene bg estudioNoche with fade
 
     n "El humo flota pesado sobre la mesa."
     n "El aire huele a aguarrás y miedo."

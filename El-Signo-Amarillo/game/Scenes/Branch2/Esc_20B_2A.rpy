@@ -1,6 +1,6 @@
 label esc_20B_2A:
 
-    scene bg_execution_yard with fade
+    scene bg campo_fusilacion with fade
     play ambient "wind.ogg" fadein 2.0
 
     "La neblina cubre el campo como una sábana húmeda. El aire es frío, cortante, casi inmóvil."

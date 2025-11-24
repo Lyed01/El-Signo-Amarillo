@@ -1,6 +1,6 @@
 label esc_16B:
 
-    scene estudio_scott_manana with fade
+    scene bg estudio2 with fade
 
     "El silencio tras la confesión de TESSIE aún cuelga en el aire, pesado y expectante."
 

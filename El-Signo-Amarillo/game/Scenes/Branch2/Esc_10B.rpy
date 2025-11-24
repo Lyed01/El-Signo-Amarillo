@@ -2,7 +2,7 @@
 
 label esc_10B:
 
-    scene estudio_tarde
+    scene bg estudio1
     with fade
 
     "La tarde avanza. La luz dorada del sol cae sobre los lienzos inacabados."

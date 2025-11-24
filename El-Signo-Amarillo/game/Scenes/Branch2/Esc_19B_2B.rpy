@@ -1,6 +1,6 @@
 label esc_19B_2B:
 
-    scene bg_deserted_road_afternoon with fade
+    scene bg calle_noche with fade
     play ambient "wind_car_road.ogg" fadein 1.5
 
     "El sol se hunde lentamente detrás de los campos dorados."

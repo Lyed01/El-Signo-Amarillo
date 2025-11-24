@@ -1,6 +1,6 @@
 label esc_21B_2B:
 
-    scene bg_road_sunset with fade
+    scene bg calle_noche with fade
     play ambient "car_road_low.ogg" fadein 1.5
 
     "El sol comienza a ocultarse tras las colinas, tiñendo el horizonte de un rojo profundo."

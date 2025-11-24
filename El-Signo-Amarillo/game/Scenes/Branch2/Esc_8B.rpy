@@ -2,7 +2,7 @@
 
 label esc_8B:
 
-    scene recepcion_manana
+    scene bg recepcion1
     with fade
 
     "La recepción está casi vacía. La luz pálida del amanecer se filtra a través de los ventanales altos, proyectando un brillo gris sobre el mármol gastado del suelo. El aire huele a polvo y café rancio."

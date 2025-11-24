@@ -1,6 +1,6 @@
 label esc_20B_2B:
 
-    scene bg_car_interior_afternoon with dissolve
+    scene bg auto with dissolve
     play ambient "car_road_low.ogg" fadein 1.5
 
     "El auto sigue su marcha lenta por la carretera."

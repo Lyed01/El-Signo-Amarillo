@@ -1,11 +1,15 @@
 label esc_2B:
 
-    scene bosque_breton_nublado with fade
-    play ambience "bosque_viento.ogg" fadein 2.0
+# Entrar al recuerdo
+    scene black 
+    play sound audio.sfx_transicion
 
     # Narración inicial
     n "La luz gris del cielo se filtraba entre las ramas altas del bosque, dibujando líneas plateadas sobre el suelo húmedo."
     n "El aire olía a tierra mojada, a musgo viejo, a una calma que parecía no pertenecer al mundo real."
+
+    scene bg calle_feliz 
+    play ambience "bosque_viento.ogg" fadein 2.0
 
     show scott_nino at center
     with dissolve

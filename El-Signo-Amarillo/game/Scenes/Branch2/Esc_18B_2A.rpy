@@ -1,6 +1,6 @@
 label esc_18B_2A:
 
-    scene estudio_scott_dia with fade
+    scene bg estudio1 with fade
 
     "El estudio ha cambiado apenas: los mismos lienzos, la misma luz gris filtrándose entre las cortinas, pero el aire es distinto."
     "Más pesado. Más ordenado."
