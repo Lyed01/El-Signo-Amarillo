@@ -8,7 +8,7 @@ label escena_23:
     n "Su rostro está en sombras."
     n "Las manos, empapadas y temblorosas, brillan bajo la luz vacilante de la lámpara."
 
-    "SCOTT" "(voz apenas audible) Tessie..."
+    sc "(voz apenas audible) Tessie..."
 
     n "Silencio."
     n "Solo la tormenta, arrastrando hojas y papeles contra los muros."
@@ -33,7 +33,7 @@ label escena_23:
     n "Golpea el suelo con el puño. Una, dos, tres veces."
     n "La madera cruje bajo el impacto."
 
-    "SCOTT" "(gritando, ronco) ¡No puede terminar así!"
+    sc "(gritando, ronco) ¡No puede terminar así!"
 
     n "El eco de su grito se pierde entre los truenos."
     n "Pero algo en el estudio parece responder: la lámpara titila, y por un instante cree ver"

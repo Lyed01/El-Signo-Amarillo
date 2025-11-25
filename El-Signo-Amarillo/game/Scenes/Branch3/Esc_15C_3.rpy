@@ -23,7 +23,7 @@ label esc_15_sotano_iglesia:
     n "El funcionario colocó el disco sobre una hoja y comenzó a calcarlo con un lápiz de punta blanda."
     n "Cada trazo era un acto medido, silencioso, como si copiara un signo que no debía existir y, al mismo tiempo, no podía ser destruido."
 
-    THOMAS "¿Qué está haciendo?"
+    th "¿Qué está haciendo?"
 
     n "Scott no respondió. Observaba, atento."
     n "El hombre registraba el símbolo, lo archivaba, y luego lo sellaba con una etiqueta numerada."
@@ -35,11 +35,11 @@ label esc_15_sotano_iglesia:
     n "Por un largo momento, solo se oyó el goteo del techo."
     n "Thomas exhaló despacio."
 
-    THOMAS "Era el mismo símbolo del broche de la señorita…"
+    th "Era el mismo símbolo del broche de la señorita…"
 
     n "Scott asintió, aún mirando la mesa donde el disco había reposado."
 
-    SCOTT "Sí. Y si ese hombre lo registraba, significa que saben que todavía existe."
+    sc "Sí. Y si ese hombre lo registraba, significa que saben que todavía existe."
 
     n "Sus miradas se cruzaron en la penumbra."
     n "No lo dijeron, pero ambos lo comprendieron:"

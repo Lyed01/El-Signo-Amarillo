@@ -14,13 +14,13 @@ label branch_thomas_scene12:
     "SCOTT permanecía junto a THOMAS, ambos frente a la ventana, observando la plaza bajo la neblina."
 
     # Scott decides
-    scott "(voz baja, firme) Vamos a la iglesia."
+    sc "(voz baja, firme) Vamos a la iglesia."
 
-    thomas "(sorprendido) ¿A la iglesia, señor?"
-    thomas "No creo que el régimen vea con buenos ojos que entremos sin permiso."
+    th "(sorprendido) ¿A la iglesia, señor?"
+    th "No creo que el régimen vea con buenos ojos que entremos sin permiso."
 
     show scott determined at left
-    scott "Precisamente por eso. Quiero ver qué esconden ahí dentro."
+    sc "Precisamente por eso. Quiero ver qué esconden ahí dentro."
 
     "THOMAS lo miró con respeto y temor."
     "El aire parecía cargado de advertencias, pero obedeció sin más."

@@ -8,7 +8,7 @@ label escena24:
     n "Se acerca al perchero. Toma el abrigo."
     n "Dentro del bolsillo, el revólver lo recibe con un frío casi humano. El peso es tranquilizador. Definitivo."
 
-    SCOTT "Te lo prometo... No quedará impune."
+    sc "Te lo prometo... No quedará impune."
 
     n "El broche amarillo descansa sobre la mesa, manchado de barro y pintura."
     n "Lo toma. Por un instante duda si dejarlo o guardarlo, pero termina prendiéndoselo al pecho."
@@ -17,7 +17,7 @@ label escena24:
 
     n "Levanta el documento empapado del suelo. La palabra 'Cumplido' aún visible, aunque la tinta comienza a correrse."
 
-    SCOTT "Cumplido... Aún no."
+    sc "Cumplido... Aún no."
 
     n "Cruza la habitación. Los pinceles rotos crujen bajo sus botas."
     n "Empuja la puerta del estudio. Una ráfaga helada entra, apagando parte de la lámpara."

@@ -32,7 +32,7 @@ label esc_17:
     n "Scott quedó inmóvil, el corazón acelerado, la mente repitiendo el destello como una advertencia."
 
     # Diálogo de Scott
-    "SCOTT" "Tessie…"
+    sc "Tessie…"
 
     n "El miedo se mezcló con la culpa. La había dejado sola."
     n "Y ahora esa visión lo empujaba a creer que todo lo que habían desenterrado podía alcanzarla."
@@ -50,7 +50,7 @@ label esc_17:
 
     n "Scott miró hacia ambos lados de la calle. La premonición seguía viva en su mente."
 
-    "SCOTT" "No puedo perder tiempo… Tengo que volver."
+    sc "No puedo perder tiempo… Tengo que volver."
 
     n "La cámara se aleja mientras él desciende los escalones del atrio."
     n "Thomas lo sigue con paso inseguro, la lluvia cayendo sobre ambos, mientras la bruma de la ciudad los engulle lentamente."

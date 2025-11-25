@@ -43,7 +43,7 @@ label escena_25:
     n "SCOTT da un paso. El portón metálico gime."
     n "El sonido rebota entre las paredes del atrio y parece multiplicarse."
 
-    SCOTT "¿Me esperabas?"  # voz baja, contenida
+    sc "¿Me esperabas?"  # voz baja, contenida
 
     n "El AGENTE no responde. Solo inclina la cabeza en un gesto mínimo, impersonal."
 

@@ -33,7 +33,7 @@ label esc_16_opcion_tomar:
 
     n "Scott apretó los dedos alrededor del revólver."
 
-    PERSONAJE SCOTT "La tomo."
+    sc "La tomo."
 
     n "Su respiración era tensa, pero su mirada permanecía fija, decidida."
     n "THOMAS asintió sin palabras."
@@ -54,11 +54,11 @@ label esc_16_opcion_dejar:
 
     n "Scott dejó el revólver en la caja."
 
-    PERSONAJE SCOTT "No lo necesito."
+    sc "No lo necesito."
 
-    PERSONAJE THOMAS "¿Está seguro, señor?"
+    th "¿Está seguro, señor?"
 
-    PERSONAJE SCOTT "Sí. No quiero que esto cambie quién soy… ni lo que debo hacer."
+    sc "Sí. No quiero que esto cambie quién soy… ni lo que debo hacer."
 
     n "Thomas guardó silencio."
     n "El sótano parecía escucharlos."
