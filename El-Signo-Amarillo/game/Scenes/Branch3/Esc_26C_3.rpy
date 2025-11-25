@@ -9,14 +9,14 @@ label escena_26:
     n "El agua resbala por su impermeable, pero él no se mueve ni un milímetro."
     n "SCOTT se detiene frente a él. Las gotas le corren por la cara, mezcladas con el sudor y el temblor."
 
-    "SCOTT" "¿Por qué ella?"
+    sc "¿Por qué ella?"
 
     n "Su voz rebota contra la piedra."
     n "Sin respuesta. El AGENTE no reacciona. Ni un gesto. Ni un parpadeo."
     n "Solo el goteo constante, el sonido de la tormenta filtrándose entre ellos."
     n "SCOTT da un paso más. Los dedos crispados sobre el abrigo."
 
-    "SCOTT" "¿Escuchás lo que hiciste? ¿Lo escuchás?"
+    sc "¿Escuchás lo que hiciste? ¿Lo escuchás?"
 
     n "El eco devuelve su propia voz, deformada por el espacio: '¿Lo escuchás... escuchás...?'"
     n "Y nada más."
@@ -27,7 +27,7 @@ label escena_26:
     n "Ni siquiera el viento osa cruzar el umbral entre ambos."
     n "El corazón de SCOTT late tan fuerte que le duele el pecho."
 
-    "SCOTT" "¿Querés callarme también?"
+    sc "¿Querés callarme también?"
 
     n "El AGENTE sigue inmóvil. Apenas una sombra con forma humana. Una presencia más que un cuerpo."
     n "SCOTT aprieta los dientes."

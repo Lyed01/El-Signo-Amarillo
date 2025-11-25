@@ -12,8 +12,8 @@ label esc_19_op1:
     n "El aire olía a carbón y óxido."
     n "El eco lejano de una sirena se confundía con el latido en sus sienes."
 
-    THOMAS "¿Está seguro de esto, señor?"
-    SCOTT "Sí. Solo necesito descansar."
+    th "¿Está seguro de esto, señor?"
+    sc "Sí. Solo necesito descansar."
 
     n "THOMAS asintió, aunque su mirada delataba inquietud."
     n "Lo observó subir los escalones, abrir la puerta y perderse en la penumbra."

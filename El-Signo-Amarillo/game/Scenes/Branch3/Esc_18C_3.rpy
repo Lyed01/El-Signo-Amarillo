@@ -6,17 +6,17 @@ label esc_18:
     n "SCOTT permanecía frente a la puerta de la iglesia, la visión de TESSIE aún grabada en su mente. El agua le corría por el rostro, mezclándose con el sudor y la culpa."
     n "THOMAS lo observaba en silencio, los hombros encogidos bajo el abrigo mojado."
 
-    THOMAS "¿Y ahora, señor?"
+    th "¿Y ahora, señor?"
 
     n "SCOTT no respondió. La imagen de TESSIE bajo la lluvia, con el símbolo brillando sobre su pecho, lo perseguía con una claridad insoportable."
     n "El tiempo pesaba. Cada segundo que dudaba podía ser demasiado tarde."
     n "THOMAS dio un paso atrás, inquieto."
 
-    THOMAS "Yo no puedo seguirlo, señor. Ya he hecho demasiado. No me corresponde saber más."
+    th "Yo no puedo seguirlo, señor. Ya he hecho demasiado. No me corresponde saber más."
 
     n "SCOTT lo miró apenas, comprendiendo sin necesidad de palabras."
 
-    SCOTT "Entiendo."
+    sc "Entiendo."
 
     n "THOMAS asintió una última vez y se alejó bajo la lluvia, su figura desvaneciéndose entre la niebla."
     n "SCOTT quedó solo. La ciudad parecía observarlo, expectante."
@@ -38,7 +38,7 @@ label esc_18_op1:
 
     n "SCOTT levantó la vista hacia los tejados del distrito y exhaló con cansancio."
 
-    SCOTT "No puedo vivir con cada imagen que me muestra mi cabeza. Quizá… nada de esto sea real."
+    sc "No puedo vivir con cada imagen que me muestra mi cabeza. Quizá… nada de esto sea real."
 
     n "Giró sobre sus pasos y comenzó a caminar hacia su departamento."
     n "El sonido de la lluvia acompañaba su resignación."
@@ -56,7 +56,7 @@ label esc_18_op2:
 
     n "SCOTT apretó los puños. La culpa y el miedo se mezclaban con una sensación de urgencia visceral."
 
-    SCOTT "Si hay una mínima posibilidad de que esté en peligro… no puedo quedarme quieto."
+    sc "Si hay una mínima posibilidad de que esté en peligro… no puedo quedarme quieto."
 
     n "Echó a andar bajo la lluvia."
     n "Los faroles temblaban sobre su cabeza, y el pavimento mojado reflejaba fragmentos de símbolos rotos que parecían seguirlo en silencio."

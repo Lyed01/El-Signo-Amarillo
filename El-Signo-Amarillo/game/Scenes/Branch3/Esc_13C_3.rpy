@@ -8,27 +8,27 @@ label esc_13_iglesia:
 
     n "Thomas cerró la puerta detrás de ellos. El ruido metálico se amplificó por todo el recinto."
 
-    thom "No me gusta esto, señor. Parece que nadie ha estado aquí desde hace meses."  # susurrando
+    th "No me gusta esto, señor. Parece que nadie ha estado aquí desde hace meses."  # susurrando
 
     n "Scott avanzó despacio por el pasillo central."
     n "La luz filtrada por los vitrales mostraba fragmentos de símbolos que no pertenecían a ninguna iconografía religiosa conocida: círculos incompletos, trazos dorados entrecruzados, espirales que parecían formar letras imposibles."
 
-    scott "No son adornos… Están grabados sobre el vidrio, como si alguien los hubiese marcado desde dentro."  # voz baja
+    sc "No son adornos… Están grabados sobre el vidrio, como si alguien los hubiese marcado desde dentro."  # voz baja
 
     n "Thomas se acercó a un muro lateral y pasó la mano sobre una grieta."
     n 'Bajo la pintura resquebrajada aparecía la misma forma: un emblema circular atravesado por una línea quebrada.'
 
-    thom "Este símbolo… Lo vi en los muros del distrito militar. Pero nadie sabía qué significaba."  # murmurando
+    th "Este símbolo… Lo vi en los muros del distrito militar. Pero nadie sabía qué significaba."  # murmurando
 
-    scott "No es del régimen. Es más antiguo."  # tenso
+    sc "No es del régimen. Es más antiguo."  # tenso
 
     n "El silencio se volvió pesado."
     n "Desde las galerías superiores, un crujido pareció responderles."
     n "Thomas giró bruscamente, la mano en el bolsillo donde guardaba su navaja."
 
-    thom "¿Oyó eso?"
+    th "¿Oyó eso?"
 
-    scott "…"  # asintiendo sin hablar
+    sc "…"  # asintiendo sin hablar
 
     n "La penumbra parecía moverse."
     n "Algo —o alguien— caminaba por los corredores superiores, aunque sus pasos eran tan lentos que se confundían con el goteo del agua desde el techo."
@@ -39,11 +39,11 @@ label esc_13_iglesia:
     n "Scott se inclinó y apartó el polvo."
     n "Una cerradura oxidada y un anillo de hierro emergieron de la piedra."
 
-    scott "Aquí hay algo."
+    sc "Aquí hay algo."
 
     n "Thomas lo miró, el rostro endurecido."
 
-    thom "¿Bajamos?"
+    th "¿Bajamos?"
 
     n "Scott sostuvo su mirada un instante. Luego asintió."
 
