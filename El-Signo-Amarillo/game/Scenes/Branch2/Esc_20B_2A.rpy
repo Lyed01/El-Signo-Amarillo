@@ -5,7 +5,7 @@ label esc_20B_2A:
 
     "La neblina cubre el campo como una sábana húmeda. El aire es frío, cortante, casi inmóvil."
 
-    show scott_tied at center
+    show scott_atado at center
     "En el centro, SCOTT está de pie frente a un muro descascarado, las manos atadas. Su camisa blanca está oscurecida por el rocío."
 
     "A lo lejos, los pasos acompasados de un pelotón se acercan."
@@ -20,13 +20,15 @@ label esc_20B_2A:
 
     scene black with fade
     play sound audio.sfx_disparos
-    scene bg campo_fusilacion with fade
+
+    "..."
+
+    scene bg campo_fusilacion with fade 
     "El estruendo corta el amanecer."
     "Las aves levantan vuelo desde los muros."
     "El humo de la pólvora se disipa lentamente."
 
-    hide scott_tied
-    show scott_body at center
+
 
     "Cuando la bruma vuelve a cubrir el patio, el cuerpo de SCOTT yace inmóvil, recostado contra la pared."
 
