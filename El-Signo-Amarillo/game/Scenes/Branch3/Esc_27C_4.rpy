@@ -10,7 +10,7 @@ label escena_27:
     n "Tessie lo observaba en silencio."
     n "Su rostro, iluminado por la lámpara, mezclaba determinación y miedo."
 
-    PERSONAJE TESSIE "Tenemos que volver a la iglesia. No podemos dejar esto sin comprobar."
+    te "Tenemos que volver a la iglesia. No podemos dejar esto sin comprobar."
 
     n "Scott permaneció quieto."
     n "Su mirada fija en el libro, los dedos apoyados sobre el borde de la mesa."
@@ -23,11 +23,10 @@ label escena_27:
     n "El reflejo dorado del libro le tembló en las pupilas."
 
     menu:
-        "Decisión de Scott":
-            "Ir a la iglesia":
-                jump escena_27_opcion_1
-            "Quedarse":
-                jump escena_27_opcion_2
+        "Ir a la iglesia":
+            jump escena_27_opcion_1
+        "Quedarse":
+            jump escena_27_opcion_2
 
 
 # ================================
@@ -36,7 +35,7 @@ label escena_27:
 
 label escena_27_opcion_1:
 
-    PERSONAJE SCOTT "(decidido) Está bien. Si tenemos que hacerlo, será ahora. Pero no daré un paso sin saber a qué nos enfrentamos."
+    sc "(decidido) Está bien. Si tenemos que hacerlo, será ahora. Pero no daré un paso sin saber a qué nos enfrentamos."
 
     n "Tessie asintió, aliviada, aunque en su mirada brillaba una sombra de temor."
     n "Ambos comenzaron a prepararse en silencio, tomando abrigos, lámparas y los papeles que Scott había guardado."

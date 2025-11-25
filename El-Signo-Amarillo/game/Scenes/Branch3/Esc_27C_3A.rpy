@@ -1,4 +1,4 @@
-label escena_27:
+label escena_27_3a:
 
     scene black with fade
     play sound "thunder.wav"
@@ -19,7 +19,6 @@ label escena_27:
 
     play sound "gunshot.wav"
 
-    n "DISPARO."
     n "El estampido se confunde con el trueno."
     n "Por un instante, el mundo se ilumina de blanco."
     n "Luego, silencio."

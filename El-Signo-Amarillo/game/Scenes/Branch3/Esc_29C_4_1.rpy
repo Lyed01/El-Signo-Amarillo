@@ -1,4 +1,4 @@
-label escena_29:
+label escena_29_4_1:
 
     scene iglesia_interior_noche with fade
 
