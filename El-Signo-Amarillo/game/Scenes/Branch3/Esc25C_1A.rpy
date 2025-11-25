@@ -24,7 +24,7 @@ label esc_25C_1A:
     n "Su respiración se detuvo."
     n "No podía moverse. No podía emitir un sonido."
 
-    show te at right 
+    show te1 at right 
 
     n "Tessie retrocedió, el libro todavía entre sus manos."
     n "Su rostro, iluminado por la luz trémula, mezclaba miedo y una obstinación casi febril."
@@ -71,7 +71,7 @@ label esc_25C_1A:
     n "El silencio fue absoluto."
 
     # Tessie final
-    show te at right
+    show te1 at right
     n "Tessie, aún en el suelo, sostuvo el libro una última vez."
     n "Su cuerpo tembló."
     hide te 

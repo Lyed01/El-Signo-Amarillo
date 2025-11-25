@@ -32,7 +32,7 @@ label esc_26C_1A:
     n "Scott dio un paso hacia adelante, pero se detuvo."
     n "Las botas del agente resonaron contra el suelo, y el eco del metal pareció llenarlo todo."
 
-    show te at right 
+    show te1 at right 
     n "Tessie lo miró una última vez."
     n "Su rostro estaba pálido, sus ojos abiertos, llenos de comprensión y resignación."
     hide te 

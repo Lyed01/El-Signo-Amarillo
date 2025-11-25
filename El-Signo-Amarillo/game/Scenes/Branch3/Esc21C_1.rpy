@@ -12,7 +12,7 @@ label esc_21C_1:
     n "El lugar parece vivo."
 
     show sc at left 
-    show te at right 
+    show te1 at right 
 
     n "Scott y Tessie se agazapan detrás del caballete."
     n "Sus respiraciones son cortas, medidas."

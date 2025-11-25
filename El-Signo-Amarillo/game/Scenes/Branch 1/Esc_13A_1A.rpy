@@ -19,7 +19,7 @@ label esc_13A_1A:
     n "Seguía allí, fija, inalterable, como un punto muerto en el flujo del tiempo."
 
     n "Un ruido suave lo distrajo: Tessie se movía detrás del biombo, vistiéndose para posar. Su voz, somnolienta, rompió el silencio."
-    show te at left
+    show te1 at left
     te "—¿Ya amaneció, Scott?"
 
     n "Él titubeó antes de responder."

@@ -6,14 +6,14 @@ label esc_12B_1:
 
     "El viento golpea las ventanas, mezclando el olor a humo industrial con el de papel viejo. La ciudad, cubierta por la bruma, parece contener la respiración."
 
-    show te at left
+    show te1 at left
     show sc1 at right
 
     te "Sostengo el libro entre mis manos... estos símbolos parecen moverse."
 
     sc "¡No abras eso! ¡Déjalo!"
 
-    show te at left
+    show te1 at left
 
     "El aire se tensa. Tessie lo mira fijamente, sin soltar el libro."
 

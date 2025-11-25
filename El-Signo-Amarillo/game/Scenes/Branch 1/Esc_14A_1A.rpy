@@ -17,7 +17,7 @@ label esc_14A_1A:
     n "Scott parpadeó, confundido."
 
     n "El óleo seguía fresco, pero lo que veía no podía haberlo pintado él. La figura de Tessie parecía vibrar, difuminarse, deformarse lentamente hacia algo inhumano: un reflejo pálido, translúcido, que se expandía más allá del marco."
-    show te at left
+    show te1 at left
     te "—¿Todo bien, Scott? —preguntó, rompiendo el silencio."
 
     n "Él dio un leve respingo."

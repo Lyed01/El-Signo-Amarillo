@@ -9,7 +9,7 @@ label esc_17A_1A:
     n "Scott pintaba concentrado, pero su semblante había perdido la rigidez de los días anteriores. La tensión de sus hombros se había disuelto; el pincel se movía con la naturalidad de quien por fin encuentra su trazo."
 
     n "Tessie, recostada contra el respaldo, observaba en silencio, siguiendo el ritmo del movimiento de su mano."
-    show te at left
+    show te1 at left
     te "—Le juro que así, tan serio, parece un cirujano —dijo con una media sonrisa."
     show sc1 at right
     sc "—Eso explicaría por qué las modelos suelen salir vivas de mis retratos."

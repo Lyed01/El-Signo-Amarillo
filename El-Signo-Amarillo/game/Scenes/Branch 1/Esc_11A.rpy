@@ -5,7 +5,7 @@ label esc_11A:
     n "La luz del quinqué temblaba sobre los lienzos apoyados contra la pared. Afuera, la lluvia caía fina, dejando un murmullo constante sobre los techos de metal. El estudio olía a aceite de linaza y cigarrillos; un refugio cálido en medio del aire húmedo que traía el otoño."
 
     n "Tessie se envolvía con una manta mientras observaba el cuadro inacabado. Sus ojos reflejaban cansancio, pero también algo más profundo, una inquietud que parecía no haberla dejado dormir en días."
-    show te at left
+    show te1 at left
     te "—No sé qué me pasa, Scott. Desde hace noches tengo el mismo sueño… o pesadilla, no lo sé."
 
     n "Él se detuvo, el cigarrillo entre los dedos, y la miró con atención."

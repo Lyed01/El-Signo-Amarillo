@@ -10,7 +10,7 @@ label esc_15A_2A:
     sc "—Te dije que no lo tocaras."
 
     n "Ella no respondió. Sus dedos rozaron la cubierta, y el cuero emitió un leve crujido, casi un suspiro."
-    show te at right
+    show te1 at right
     te "—No puedo evitarlo. Es como si me llamara."
 
     sc "—Tessie, escuchame. Ese libro no es un objeto, es una puerta. Lo que hay adentro no se lee… se deja entrar."

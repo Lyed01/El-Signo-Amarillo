@@ -8,7 +8,7 @@ label esc_16A_1A:
 
     n "Ella posaba con naturalidad, el cabello suelto, un leve rubor en las mejillas."
     
-    show te at left
+    show te1 at left
     
     te "—Me está pintando demasiado bonita, Scott —dijo, rompiendo la quietud con una sonrisa—. Así no me va a reconocer nadie."
 

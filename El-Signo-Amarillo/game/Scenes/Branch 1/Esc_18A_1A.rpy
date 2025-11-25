@@ -21,7 +21,7 @@ label esc_18A_1A:
     n "El lienzo estaba frío, inmóvil, y sin embargo había algo en la sombra que lo hacía sentir que lo miraba, que sabía cada pensamiento, cada temor. No había pinceladas suyas que pudieran haber trazado esa figura detrás de Tessie. La comprensión lo golpeó con fuerza: lo que estaba allí no era fruto de su mano."
 
     n "Apoyó la frente en la madera del caballete, intentando calmar el nudo en el pecho."
-    show te at right
+    show te1 at right
     te "—Entonces… lo hizo él."
 
     n "Un silencio pesado se instaló en la habitación. Ni el viento ni el murmullo de la calle podían romperlo. Solo el estudio, el retrato y la certeza de que la figura gris no era una ilusión pasajera, sino una presencia que había trascendido la pintura misma."

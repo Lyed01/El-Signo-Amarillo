@@ -5,7 +5,7 @@ label esc_17B_2B:
 
     "El aire en el estudio se carga de una tensión vibrante, mezcla de miedo y esperanza."
 
-    show te at right
+    show te1 at right
     show sc1 at left
 
     "TESSIE observa a SCOTT con expectación, su corazón latiendo rápido."
@@ -14,7 +14,7 @@ label esc_17B_2B:
 
     "Una leve sonrisa se dibuja en el rostro de TESSIE."
 
-    show te at right with dissolve
+    show te1 at right with dissolve
 
     "Ambos se miran, compartiendo un momento de complicidad silenciosa."
 

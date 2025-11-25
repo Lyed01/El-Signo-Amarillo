@@ -9,7 +9,7 @@ label esc_17A:
     n "De pronto, un crujido profundo se escuchó desde afuera, como el de una rueda metálica girando sobre piedra húmeda. Luego otro, más cercano."
 
     n "Scott y Tessie intercambiaron una mirada."
-    show te at left
+    show te1 at left
     te "—¿Oíste eso?"
 
     n "Scott se acercó a la ventana, con cuidado. La plaza estaba cubierta de neblina, pero entre los vapores se distinguían luces amarillas, parpadeantes, que se movían lentamente."

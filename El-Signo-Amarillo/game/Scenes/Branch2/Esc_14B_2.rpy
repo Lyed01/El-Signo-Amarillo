@@ -5,7 +5,7 @@ label esc_14B:
     play ambience "viento.ogg" fadein 1.0
 
     # Tessie despidiéndose
-    show te at center
+    show te1 at center
     "La bruma invade el estudio mientras el viento agita las persianas."
     te "Nos vemos, Scott…"
     "TESSIE se despide con un gesto breve, su silueta perdiéndose entre la niebla de la ciudad."

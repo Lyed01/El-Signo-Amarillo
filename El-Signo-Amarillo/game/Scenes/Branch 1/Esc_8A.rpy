@@ -15,7 +15,7 @@ label esc_8A:
 
     n "Desde el estudio, Tessie levantó la vista de sus notas."
 
-    show te at left
+    show te1 at left
     te "—¿Sigue ahí?"
 
     n "Scott asintió, sin apartar los ojos del atrio."

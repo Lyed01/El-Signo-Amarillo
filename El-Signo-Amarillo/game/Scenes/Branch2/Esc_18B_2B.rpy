@@ -7,7 +7,7 @@ label esc_18B_2B:
 
     "Una neblina ligera cubre la calle, envolviendo los faroles y las fachadas dormidas de la ciudad."
 
-    show te at right
+    show te1 at right
     show sc1 at left
 
     "TESSIE y SCOTT aparecen, apresurados, con pocas pertenencias. Sus pasos resuenan sobre el empedrado húmedo."

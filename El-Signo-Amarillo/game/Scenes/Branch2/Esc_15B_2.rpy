@@ -5,7 +5,7 @@ label esc_15B:
     "La luz del sol entra tenue por las ventanas, iluminando el estudio con un tono cálido."
     "Los papeles y herramientas de la obra están esparcidos sobre la mesa."
 
-    show te at left with dissolve
+    show te1 at left with dissolve
 
     "TESSIE llega, con pasos vacilantes, y se detiene frente a SCOTT."
 

@@ -6,7 +6,7 @@ label esc_14C_1:
     n "Su luz amarillenta proyecta sombras que tiemblan sobre los lienzos y los pinceles sin lavar."
     n "El aire se ha vuelto denso, casi inmóvil."
 
-    show te at center with dissolve
+    show te1 at center with dissolve
 
     n "Tessie está sentada frente a Scott, los ojos bajos, nerviosos."
     n "Él la observa en silencio, percibiendo que hay algo más detrás de su inquietud."

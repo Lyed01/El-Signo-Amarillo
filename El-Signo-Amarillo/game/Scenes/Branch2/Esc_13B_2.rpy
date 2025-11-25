@@ -4,7 +4,7 @@ label esc_13B:
 
     play ambience "viento.ogg" fadein 1.0
 
-    show te at left
+    show te1 at left
     show sc1 at right
 
     sc "No puede caer en manos equivocadas."
@@ -18,7 +18,7 @@ label esc_13B:
 
     "Cierra el cajón lentamente, como si estuviera sellando un secreto demasiado peligroso para ver la luz."
 
-    show te at left
+    show te1 at left
     hide sc1
     show sc1 at right
 

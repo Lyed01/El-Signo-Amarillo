@@ -7,7 +7,7 @@ label esc_19B_2B:
     "El auto de SCOTT avanza por una carretera vacía, flanqueada por árboles que parecen observarlos en silencio."
 
     show sc1 at left
-    show te at right
+    show te1 at right
 
     "Dentro, el aire es espeso, cargado de cansancio y expectativa."
 

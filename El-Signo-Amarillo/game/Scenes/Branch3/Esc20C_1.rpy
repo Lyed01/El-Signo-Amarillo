@@ -6,7 +6,7 @@ label esc_20C_1:
     n "El zumbido de la lámpara es lo único que interrumpe el silencio."
     n "El aire pesa, saturado de humo y polvo."
 
-    show te at center 
+    show te1 at center 
 
     n "Tessie sigue junto al libro, los dedos sobre la cubierta amarillenta,"
     n "como si temiera tocarlo y no pudiera dejar de hacerlo."

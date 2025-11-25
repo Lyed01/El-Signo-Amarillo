@@ -12,7 +12,7 @@ label esc_16A:
     sc "—Cada uno de estos signos… los vi antes. En los sellos de la administración, en las insignias de los edificios públicos. Pensé que eran simples marcas del régimen… pero no. Están copiados del libro."
 
     n "Tessie frunció el ceño, la voz temblorosa."
-    show te at right
+    show te1 at right
     te "—¿Está diciendo que el régimen usa el Signo Amarillo?"
 
     sc "—No lo usan. Lo adoran. Lo reproducen, lo ocultan dentro de los documentos, de los uniformes, de los retratos que me hacían pintar."

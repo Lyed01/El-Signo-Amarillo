@@ -32,7 +32,7 @@ label esc_29C_1B:
 
     n "La lluvia lo recibió con un golpe helado sobre el rostro. Cada reflejo metálico en el suelo, cada eco de rueda o de cadena, lo guiaba hacia el fondo de la calle."
 
-    show te neutral at right
+    show te1 neutral at right
     te "“Scott… espera… Ten cuidado.”"
 
     n "Él asintió sin volverse. Sus pasos resonaron en los adoquines, uno tras otro, marcando un compás tenso."

@@ -6,7 +6,7 @@ label esc_12A:
 
     n "Tessie permanecía sentada en silencio, las rodillas juntas, mirando el lienzo inconcluso. Su rostro estaba pálido, la mirada perdida entre los trazos amarillos que parecían brillar débilmente bajo la luz artificial."
 
-    show te at left
+    show te1 at left
 
     te "—No deja de mirarme, Scott. Aunque cierre los ojos, lo veo. Aunque intento no pensarlo, siento que está ahí, detrás de los muros, esperándome."
 

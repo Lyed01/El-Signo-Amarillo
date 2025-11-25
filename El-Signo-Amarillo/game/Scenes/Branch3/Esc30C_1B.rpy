@@ -41,7 +41,7 @@ label esc_30C_1B:
     hide sc with fade
     n "El carro arrancó de nuevo, avanzando por la calle oscura. El sonido de las ruedas sobre el agua marcaba su condena."
 
-    show te neutral at right 
+    show te1 neutral at right 
     n "Desde el balcón, Tessie lo veía. El rostro inmóvil, los ojos llenos de terror e impotencia."
 
     n "Comprendió que su destino estaba sellado, que el régimen los había alcanzado, que la memoria del pasado era una sentencia."

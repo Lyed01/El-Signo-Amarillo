@@ -7,7 +7,7 @@ label esc_14A_2A:
     n "Scott revisaba un viejo cofre de madera que había guardado bajo el escritorio. Lo hacía con el nerviosismo de quien hurga en una herida antigua."
 
     n "Tessie, todavía envuelta en su bata, lo observaba desde el diván, con la expresión entre curiosa y temerosa."
-    show te at left
+    show te1 at left
     te "—¿Qué busca, Scott?"
 
     n "Él no respondió enseguida. Sacó un manojo de papeles, un par de dibujos rotos, y al fondo, algo más: un libro pequeño, encuadernado en cuero descolorido. Lo levantó con cuidado, como si pesara más de lo que aparentaba."

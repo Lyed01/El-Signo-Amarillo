@@ -8,7 +8,7 @@ label esc_15A_1A:
 
     n "Tessie rompió el silencio con voz suave:"
     
-    show te at left
+    show te1 at left
     te "—Cuando estoy aquí, con usted… me siento mejor."
 
     n "Scott levantó la vista del cuaderno de bocetos."

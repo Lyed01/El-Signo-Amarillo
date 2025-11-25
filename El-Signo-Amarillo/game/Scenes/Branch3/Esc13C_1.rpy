@@ -14,7 +14,7 @@ label esc_13C_1:
     n "De pronto, unos pasos suaves rompen el silencio."
     n "Scott se vuelve."
 
-    show te at center with dissolve
+    show te1 at center with dissolve
 
     n "En el umbral, Tessie aparece. Cansada, pero tranquila."
     n "Sus ojos traen consigo una calma extraña, como si su mente hubiera viajado muy lejos."
