@@ -32,8 +32,11 @@ image bg plaza_iglesia    = "images/bg/plaza_iglesia.jpg"
 image bg sotano_iglesia   = "images/bg/sotano_iglesia.jpg"
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #image bg hospedaje_noche  = "images/bg/."
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 image bg exterior_estudio   = "images/bg/exterior_estudio.PNG"
