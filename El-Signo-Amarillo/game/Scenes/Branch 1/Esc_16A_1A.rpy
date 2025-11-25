@@ -1,6 +1,6 @@
 label esc_16A_1A:
 
-    scene bg estudio2 with fade
+    scene bg estudio1 with fade
 
     n "Por primera vez en mucho tiempo, el estudio respiraba calma. La ventana estaba abierta, dejando entrar el aire tibio de la tarde y el canto de un pájaro perdido entre los árboles de la plaza. La luz caía sobre el suelo de madera, resbalando por las telas, las jarras, los pinceles; todo parecía vivo otra vez."
 
