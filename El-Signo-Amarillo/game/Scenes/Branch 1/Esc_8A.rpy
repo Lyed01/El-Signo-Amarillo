@@ -10,10 +10,12 @@ label esc_8A:
 
     n "El viento arrastraba hojas secas y restos de papel contra los escalones. En la distancia, el sonido metálico de las patrullas se mezclaba con el murmullo de una marcha militar. Scott sintió el mismo malestar que lo había invadido la primera vez que cruzó la mirada con aquel hombre. Era un reflejo visceral, una repulsión que nacía del instinto más primitivo: algo en ese ser —su rigidez, su quietud antinatural— evocaba la podredumbre de la carne que no debería seguir viva."
 
+    show sc1 at right
     sc "—No se ha movido desde ayer…"
 
     n "Desde el estudio, Tessie levantó la vista de sus notas."
 
+    show te at left
     te "—¿Sigue ahí?"
 
     n "Scott asintió, sin apartar los ojos del atrio."

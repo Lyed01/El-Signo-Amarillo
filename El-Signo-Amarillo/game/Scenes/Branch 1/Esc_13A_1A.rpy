@@ -11,7 +11,7 @@ label esc_13A_1A:
     n "El agente permanecía quieto, con el mismo rostro abultado y gris, las manos apoyadas sobre la baranda de piedra, la cabeza ligeramente inclinada hacia el estudio. No parecía un hombre vigilando —ni siquiera respirando— sino una sombra que había aprendido a imitar la forma humana."
 
     n "Scott sintió un nudo en el estómago. El repentino impulso de cerrar las cortinas lo atravesó, pero se obligó a quedarse quieto."
-
+    show sc1 at right
     sc "—No… —murmuró apenas—. Si lo ignoro, desaparece."
 
     n "El reloj dio las seis. La ciudad empezaba a moverse: pasos apresurados, ruedas sobre el empedrado, motores encendiéndose. El mundo seguía su curso, pero esa figura no."
@@ -19,7 +19,7 @@ label esc_13A_1A:
     n "Seguía allí, fija, inalterable, como un punto muerto en el flujo del tiempo."
 
     n "Un ruido suave lo distrajo: Tessie se movía detrás del biombo, vistiéndose para posar. Su voz, somnolienta, rompió el silencio."
-
+    show te at left
     te "—¿Ya amaneció, Scott?"
 
     n "Él titubeó antes de responder."

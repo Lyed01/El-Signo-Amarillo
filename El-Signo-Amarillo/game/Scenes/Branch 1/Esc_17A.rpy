@@ -9,12 +9,12 @@ label esc_17A:
     n "De pronto, un crujido profundo se escuchó desde afuera, como el de una rueda metálica girando sobre piedra húmeda. Luego otro, más cercano."
 
     n "Scott y Tessie intercambiaron una mirada."
-
+    show te at left
     te "—¿Oíste eso?"
 
     n "Scott se acercó a la ventana, con cuidado. La plaza estaba cubierta de neblina, pero entre los vapores se distinguían luces amarillas, parpadeantes, que se movían lentamente."
     n "Un sonido acompasado de motores bajos y engranajes oxidados llenó el aire."
-
+    show sc1 at right
     sc "—No puede ser…"
 
     n "Tessie se aproximó, asomándose apenas. Lo que vieron parecía un carro blindado, de diseño grotesco, antiguo, cubierto de inscripciones que brillaban débilmente con el mismo tono que el símbolo del libro."

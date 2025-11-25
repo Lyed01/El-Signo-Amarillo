@@ -22,7 +22,7 @@ label esc_18A:
 
     n "La cosa avanzó, sin pasos, deslizándose. Su sombra se proyectaba sobre las paredes y, dentro de esa sombra, Scott distinguió el contorno del agente."
     n "El rostro blando, la sonrisa inmóvil."
-
+    show sc1 at left
     sc "—¡Fuera!"
 
     n "La criatura se extendió hacia ellos. De su superficie brotaron brazos líquidos, que se estiraron como tentáculos luminosos."

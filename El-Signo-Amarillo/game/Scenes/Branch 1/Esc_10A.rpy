@@ -6,10 +6,12 @@ label esc_10A:
 
     n "En medio del silencio, solo se escuchaba el roce del carbón sobre la tela y el sonido del cigarrillo encendiéndose. Tessie estaba sentada sobre la tarima, con una bata ligera que dejaba ver la blancura de sus brazos. Sonreía distraída mientras trataba de mantener la pose, observando de reojo cómo él trabajaba, concentrado y en calma."
 
+    show te at left
     te "—Hoy parece más tranquilo, señor Scott."
 
     n "Él asintió, sin levantar la vista."
 
+    show sc1 at right
     sc "—Después de días viendo ese rostro en el atrio, cualquier mañana sin sobresaltos parece un regalo."
 
     n "Tessie soltó una risa breve, esa que siempre lograba quebrar la rigidez del estudio."

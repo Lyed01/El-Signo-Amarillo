@@ -9,9 +9,9 @@ label esc_21A:
     n "Dos agentes del régimen aguardaban frente a la puerta, con los rostros cubiertos por mascarillas."
     n "Detrás de ellos, un fotógrafo y un oficial médico tomaban notas."
     n "Más allá, en la esquina, un grupo de espías civiles observaba desde un automóvil negro, sus rostros apenas visibles entre el humo de los cigarrillos."
-
+    show md at left
     md "—Zona sellada. El sujeto fue hallado sin vida, junto a restos orgánicos no identificables."
-
+    show ag at right
     ag "—¿Y la mujer?"
 
     md "—No hay cuerpo. Solo fragmentos. Probablemente fue calcinada por los productos químicos."
@@ -23,16 +23,19 @@ label esc_21A:
     n "El fotógrafo bajó la cámara, incómodo."
 
     md "—Una marca… pero no logro enfocar. Cambia cada vez que la miro."
-
+    hide md with fade
+    hide ag with fade
     n "El oficial a cargo, un hombre corpulento con abrigo largo, se acercó al umbral. El interior estaba oscuro, silencioso."
 
     n "El cuerpo de Scott yacía tendido entre los lienzos carbonizados. Su mano aún extendida hacia la mesa, donde el libro amarillo reposaba cerrado, como un corazón dormido."
 
+
+    show of at left
     of "—Traigan a los técnicos. Quiero ese libro analizado por el Departamento de Censura Visual."
     of "Si contiene propaganda, la quemamos. Si es arte degenerado, lo archivamos."
 
     n "Uno de los espías, un joven de rostro demacrado, se acercó."
-
+    show es at right
     es "—¿Y si es algo más?"
 
     n "El oficial lo miró con desdén."
@@ -48,9 +51,12 @@ label esc_21A:
     n "Pero en los bordes del dibujo, casi imperceptibles, se distinguían pequeñas marcas curvadas, repitiéndose como un idioma secreto."
 
     n "El espía la recogió, la observó un instante y la guardó discretamente en su bolsillo."
+    hide es with fade
+    hide of with fade
 
+    show ag at left
     ag "—¿Qué vio?"
-
+    show es at right
     es "—Nada. Solo arte."
 
     n "El grupo se retiró. El oficial cerró la puerta tras de sí y selló la entrada con cinta roja."

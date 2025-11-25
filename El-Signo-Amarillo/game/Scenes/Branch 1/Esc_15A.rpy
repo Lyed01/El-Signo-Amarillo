@@ -6,11 +6,11 @@ label esc_15A_2A:
     n "El libro amarillo descansaba sobre la mesa, cerrado, como un corazón que todavía latía."
 
     n "Tessie estaba de pie frente a él, inmóvil. Scott la observaba desde la distancia, con la respiración contenida."
-
+    show sc1 at left
     sc "—Te dije que no lo tocaras."
 
     n "Ella no respondió. Sus dedos rozaron la cubierta, y el cuero emitió un leve crujido, casi un suspiro."
-
+    show te at right
     te "—No puedo evitarlo. Es como si me llamara."
 
     sc "—Tessie, escuchame. Ese libro no es un objeto, es una puerta. Lo que hay adentro no se lee… se deja entrar."

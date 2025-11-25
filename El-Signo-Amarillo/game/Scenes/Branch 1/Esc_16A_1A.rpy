@@ -7,11 +7,13 @@ label esc_16A_1A:
     n "Scott trabajaba en silencio frente al nuevo lienzo. Ya no era el retrato anterior —ese permanecía cubierto en un rincón—, sino una nueva versión, más luminosa, más humana. El rostro de Tessie emergía del fondo con una claridad serena, sin el rastro de sombras que lo habían atormentado días atrás."
 
     n "Ella posaba con naturalidad, el cabello suelto, un leve rubor en las mejillas."
-
+    
+    show te at left
+    
     te "—Me está pintando demasiado bonita, Scott —dijo, rompiendo la quietud con una sonrisa—. Así no me va a reconocer nadie."
 
     n "Él levantó la vista, apenas sonriendo."
-
+    show sc1 at right
     sc "—Entonces lo estoy haciendo bien. El arte está para corregir la realidad."
 
     n "Tessie rió, sincera. El sonido era ligero, casi olvidado, y se expandió por la habitación como una bocanada de aire limpio."

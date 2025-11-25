@@ -9,7 +9,7 @@ label esc_22A:
     n "La herida en su costado había dejado de sangrar; lo que quedaba era una textura de ceniza, un dibujo irregular que, visto de cerca, formaba las líneas del Signo Amarillo."
 
     n "A su alrededor, las sombras parecían acompasar su respiración. A veces se movían antes que él."
-
+    show sc1 at left
     sc "—Tessie… ¿Estás ahí?"
 
     n "Nadie respondió. Pero algo cambió en el aire, un temblor leve, como si su nombre hubiera sido escuchado en otro lugar."
@@ -22,7 +22,7 @@ label esc_22A:
     n "Su pulso se aceleró. Intentó incorporarse, pero el cuerpo no respondió."
     n "El zumbido volvió, más grave, más profundo, vibrando en las paredes y dentro de su cabeza."
     n "Las pinturas sobre los muros se estremecieron; los rostros pintados se giraron lentamente hacia él, todos con la misma mirada vacía, todos con los ojos amarillos."
-
+    show te at right
     te "—Scott… ¿lo ves ahora?"
 
     sc "—Sí… Siempre estuvo ahí. Solo necesitaba… abrirse."

@@ -6,10 +6,12 @@ label esc_12A:
 
     n "Tessie permanecía sentada en silencio, las rodillas juntas, mirando el lienzo inconcluso. Su rostro estaba pálido, la mirada perdida entre los trazos amarillos que parecían brillar débilmente bajo la luz artificial."
 
+    show te at left
+
     te "—No deja de mirarme, Scott. Aunque cierre los ojos, lo veo. Aunque intento no pensarlo, siento que está ahí, detrás de los muros, esperándome."
 
     n "Él se detuvo, observándola. Había algo en su tono que lo estremecía, una mezcla de miedo y fascinación que reconocía demasiado bien."
-
+    show sc1 at right
     sc "—Tessie. Tenés que dejar de pensar en él. Esa gente… esas presencias… se alimentan de lo que les damos. Si les temés, crecen. Si los recordás, vuelven."
 
     n "Ella levantó la cabeza lentamente."

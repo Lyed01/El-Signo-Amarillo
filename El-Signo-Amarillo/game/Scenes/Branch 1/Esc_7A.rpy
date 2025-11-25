@@ -8,10 +8,12 @@ label esc_7A:
 
     n "Se acercó despacio y apoyó una mano en su hombro."
 
+    show sc1 at right
     sc "—Tessie. Necesitás descansar. Esto… esto no te lo está haciendo fácil."
 
     n "Ella levantó apenas la mirada. Sus ojos tenían un brillo húmedo, pero también un cansancio que Scott reconocía demasiado bien: era el cansancio del peligro, del miedo constante."
 
+    show te at left 
     te "—No puedo evitar sentir que algo se acerca. Todo parece… vigilado, como si cada sombra estuviera esperando que yo parpadee."
 
     n "Scott apretó ligeramente su hombro, no para contenerla, sino para anclarla de alguna forma a un punto seguro."
