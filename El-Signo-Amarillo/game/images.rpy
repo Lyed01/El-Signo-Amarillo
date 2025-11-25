@@ -10,7 +10,7 @@
 # Backgrounds
 image bg atrio_iglesia_agente      = im.Scale("images/bg/atrio_iglesia_agente.webp", 1920, 1080)
 image bg calle_feliz  = im.Scale("images/bg/calle_feliz.webp", 1920, 1080)
-image bg edificio_frente    = im.Scale("images/bg/edificio_frente.webp", 1920, 1080)
+image bg edificio_frente    = im.Scale("images/bg/edificio_frente.png", 1920, 1080)
 image bg estudio_tessie_pintada   = im.Scale("images/bg/estudio tessie pintada.webp", 1920, 1080)
 image bg estudio1    = im.Scale("images/bg/estudio1.png", 1920, 1080)
 image bg flashback    = im.Scale("images/bg/flashbackguerra.webp", 1920, 1080)
@@ -42,6 +42,7 @@ image bg estudioNoche    = im.Scale("images/bg/estudioNoche.webp", 1920, 1080)
 # Scott (sin expresiones, versión base)
 image sc1 = im.Scale("images/char/scott222.webp", 408*2.2, 284*2.2)
 image scott_nino = im.Scale("images/char/scott_nino.png",409, 611)
+image scott_atado = im.Scale("images/char/scott_atado.png", 453, 552)
 
 # Tessie (sin expresiones, versión base)
 image te1 = im.Scale("images/char/tessie1.png", 399, 626)

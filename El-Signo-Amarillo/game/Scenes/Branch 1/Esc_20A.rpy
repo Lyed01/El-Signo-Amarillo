@@ -10,7 +10,7 @@ label esc_20A:
 
     n "Por un instante, creyó oír la voz de Tessie. Una risa, un susurro, el roce de su paso ligero."
     n "Pero cuando giró la cabeza, solo encontró su bata blanca sobre la silla, vacía, inerte, como la piel abandonada de algo que ya no pertenece a este mundo."
-
+    show sc1 at left
     sc "—Tessie… Perdón."
 
     n "El eco de su voz se perdió entre los muros. Intentó recordar su rostro, la forma en que se reía mientras pintaba, la luz que caía sobre su cabello."

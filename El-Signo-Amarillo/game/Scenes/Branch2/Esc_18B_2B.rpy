@@ -1,7 +1,7 @@
 label esc_18B_2B:
 
     scene edificio_frente with fade
-    play ambient "engine_idle_fog.ogg" fadein 1.5
+    play sound audio.sfx_motor fadein 1.5
 
     "El motor del auto arranca con un rugido seco que rompe el silencio del amanecer."
 

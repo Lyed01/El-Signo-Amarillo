@@ -3,7 +3,7 @@
 label esc_7B_1:
 
     scene bg estudioNoche with fade
-    
+    show sc1 at left
     sc "Mira, Tessie... no te atormentes más. Ven, siéntate un momento junto a la ventana. Respirá el aire, aunque huela a óxido. Fumá un poco si eso te ayuda."
 
     "Tessie se sienta en el alféizar. La brasa del cigarrillo ilumina su rostro, temblando con el viento."

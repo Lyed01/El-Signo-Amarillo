@@ -9,7 +9,7 @@ label esc_19A_1A:
     n "Scott permanecía de pie frente al cuadro. La luz de la lámpara caía sobre la figura de Tessie, perfectamente retratada, y sobre la silueta del agente, apenas esbozada al principio, pero que ahora parecía más nítida con cada mirada que él le dedicaba. La sombra gris adquiría volumen y forma; los ojos, ahora definidos, lo seguían con intensidad imposible."
 
     n "El artista apartó un paso, conteniendo la respiración. Cada trazo que él recordaba haber hecho se mezclaba con algo que no había ejecutado."
-
+    show sc1 at left
     sc "—No hay duda… —susurró—. No hay advertencia, no hubo huida, nada que yo pudiera hacer."
 
     n "Se inclinó, contemplando el lienzo desde distintos ángulos. La silueta del agente permanecía inmóvil, pero cada vez más real, como si respirara suavemente detrás de Tessie, observando sin moverse."

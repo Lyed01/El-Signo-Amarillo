@@ -8,11 +8,12 @@ label esc_13A:
     n "Cada vez que un relámpago lo iluminaba, su rostro parecía distinto: más hinchado, más blando, menos humano."
 
     n "Tessie, sentada frente al caballete, lo miraba con inquietud."
-
+    show te at left
     te "—¿Otra vez ese hombre?"
 
     n "Scott asintió sin apartar la vista del exterior."
 
+    show sc1 at right
     sc "—No se ha ido desde el mediodía. No se mueve, no habla… pero siento su mirada todo el tiempo."
 
     n "Ella se levantó despacio, acercándose a él."

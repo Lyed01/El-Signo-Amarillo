@@ -16,7 +16,7 @@ label esc_19A:
 
     n "Uno era un médico del régimen, con su uniforme gris y una máscara de gas colgando del cuello. En su mano llevaba una carpeta y un estetoscopio."
     n "El otro, detrás de él, era el agente, con el mismo rostro blando, hinchado, inmóvil."
-
+    show sc1 at left
     sc "—¿Qué… hacen aquí?"
 
     n "El médico se inclinó con una calma clínica."

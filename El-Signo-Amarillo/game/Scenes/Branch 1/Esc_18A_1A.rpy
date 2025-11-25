@@ -15,13 +15,13 @@ label esc_18A_1A:
     n "Detrás de la figura de Tessie, apenas esbozada, surgía una forma grisácea. Una silueta que no pertenecía a él: los contornos blandos de un hombre con la cabeza abultada, los hombros encorvados, la postura inmóvil. Los ojos, aunque apenas insinuados, parecían seguirlo con la misma intensidad que había sentido tantas veces en el atrio."
 
     n "Scott retrocedió, dejando caer un pincel al suelo. Su respiración se aceleró."
-
+    show sc1 at left
     sc "—No… —susurró, entre incredulidad y miedo—. Esto no puede ser mío."
 
     n "El lienzo estaba frío, inmóvil, y sin embargo había algo en la sombra que lo hacía sentir que lo miraba, que sabía cada pensamiento, cada temor. No había pinceladas suyas que pudieran haber trazado esa figura detrás de Tessie. La comprensión lo golpeó con fuerza: lo que estaba allí no era fruto de su mano."
 
     n "Apoyó la frente en la madera del caballete, intentando calmar el nudo en el pecho."
-
+    show te at right
     te "—Entonces… lo hizo él."
 
     n "Un silencio pesado se instaló en la habitación. Ni el viento ni el murmullo de la calle podían romperlo. Solo el estudio, el retrato y la certeza de que la figura gris no era una ilusión pasajera, sino una presencia que había trascendido la pintura misma."

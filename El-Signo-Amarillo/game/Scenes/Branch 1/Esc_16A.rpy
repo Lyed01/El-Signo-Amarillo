@@ -8,11 +8,11 @@ label esc_16A:
     n "Sobre la mesa, el libro amarillo permanecía abierto. Las páginas parecían absorber la luz del quinqué, como si cada símbolo dibujado se alimentara de ella."
 
     n "Scott y Tessie estaban sentados frente a frente, exhaustos, rodeados de bocetos, anotaciones y restos de vino."
-
+    show sc1 at left
     sc "—Cada uno de estos signos… los vi antes. En los sellos de la administración, en las insignias de los edificios públicos. Pensé que eran simples marcas del régimen… pero no. Están copiados del libro."
 
     n "Tessie frunció el ceño, la voz temblorosa."
-
+    show te at right
     te "—¿Está diciendo que el régimen usa el Signo Amarillo?"
 
     sc "—No lo usan. Lo adoran. Lo reproducen, lo ocultan dentro de los documentos, de los uniformes, de los retratos que me hacían pintar."
