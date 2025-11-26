@@ -11,7 +11,7 @@ label esc_9A:
 
     n "Thomas, el botones, entró con gesto tenso y el Herald doblado bajo el brazo. Su uniforme estaba arrugado y sus manos, cubiertas de polvo."
 
-    show tho1 at right
+    show tho at right
     th "—Señor Scott… Ha salido en el periódico: la iglesia fue vendida oficialmente esta mañana. Dicen que la compró un inversor del régimen."
 
     n "Scott no respondió de inmediato. Miró hacia el atrio, donde el agente seguía allí, impasible, como si la noticia no lo afectara."

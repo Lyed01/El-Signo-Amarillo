@@ -52,7 +52,7 @@ image te4 = "images/char/tessie4.webp"
 
 # Thomas (sin expresiones, version base)
 image tho1 = "images/char/thomas1.webp"
-image tho = "images/char/thomas2.webp"
+image tho = im.Scale("images/char/thomas2.png", 349*2, 338*2)
 
 # Agente
 image ag = "images/char/agente.png"
