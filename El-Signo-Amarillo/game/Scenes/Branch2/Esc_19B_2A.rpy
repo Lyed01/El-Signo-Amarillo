@@ -1,6 +1,6 @@
 label esc_19B_2A:
 
-    scene estudio_scott_tarde_nublada with fade
+    scene bg estudio_scott_tarde_nublada with fade
 
     "El estudio está en calma. La luz gris entra por las ventanas, tiñendo los lienzos de un tono pálido y melancólico."
     "SCOTT pinta con concentración; el sonido del pincel contra el lienzo es lo único que rompe el silencio."
@@ -26,7 +26,7 @@ label esc_19B_2A:
 
     "Pero antes de hacerlo, la puerta se abre de golpe. Dos hombres uniformados irrumpen, seguidos por un oficial de mirada fría."
 
-    general "Scott. Está bajo arresto por posesión de material prohibido."
+    of "Scott. Está bajo arresto por posesión de material prohibido."
 
     "SCOTT no responde. Solo aprieta el libro contra el pecho, comprendiendo."
     "Entre el ruido de las botas y las órdenes secas, una idea le atraviesa la mente como un cuchillo: alguien habló."
