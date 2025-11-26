@@ -55,10 +55,10 @@ image tho1 = "images/char/thomas1.webp"
 image tho = im.Scale("images/char/thomas2.png", 349*2, 338*2)
 
 # personajes del regimen
-image ag = "images/char/agente.png"
-image md = "images/char/"
-image of = "images/char/oficial.png"
-image es = "images/char/espia.png"
+image ag = im.Scale("images/char/agente.png", 612, 408 )
+image md = im.Scale("images/char/medico.png", 448, 400)
+image of = im.Scale("images/char/oficial.png",612, 408 )
+image es = im.Scale("images/char/espia.png", 500, 500)
 
 # el signo amarillo brillando
 image yellow_sign_glow = "images/effects/yellow_sign_glow.png"
