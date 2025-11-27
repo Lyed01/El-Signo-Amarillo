@@ -1,7 +1,7 @@
 label esc_17B_2B:
 
     scene bg estudio1 with fade
-    play ambient "morning_wind.ogg" fadein 2.0
+    play sound "viento.ogg"  fadein 2.0
 
     "El aire en el estudio se carga de una tensión vibrante, mezcla de miedo y esperanza."
 

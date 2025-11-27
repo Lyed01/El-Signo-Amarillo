@@ -1,6 +1,6 @@
 label esc_15A_1A:
 
-    scene bg estudio2 with fade
+    scene bg estudio1 with fade
 
     n "El sol se filtraba por la ventana con un resplandor denso, amarillento, casi febril. La luz atravesaba el humo de los cigarrillos y los velos de polvo, tiñendo el estudio con una calma tensa, como si el aire mismo estuviera cansado de respirar."
 

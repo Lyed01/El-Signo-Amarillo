@@ -1,6 +1,6 @@
 label esc_18B_2B:
 
-    scene edificio_frente with fade
+    scene bg edificio_frente with fade
     play sound audio.sfx_motor fadein 1.5
 
     "El motor del auto arranca con un rugido seco que rompe el silencio del amanecer."
@@ -22,7 +22,7 @@ label esc_18B_2B:
 
     "El auto se pone en marcha."
 
-    scene bg_car_depart_fog with dissolve
+    scene bg auto with dissolve
 
     "La cámara sigue el vehículo mientras se pierde entre la niebla matinal, dejando atrás el edificio, el estudio y el eco de todo lo que ocurrió entre sus paredes."
 

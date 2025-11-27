@@ -22,7 +22,7 @@ label esc_22A:
     n "Su pulso se aceleró. Intentó incorporarse, pero el cuerpo no respondió."
     n "El zumbido volvió, más grave, más profundo, vibrando en las paredes y dentro de su cabeza."
     n "Las pinturas sobre los muros se estremecieron; los rostros pintados se giraron lentamente hacia él, todos con la misma mirada vacía, todos con los ojos amarillos."
-    show te1 at right
+    
     te "—Scott… ¿lo ves ahora?"
 
     sc "—Sí… Siempre estuvo ahí. Solo necesitaba… abrirse."

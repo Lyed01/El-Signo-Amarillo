@@ -44,7 +44,7 @@ define modelo = Character(
 
 define soldado = Character(
     "soldado",
-    color = "#490000",
+    color = "#556B2F",
 )
 
 define general = Character(

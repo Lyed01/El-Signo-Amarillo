@@ -1,7 +1,7 @@
 label esc_19B_2B:
 
-    scene bg calle_noche with fade
-    play ambient "wind_car_road.ogg" fadein 1.5
+    scene bg carretera with fade
+    play sound audio.sfx_auto fadein 1.5
 
     "El sol se hunde lentamente detrás de los campos dorados."
     "El auto de SCOTT avanza por una carretera vacía, flanqueada por árboles que parecen observarlos en silencio."

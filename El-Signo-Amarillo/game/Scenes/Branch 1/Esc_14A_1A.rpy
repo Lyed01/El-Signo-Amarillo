@@ -1,6 +1,6 @@
 label esc_14A_1A:
 
-    scene bg estudio2 with fade
+    scene bg estudio1 with fade
 
     n "El cielo se había teñido de un gris amarillento, un color sin vida que parecía filtrarse por la ventana e impregnarlo todo: los muebles, las telas, incluso la piel de Tessie. El aire estaba espeso, cargado de polvo y silencio. Solo el roce del pincel de Scott interrumpía la calma, un sonido suave y constante, casi hipnótico."
 

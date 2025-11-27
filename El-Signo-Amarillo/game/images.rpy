@@ -32,6 +32,7 @@ image bg sotano_iglesia   = im.Scale("images/bg/sotano_iglesia.webp", 1920, 1080
 image bg escena1          = im.Scale("images/bg/escena1.png", 1920, 1080)
 image bg bibliotecaNoche  = im.Scale("images/bg/bibliotecaNoche.webp", 1920, 1080)
 image bg estudioNoche    = im.Scale("images/bg/estudioNoche.webp", 1920, 1080)
+image bg estudio_scott_tarde_nublada = im.Scale("images/bg/estudio_scott_tarde_nublada.png", 1920, 1080)
 
 
 
@@ -52,10 +53,13 @@ image te4 = "images/char/tessie4.webp"
 
 # Thomas (sin expresiones, version base)
 image tho1 = "images/char/thomas1.webp"
-image tho = "images/char/thomas2.webp"
+image tho = im.Scale("images/char/thomas2.png", 349*2, 338*2)
 
-# Agente
-image ag = "images/char/agente.png"
+# personajes del regimen
+image ag = im.Scale("images/char/agente.png", 612*1.5, 408*1.5 )
+image md = im.Scale("images/char/medico.png", 448*1.5, 400*1.5)
+image of = im.Scale("images/char/oficial.png",612*1.5, 408*1.5 )
+image es = im.Scale("images/char/espia.png", 500*1.3, 500*1.3)
 
 # el signo amarillo brillando
 image yellow_sign_glow = "images/effects/yellow_sign_glow.png"

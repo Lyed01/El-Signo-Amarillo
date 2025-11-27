@@ -1,7 +1,6 @@
 label esc_20B_2A:
 
     scene bg campo_fusilacion with fade
-    play ambient "wind.ogg" fadein 2.0
 
     "La neblina cubre el campo como una sábana húmeda. El aire es frío, cortante, casi inmóvil."
 
@@ -9,20 +8,20 @@ label esc_20B_2A:
     "En el centro, SCOTT está de pie frente a un muro descascarado, las manos atadas. Su camisa blanca está oscurecida por el rocío."
 
     "A lo lejos, los pasos acompasados de un pelotón se acercan."
-    play sound "march.ogg"
 
     "El sonido metálico de los fusiles rompe el silencio, marcando los últimos segundos."
 
     "SCOTT mira hacia el horizonte. Apenas hay luz, solo una línea tenue donde comienza a aclarar el cielo."
 
     "Por un instante, cierra los ojos. Tal vez recuerde su estudio… la textura del óleo en sus dedos…"
-    "O tal vez imagine a Tessie leyendo esta noticia."
+    "O tal vez imagine a Tessie reading this news."
 
     scene black with fade
     play sound audio.sfx_disparos
 
     "..."
 
+    play sound audio.theme_ventisca fadein 2.0
     scene bg campo_fusilacion with fade 
     "El estruendo corta el amanecer."
     "Las aves levantan vuelo desde los muros."
