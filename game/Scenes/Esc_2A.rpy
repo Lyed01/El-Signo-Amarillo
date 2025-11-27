@@ -1,6 +1,6 @@
-label escena_2_reprimir_recuerdos_branch1:
+label esc_2A:
 
-    scene estudio1
+    scene bg estudio1 with fade
 
     n "El estudio estaba en silencio, apenas perturbado por el lejano estruendo de un motor del régimen atravesando la plaza. Scott se quedó quieto, de pie frente al caballete vacío; sus dedos se crispaban como si intentarán aferrarse a algo invisible. La bruma de la ciudad se filtraba por la ventana abierta y, con ella, un olor a carbón y a acero caliente que le anudaba el estómago."
 

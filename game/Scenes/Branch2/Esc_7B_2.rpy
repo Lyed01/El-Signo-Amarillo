@@ -1,6 +1,8 @@
 # escena_opcion2.rpy
 
-label opcion_2_tessie:
+label esc_7B_2:
+
+    scene bg estudioNoche with fade
 
     sc "Tessie… deberías tomarte un tiempo libre. Salí unos días al campo, lejos del ruido, de esta ciudad que todo lo contamina. Te haría bien respirar aire limpio."
 
@@ -12,7 +14,7 @@ label opcion_2_tessie:
 
     "Scott se aparta, dándole espacio. El sonido lejano de la ciudad se diluye."
 
-    scene estudio_ventana_tarde
+    scene bg estudioNoche
     with dissolve
 
     "Cuando ella se acerca a la ventana, recortada contra la luz gris, Scott hace lo mismo… pero algo lo detiene."
