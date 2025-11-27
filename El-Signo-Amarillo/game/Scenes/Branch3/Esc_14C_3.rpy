@@ -1,4 +1,4 @@
-label esc_14:
+label esc_14C:
 
     scene black
     with fade
@@ -12,11 +12,13 @@ label esc_14:
     n "SCOTT se acercó a una mesa. El polvo formaba una capa tan gruesa que los dedos dejaban surcos al tocarla."
     n "Entre los papeles, distinguió sellos oficiales del régimen y etiquetas numeradas: 'PROPIEDAD CONFISCADA — DIVISIÓN CULTURAL.'"
 
+    show tho at left
     th "Dios mío… Esto parece un cementerio de arte."
 
     n "SCOTT desenrolló uno de los lienzos. El rostro de una mujer emergió bajo la luz."
     n "Los colores aún vibraban bajo la suciedad, pero los ojos tenían un brillo inquietante: un círculo dorado en el iris, idéntico al emblema de los vitrales."
 
+    show sc1 at right
     sc "Son obras prohibidas. Pinturas de antes de la invasión… artistas que desaparecieron."
 
     n "THOMAS se inclinó junto a una pila de libros. Uno de ellos se abrió con un sonido áspero."

@@ -1,4 +1,4 @@
-label esc_15_sotano_iglesia:
+label esc_15C:
 
     scene black
     with fade
@@ -23,6 +23,7 @@ label esc_15_sotano_iglesia:
     n "El funcionario colocó el disco sobre una hoja y comenzó a calcarlo con un lápiz de punta blanda."
     n "Cada trazo era un acto medido, silencioso, como si copiara un signo que no debía existir y, al mismo tiempo, no podía ser destruido."
 
+    show tho at left
     th "¿Qué está haciendo?"
 
     n "Scott no respondió. Observaba, atento."
@@ -39,6 +40,7 @@ label esc_15_sotano_iglesia:
 
     n "Scott asintió, aún mirando la mesa donde el disco había reposado."
 
+    show sc1 at right
     sc "Sí. Y si ese hombre lo registraba, significa que saben que todavía existe."
 
     n "Sus miradas se cruzaron en la penumbra."

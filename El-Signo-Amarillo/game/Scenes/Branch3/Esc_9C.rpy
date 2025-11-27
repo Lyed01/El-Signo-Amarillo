@@ -9,7 +9,7 @@ label esc_9C:
     n "Thomas, el botones, entra al estudio con un ejemplar del Herald en la mano."
     n "Scott revisa algunos bocetos junto al caballete, aún con gesto cansado."
 
-    show th1 at right
+    show tho at right
     th "(el periódico en alto) El Herald, señor. Hay una noticia que quizá le interese: la antigua iglesia de al lado fue vendida."
 
     n "Scott levanta la mirada, sorprendido, y esboza una media sonrisa."

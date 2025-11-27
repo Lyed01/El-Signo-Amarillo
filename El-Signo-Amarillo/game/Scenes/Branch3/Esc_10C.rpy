@@ -11,7 +11,7 @@ label esc_10C:
     n "Ambos observan la plaza. Los transeúntes pasan sin prisa, los uniformes grises cruzan las esquinas,"
     n "y el reloj del edificio marca el avance del día con un repique seco."
 
-    show th1 at right
+    show tho at right
     th "¿Se habrá retrasado mucho, señor?"
 
     show sc1 at left

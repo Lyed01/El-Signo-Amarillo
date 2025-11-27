@@ -1,4 +1,4 @@
-label esc_19_op1:
+label esc_19C:
 
     scene calle_noche_lluvia with fade
 
@@ -12,7 +12,9 @@ label esc_19_op1:
     n "El aire olía a carbón y óxido."
     n "El eco lejano de una sirena se confundía con el latido en sus sienes."
 
+    show tho at left
     th "¿Está seguro de esto, señor?"
+    show sc1 at right
     sc "Sí. Solo necesito descansar."
 
     n "THOMAS asintió, aunque su mirada delataba inquietud."

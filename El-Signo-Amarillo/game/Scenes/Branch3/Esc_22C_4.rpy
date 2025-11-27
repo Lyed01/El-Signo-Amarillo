@@ -8,6 +8,7 @@ label escena_22_opcion_2:
     n "Tessie está sentada frente a Scott, los ojos bajos, nerviosos."
     n "Él la observa en silencio, percibiendo que hay algo más detrás de su inquietud."
 
+    show te1 at left
     te "Scott… necesito contarte lo que encontré."
 
     n "Scott no responde."
@@ -21,6 +22,7 @@ label escena_22_opcion_2:
     n "Scott se tensa."
     n "El cigarrillo entre sus dedos se apaga sin que lo note."
 
+    show sc1 at right
     sc "(voz baja) ¿Un círculo dorado?"
 
     te "Asentí."

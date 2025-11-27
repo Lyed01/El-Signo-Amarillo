@@ -15,7 +15,7 @@ label esc_11C:
     show sc1 at left
     sc "(para sí) No ha llegado todavía… Supongo que se entretuvo en su apartamento."
 
-    show th1 at right
+    show tho at right
     th "(asintiendo) Quizá, señor. La mañana avanza rápido… y con tanto que investiga, podría haberse distraído."
 
     n "Scott asiente, sin convicción. El silencio los rodea."

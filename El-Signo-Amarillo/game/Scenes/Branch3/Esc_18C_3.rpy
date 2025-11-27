@@ -1,4 +1,4 @@
-label esc_18:
+label esc_18C:
 
     scene lluvia_plaza with fade
 
@@ -6,6 +6,7 @@ label esc_18:
     n "SCOTT permanecía frente a la puerta de la iglesia, la visión de TESSIE aún grabada en su mente. El agua le corría por el rostro, mezclándose con el sudor y la culpa."
     n "THOMAS lo observaba en silencio, los hombros encogidos bajo el abrigo mojado."
 
+    show tho at left
     th "¿Y ahora, señor?"
 
     n "SCOTT no respondió. La imagen de TESSIE bajo la lluvia, con el símbolo brillando sobre su pecho, lo perseguía con una claridad insoportable."
@@ -16,6 +17,7 @@ label esc_18:
 
     n "SCOTT lo miró apenas, comprendiendo sin necesidad de palabras."
 
+    show sc1 at right
     sc "Entiendo."
 
     n "THOMAS asintió una última vez y se alejó bajo la lluvia, su figura desvaneciéndose entre la niebla."

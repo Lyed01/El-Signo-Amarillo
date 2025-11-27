@@ -1,4 +1,4 @@
-label escena_19_opcion_2:
+label esc_19C_4:
 
     scene calle_noche_lluvia with fade
 
@@ -19,6 +19,7 @@ label escena_19_opcion_2:
     n "Conocer demasiado —lo sabía ahora— era una condena."
     n "Y, sin embargo, seguía avanzando."
 
+    show sc1 at center
     sc "Solo un poco más…"
 
     n "Sus pasos resonaron en la calle desierta."

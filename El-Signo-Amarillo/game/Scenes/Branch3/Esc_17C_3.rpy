@@ -1,4 +1,4 @@
-label esc_17:
+label esc_17C:
 
     scene atrio_iglesia_lluvia with fade
     play sound "audio/lluvia_suave.ogg"
@@ -32,6 +32,7 @@ label esc_17:
     n "Scott quedó inmóvil, el corazón acelerado, la mente repitiendo el destello como una advertencia."
 
     # Diálogo de Scott
+    show sc1 at center
     sc "Tessie…"
 
     n "El miedo se mezcló con la culpa. La había dejado sola."
