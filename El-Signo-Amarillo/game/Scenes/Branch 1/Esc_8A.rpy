@@ -1,6 +1,6 @@
-label escena_8_atrio_iglesia_plaza_estudio:
+label esc_8A:
 
-    scene plaza_atardecer with fade
+    scene bg atrio_iglesia_agente with fade
 
     n "La tarde descendía sobre la ciudad con un resplandor grisáceo, apagado por la bruma y el humo industrial que flotaba sobre los techos. En el atrio de la iglesia vecina, aún podía verse al agente del régimen, inmóvil, apoyado en la baranda de piedra, con el rostro blando y abultado vuelto hacia la calle. Sus ojos, hundidos en la penumbra, parecían seguir cada movimiento con un interés repulsivo."
 
@@ -10,10 +10,12 @@ label escena_8_atrio_iglesia_plaza_estudio:
 
     n "El viento arrastraba hojas secas y restos de papel contra los escalones. En la distancia, el sonido metálico de las patrullas se mezclaba con el murmullo de una marcha militar. Scott sintió el mismo malestar que lo había invadido la primera vez que cruzó la mirada con aquel hombre. Era un reflejo visceral, una repulsión que nacía del instinto más primitivo: algo en ese ser —su rigidez, su quietud antinatural— evocaba la podredumbre de la carne que no debería seguir viva."
 
+    show sc1 at right
     sc "—No se ha movido desde ayer…"
 
     n "Desde el estudio, Tessie levantó la vista de sus notas."
 
+    show te1 at left
     te "—¿Sigue ahí?"
 
     n "Scott asintió, sin apartar los ojos del atrio."

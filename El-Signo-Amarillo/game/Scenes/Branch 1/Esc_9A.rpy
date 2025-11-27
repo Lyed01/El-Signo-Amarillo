@@ -1,15 +1,17 @@
-label escena_9_estudio_atrio_manana:
+label esc_9A:
 
-    scene estudio_manana with fade
+    scene bg estudio1 with fade
 
     n "La neblina cubría la plaza como un velo espeso. El aire olía a carbón y humedad, y el sonido distante de un órgano desafinado emergía desde la iglesia vecina, ahora vacía y en venta. Scott se encontraba frente a la ventana, observando la figura inmóvil del agente en el atrio: el mismo hombre blando, gris y silencioso que desde hacía días parecía haberse fundido con la piedra."
 
     n "Un golpe en la puerta lo hizo girar."
 
+    show sc1 at left
     sc "—Pase."
 
     n "Thomas, el botones, entró con gesto tenso y el Herald doblado bajo el brazo. Su uniforme estaba arrugado y sus manos, cubiertas de polvo."
 
+    show tho1 at right
     th "—Señor Scott… Ha salido en el periódico: la iglesia fue vendida oficialmente esta mañana. Dicen que la compró un inversor del régimen."
 
     n "Scott no respondió de inmediato. Miró hacia el atrio, donde el agente seguía allí, impasible, como si la noticia no lo afectara."
@@ -42,7 +44,7 @@ label escena_9_estudio_atrio_manana:
 
     n "Thomas apretó los puños."
 
-    th "—Me acerqué, señor. No sé qué me dio. Le pegué. Un golpe directo. Pero cuando lo hice… sentí que mi mano se hundía, como si no golpeara carne, sino algo blando, una masa sin huesos." 
+    th "—Me acerqué, señor. No sé qué me dio. Le pegué. Un golpe directo. Pero cuando lo hice… sentí que mi mano se hundía, como si no golpeara carne, sino algo blando, una masa sin huesos."
     th "—Él me agarró la muñeca. Fue como meterla en un pantano helado. Y cuando logré soltarme…"
 
     n "Thomas extendió la mano temblorosa."

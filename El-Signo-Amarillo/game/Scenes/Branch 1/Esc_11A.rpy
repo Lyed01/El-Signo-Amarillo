@@ -1,20 +1,20 @@
-label escena_11_estudio_noche_lluvia:
+label esc_11A:
 
-    scene estudio_noche_lluvia with fade
+    scene bg estudioNoche with fade
 
     n "La luz del quinqué temblaba sobre los lienzos apoyados contra la pared. Afuera, la lluvia caía fina, dejando un murmullo constante sobre los techos de metal. El estudio olía a aceite de linaza y cigarrillos; un refugio cálido en medio del aire húmedo que traía el otoño."
 
     n "Tessie se envolvía con una manta mientras observaba el cuadro inacabado. Sus ojos reflejaban cansancio, pero también algo más profundo, una inquietud que parecía no haberla dejado dormir en días."
-
+    show te1 at left
     te "—No sé qué me pasa, Scott. Desde hace noches tengo el mismo sueño… o pesadilla, no lo sé."
 
     n "Él se detuvo, el cigarrillo entre los dedos, y la miró con atención."
-
+    show sc1 at right
     sc "—¿Otra vez los carros del régimen?"
 
     n "Ella asintió lentamente."
 
-    te "—Sí… pero esta vez es diferente. No hay ruido, no hay gente. Solo la plaza, vacía. Estoy sola, y el cielo es del color del plomo. En el atrio de la iglesia hay un hombre… el mismo de siempre, el del rostro blando. Me mira, y cuando quiero moverme, no puedo. Ni siquiera respirar." 
+    te "—Sí… pero esta vez es diferente. No hay ruido, no hay gente. Solo la plaza, vacía. Estoy sola, y el cielo es del color del plomo. En el atrio de la iglesia hay un hombre… el mismo de siempre, el del rostro blando. Me mira, y cuando quiero moverme, no puedo. Ni siquiera respirar."
     te "—Siento que me observa incluso después de despertar."
 
     n "Scott se acercó, apagando el cigarrillo en el borde del cenicero."
@@ -63,7 +63,7 @@ label escena_11_estudio_noche_lluvia:
 
     n "Él la rodeó con un brazo, sin apartar la vista de la ventana."
 
-    sc "—Yo también, Tess. Pero prometeme una cosa: si vuelve a mirarte… no le devuelvas la mirada."
+    sc "—Yo también, Tess. Pero prometeme una cosa: si vuelve a mirarte… no le devolvas la mirada."
 
     n "Ella asintió despacio."
 

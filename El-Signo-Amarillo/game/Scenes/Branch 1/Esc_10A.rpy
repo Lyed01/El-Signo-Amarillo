@@ -1,15 +1,17 @@
-label escena_10_estudio_manana_tarde:
+label esc_10A:
 
-    scene estudio_gris with fade
+    scene bg estudio1 with fade
 
     n "La luz que entraba por la ventana era tenue, difusa por la bruma que cubría la ciudad. El humo de las fábricas teñía los rayos del sol de un tono amarillento, como si la propia atmósfera se hubiera contagiado del color enfermizo que persistía en los cuadros de Scott."
 
     n "En medio del silencio, solo se escuchaba el roce del carbón sobre la tela y el sonido del cigarrillo encendiéndose. Tessie estaba sentada sobre la tarima, con una bata ligera que dejaba ver la blancura de sus brazos. Sonreía distraída mientras trataba de mantener la pose, observando de reojo cómo él trabajaba, concentrado y en calma."
 
+    show te1 at left
     te "—Hoy parece más tranquilo, señor Scott."
 
     n "Él asintió, sin levantar la vista."
 
+    show sc1 at right
     sc "—Después de días viendo ese rostro en el atrio, cualquier mañana sin sobresaltos parece un regalo."
 
     n "Tessie soltó una risa breve, esa que siempre lograba quebrar la rigidez del estudio."

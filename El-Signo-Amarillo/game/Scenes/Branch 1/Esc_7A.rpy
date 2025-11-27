@@ -1,6 +1,6 @@
-label escena_7_recomienda_salida_tessie:
+label esc_7A:
 
-    scene estudio with fade
+    scene bg estudio1 with fade
 
     n "El estudio había quedado sumido en un silencio denso, casi tangible, después del relato de Tessie. La luz gris que entraba por la ventana daba a sus mejillas un matiz pálido, y sus manos, aún temblorosas, se aferraban al borde de la mesa como si aquella madera fuera lo único que la mantenía en pie."
 
@@ -8,10 +8,12 @@ label escena_7_recomienda_salida_tessie:
 
     n "Se acercó despacio y apoyó una mano en su hombro."
 
+    show sc1 at right
     sc "—Tessie. Necesitás descansar. Esto… esto no te lo está haciendo fácil."
 
     n "Ella levantó apenas la mirada. Sus ojos tenían un brillo húmedo, pero también un cansancio que Scott reconocía demasiado bien: era el cansancio del peligro, del miedo constante."
 
+    show te1 at left 
     te "—No puedo evitar sentir que algo se acerca. Todo parece… vigilado, como si cada sombra estuviera esperando que yo parpadee."
 
     n "Scott apretó ligeramente su hombro, no para contenerla, sino para anclarla de alguna forma a un punto seguro."
