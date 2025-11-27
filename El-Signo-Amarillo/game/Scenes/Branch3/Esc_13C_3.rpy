@@ -1,5 +1,6 @@
 label esc_13C_3:
 
+
     scene black with fade
 
     n "El interior de la iglesia estaba oscuro, impregnado por un olor a humedad y aceite viejo."
@@ -8,11 +9,13 @@ label esc_13C_3:
 
     n "Thomas cerró la puerta detrás de ellos. El ruido metálico se amplificó por todo el recinto."
 
+    show tho at left
     th "No me gusta esto, señor. Parece que nadie ha estado aquí desde hace meses."  # susurrando
 
     n "Scott avanzó despacio por el pasillo central."
     n "La luz filtrada por los vitrales mostraba fragmentos de símbolos que no pertenecían a ninguna iconografía religiosa conocida: círculos incompletos, trazos dorados entrecruzados, espirales que parecían formar letras imposibles."
 
+    show sc1 at right
     sc "No son adornos… Están grabados sobre el vidrio, como si alguien los hubiese marcado desde dentro."  # voz baja
 
     n "Thomas se acercó a un muro lateral y pasó la mano sobre una grieta."

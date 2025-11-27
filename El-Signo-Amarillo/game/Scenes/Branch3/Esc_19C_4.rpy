@@ -19,6 +19,7 @@ label esc_19C_4:
     n "Conocer demasiado —lo sabía ahora— era una condena."
     n "Y, sin embargo, seguía avanzando."
 
+    show sc1 at center
     sc "Solo un poco más…"
 
     n "Sus pasos resonaron en la calle desierta."

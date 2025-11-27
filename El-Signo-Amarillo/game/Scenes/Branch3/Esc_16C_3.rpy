@@ -9,7 +9,8 @@ label esc_16C_3:
     n "Un revólver antiguo, limpio de polvo, reposaba entre los restos de una caja rota."
     n "Scott lo levantó. El metal reflejaba un destello tenue, casi solemne."
 
-    PERSONAJE THOMAS "¿Qué hacemos con esto, señor?"
+    show tho at left
+    th "¿Qué hacemos con esto, señor?"
 
     n "Scott permaneció inmóvil. El arma pesaba más de lo que parecía."
     n "El silencio del sótano se volvió denso, expectante."
@@ -33,6 +34,7 @@ label esc_16_opcion_tomar:
 
     n "Scott apretó los dedos alrededor del revólver."
 
+    show sc1 at left
     sc "La tomo."
 
     n "Su respiración era tensa, pero su mirada permanecía fija, decidida."
@@ -54,8 +56,10 @@ label esc_16_opcion_dejar:
 
     n "Scott dejó el revólver en la caja."
 
+    show sc1 at left
     sc "No lo necesito."
 
+    show tho at right
     th "¿Está seguro, señor?"
 
     sc "Sí. No quiero que esto cambie quién soy… ni lo que debo hacer."

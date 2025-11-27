@@ -17,12 +17,14 @@ label esc_21C_4:
     n "Cansada, pero tranquila."
     n "Sus ojos traen consigo una calma extraña, como si su mente hubiera viajado muy lejos."
 
+    show sc1 at left
     sc "¡Tessie!"
     sc "¡Por fin!"
 
     n "Corre hacia ella."
     n "La toma de los hombros, con una mezcla de alivio y reproche."
 
+    show te1 at right
     te "Scott… no sabía que estabas preocupado."
 
     sc "¿No sabías?"
