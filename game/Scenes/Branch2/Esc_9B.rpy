@@ -1,8 +1,8 @@
 # escena_9.rpy
 
-label escena_9_estudio:
+label esc_9B:
 
-    scene estudio_tarde
+    scene bg estudio1
     with fade
 
     "La luz entra tamizada por los ventanales del estudio. El aire huele a óleo y trementina; el ambiente está en calma."
