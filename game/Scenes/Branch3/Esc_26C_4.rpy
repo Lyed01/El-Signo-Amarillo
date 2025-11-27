@@ -1,4 +1,4 @@
-label escena_26_opcion_2:
+label esc_26C_4:
 
     scene estudio_scott_noche with fade
 

@@ -1,4 +1,4 @@
-label escena_26:
+label esc_26C_3:
 
     scene atrio_iglesia_noche with fade
 

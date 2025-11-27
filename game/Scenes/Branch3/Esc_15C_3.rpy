@@ -1,4 +1,4 @@
-label esc_15_sotano_iglesia:
+label esc_15C_3:
 
     scene black
     with fade

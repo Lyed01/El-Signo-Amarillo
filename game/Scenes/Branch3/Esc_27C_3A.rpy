@@ -1,4 +1,4 @@
-label escena_27_3a:
+label esc_27C_3:
 
     scene black with fade
     play sound "thunder.wav"

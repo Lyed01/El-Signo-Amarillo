@@ -1,4 +1,4 @@
-label esc_13_iglesia:
+label esc_13C_3:
 
     scene black with fade
 

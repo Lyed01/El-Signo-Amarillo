@@ -1,4 +1,4 @@
-label escena_21_opcion_1:
+label esc_21C_3:
 
     scene estudio_scott_manana with fade
 

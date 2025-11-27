@@ -1,4 +1,4 @@
-label escena_34B:
+label esc_34C_4_1_2:
 
     scene black with fade
     n "Sótano de la iglesia. Noche. Bruma. Un silencio denso envuelve todo."

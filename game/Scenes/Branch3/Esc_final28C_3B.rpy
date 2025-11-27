@@ -1,4 +1,4 @@
-label escena_final_segunda_opcion:
+label esc_final28C_3B:
 
     scene atrio_negro_brillante with fade
 

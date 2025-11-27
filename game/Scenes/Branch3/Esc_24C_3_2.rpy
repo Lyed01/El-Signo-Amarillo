@@ -1,4 +1,4 @@
-label escena_24:
+label esc_24C_3:
 
     scene estudio_scott_noche with fade
 

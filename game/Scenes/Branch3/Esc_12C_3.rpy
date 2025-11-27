@@ -1,4 +1,4 @@
-label branch_thomas_scene12:
+label esc_12_3:
 
     # Comienza con la bruma exterior y el ambiente tenso
     scene bg_plaza_bruma with fade

@@ -1,4 +1,4 @@
-label esc_16_sotano:
+label esc_16C_3:
 
     scene black with fade
 

@@ -1,4 +1,4 @@
-label escena_22_opcion_2:
+label esc_22C_4:
 
     scene hospedaje_tessie_noche with fade
 

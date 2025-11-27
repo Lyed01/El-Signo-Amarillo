@@ -1,4 +1,4 @@
-label escena_25:
+label esc_25C_3:
 
     scene calles_lluvia with fade
 

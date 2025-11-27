@@ -1,4 +1,4 @@
-label escena_31_sotano_iglesia:
+label esc_31C_4_1:
 
     scene bg_sotano_iglesia with fade
 

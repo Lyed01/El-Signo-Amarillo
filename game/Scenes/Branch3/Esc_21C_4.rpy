@@ -1,4 +1,4 @@
-label escena_21_opcion_2:
+label esc_21C_4:
 
     scene bg_hospedaje_tessie with fade
 

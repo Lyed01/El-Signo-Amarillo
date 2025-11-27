@@ -1,4 +1,4 @@
-label escena_19_opcion_2:
+label esc_19C_4:
 
     scene calle_noche_lluvia with fade
 
