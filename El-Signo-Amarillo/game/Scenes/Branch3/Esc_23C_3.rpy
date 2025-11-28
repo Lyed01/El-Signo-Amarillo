@@ -57,10 +57,10 @@ label esc_23C_3:
 
     menu:
         "Opcion A - Tomar venganza":
-            jump opcionA
+            jump escena_23_venganza
 
         "Opcion B - Sucumbir":
-            jump opcionB
+            jump escena_23_sucumbir
 
 
 # ------------------------------

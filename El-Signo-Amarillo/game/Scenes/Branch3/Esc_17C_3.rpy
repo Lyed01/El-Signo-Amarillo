@@ -1,7 +1,7 @@
 label esc_17C_3:
 
     scene bg atrio with fade
-    play sound "audio/lluvia_suave.ogg"
+    #play sound "audio/lluvia_suave.ogg"
 
     # Ascenso desde el sótano
     n "El eco de los pasos del funcionario aún flotaba en el aire cuando Scott ascendió por la escalera del sótano."
