@@ -1,7 +1,7 @@
 label esc_13C_3:
 
 
-    scene black with fade
+    scene iglesia_interior with fade
 
     n "El interior de la iglesia estaba oscuro, impregnado por un olor a humedad y aceite viejo."
     n "Las columnas, ennegrecidas por el hollín, se alzaban como esqueletos bajo una bóveda que había perdido casi todos sus vitrales."

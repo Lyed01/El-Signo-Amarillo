@@ -1,7 +1,7 @@
 label esc_17C_3:
 
     scene bg atrio with fade
-    #play sound "audio/lluvia_suave.ogg"
+    play sound "audio/lluvia_suave.ogg"
 
     # Ascenso desde el sótano
     n "El eco de los pasos del funcionario aún flotaba en el aire cuando Scott ascendió por la escalera del sótano."
@@ -9,7 +9,7 @@ label esc_17C_3:
     n "La luz de los vitrales rotos proyectaba figuras amarillentas sobre las losas húmedas, formas que se movían con lentitud, como si tuvieran voluntad propia."
 
     # Branch: Scott tiene el revólver o no
-    if scott_tiene_revolver:
+    if arma:
         n "Scott llevaba el revólver en la mano."
     else:
         n "Scott llevaba el vacío en el bolsillo, según la decisión tomada."
