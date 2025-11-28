@@ -1,6 +1,6 @@
 label esc_15C_3:
 
-    scene bg sotano_iglesia
+    scene bg sotano_iglesia with fade
     with fade
 
     n "La oscuridad del sótano los envolvía por completo."

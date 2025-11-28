@@ -17,7 +17,6 @@ image bg flashback    = im.Scale("images/bg/flashbackguerra.webp", 1920, 1080)
 image bg recepcion1    = im.Scale("images/bg/recepcion1.webp", 1920, 1080)
 image bg recepcion2    = im.Scale("images/bg/recepcion2.webp", 1920, 1080)
 image bg recepcion2_2    = im.Scale("images/bg/recepcion2(lampara).webp", 1920, 1080)
-image bg iglesia_interior    = im.Scale("images/bg/iglesia_interior.png", 1920, 1080)
 image bg auto    = im.Scale("images/bg/brum_brum.png", 1920, 1080)
 image bg calle_dia    = im.Scale("images/bg/calle_dia.png", 1920, 1080)
 image bg calle_noche    = im.Scale("images/bg/calle_noche.png", 1920, 1080)
@@ -35,7 +34,7 @@ image bg bibliotecaNoche      = im.Scale("images/bg/bibliotecaNoche.webp", 1920,
 image bg estudioNoche         = im.Scale("images/bg/estudioNoche.webp", 1920, 1080)
 image bg estudio_scott_tarde_nublada = im.Scale("images/bg/estudio_scott_tarde_nublada.png", 1920, 1080)
 image bg atrio              = im.Scale("images/bg/atrio_iglesia.png", 1920, 1080)
-
+image bg flashbackTessie     = im.Scale("images/bg/flashbackTessie.png", 1920, 1080)
 
 # -----------------------------------------------------
 # PERSONAJES (Sprites básicos)
