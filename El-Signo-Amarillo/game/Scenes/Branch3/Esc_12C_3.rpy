@@ -1,4 +1,4 @@
-label esc_12_3:
+label esc_12C_3:
 
     # Comienza con la bruma exterior y el ambiente tenso
     scene bg plaza_iglesia with fade
@@ -15,7 +15,7 @@ label esc_12_3:
     sc "(voz baja, firme) Vamos a la iglesia."
 
     
-    show th at right
+    show tho at right
     th "(sorprendido) ¿A la iglesia, señor?"
     th "No creo que el régimen vea con buenos ojos que entremos sin permiso."
 
@@ -46,7 +46,7 @@ label esc_12_3:
     "Scott empujó el portón."
     "El chirrido del metal reverberó en el interior, rompiendo el silencio."
 
-    scene black with slow_fade
+    scene black with fade
 
     "CORTE A NEGRO."
 

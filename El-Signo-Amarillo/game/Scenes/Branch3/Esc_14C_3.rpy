@@ -1,6 +1,6 @@
 label esc_14C_3:
 
-    scene bg sotano_iglesia
+    scene bg atrio with fade 
     with fade
 
     n "El aire que emergió del sótano olía a humedad, cera y óxido."

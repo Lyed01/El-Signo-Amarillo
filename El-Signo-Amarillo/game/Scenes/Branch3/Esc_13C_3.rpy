@@ -9,7 +9,7 @@ label esc_13C_3:
 
     n "Thomas cerró la puerta detrás de ellos. El ruido metálico se amplificó por todo el recinto."
 
-    show th at left
+    show tho at left
     th "No me gusta esto, señor. Parece que nadie ha estado aquí desde hace meses."  # susurrando
 
     n "Scott avanzó despacio por el pasillo central."

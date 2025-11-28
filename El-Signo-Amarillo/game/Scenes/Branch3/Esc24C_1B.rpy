@@ -1,4 +1,4 @@
-label esc_24B_C_1:
+label esc_24C_1B:
 
     scene bg casa_tessie_noche with fade
 
