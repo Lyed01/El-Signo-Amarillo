@@ -1,6 +1,6 @@
 label esc_19C_3:
 
-    scene calle_noche_lluvia with fade
+    scene bg calle_noche with fade
 
     n "SCOTT eligió el silencio antes que la urgencia."
     n "La imagen de TESSIE, empapada y marcada por el signo, lo acompañó unos pasos más, hasta desvanecerse en la bruma."
@@ -21,7 +21,7 @@ label esc_19C_3:
     n "Lo observó subir los escalones, abrir la puerta y perderse en la penumbra."
     n "La lluvia continuó cayendo, lenta, constante, como si la ciudad lo despidiera con un lamento."
 
-    scene depto_scott_oscuro with fade
+    scene bg casa_scott with fade
 
     n "SCOTT cerró la puerta tras de sí."
     n "La oscuridad del pasillo lo envolvió, espesa, familiar."

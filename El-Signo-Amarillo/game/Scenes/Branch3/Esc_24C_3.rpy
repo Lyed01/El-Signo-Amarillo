@@ -1,6 +1,6 @@
 label esc_24C_3:
 
-    scene estudio_scott_noche with fade
+    scene bg estudioNoche with fade
 
     n "SCOTT respira con dificultad. Cada inhalación suena como un golpe en el pecho, un esfuerzo brutal por mantener el aire dentro de un cuerpo que arde de rabia."
     n "El agua se filtra por el marco de la ventana, dibujando un hilo delgado que cae sobre la madera."
@@ -28,7 +28,7 @@ label esc_24C_3:
     n "Las luces del pasillo parpadean."
     n "El aire huele a óxido y gasoil: la respiración áspera de la ciudad."
 
-    scene calles_lluvia_noche with fade
+    scene bg calle_noche with fade
 
     n "Abre la puerta principal. El aguacero lo golpea de lleno. El frío lo despeja."
     n "La plaza está vacía, apenas iluminada por faroles que tiemblan bajo la lluvia."

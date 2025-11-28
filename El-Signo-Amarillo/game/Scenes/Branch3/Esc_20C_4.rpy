@@ -1,6 +1,6 @@
 label esc_20C_4:
 
-    scene streets_fog with fade
+    scene bg edificio_frente with fade
 
     n "La ciudad está envuelta en humo industrial."
     n "El sonido de los motores lejanos se mezcla con el silbido del viento entre los edificios."
@@ -16,6 +16,8 @@ label esc_20C_4:
     n "Scott llega al hospedaje. Empuja la puerta."
     n "El sonido de las bisagras rompe el silencio."
     n "Adentro, la penumbra. El polvo suspendido. Un olor a humedad y perfume olvidado."
+
+    scene bg recepcion2 with fade
 
     show sc1 at center
     sc "Tessie…"
@@ -47,3 +49,4 @@ label esc_20C_4:
     scene black with fade
 
     return
+

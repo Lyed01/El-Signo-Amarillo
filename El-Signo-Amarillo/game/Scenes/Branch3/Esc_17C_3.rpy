@@ -1,6 +1,6 @@
 label esc_17C_3:
 
-    scene atrio_iglesia_lluvia with fade
+    scene bg atrio with fade
     play sound "audio/lluvia_suave.ogg"
 
     # Ascenso desde el sótano
@@ -22,12 +22,12 @@ label esc_17C_3:
     n "Entonces lo vio."
 
     # Visión de Tessie
-    scene vision_tessie with dissolve
+    scene bg flashback with dissolve
     n "Una visión fugaz lo atravesó: Tessie, sola, bajo la lluvia, la ropa empapada, el rostro vuelto hacia un punto que él no podía ver."
     n "Sobre su pecho brillaba un símbolo dorado, idéntico al descubierto en los vitrales."
     n "La imagen se desvaneció tan rápido como había llegado."
 
-    scene atrio_iglesia_lluvia with dissolve
+    scene bg atrio with dissolve
 
     n "Scott quedó inmóvil, el corazón acelerado, la mente repitiendo el destello como una advertencia."
 
@@ -42,7 +42,7 @@ label esc_17C_3:
     n "En el umbral, Thomas observaba a su patrón, intuyendo que algo lo había sacudido."
 
     # Salida al exterior
-    scene exterior_lluvia_iglesia with fade
+    scene bg plaza_iglesia with fade
 
     n "Scott salió al exterior."
     n "La lluvia lo golpeó de lleno."

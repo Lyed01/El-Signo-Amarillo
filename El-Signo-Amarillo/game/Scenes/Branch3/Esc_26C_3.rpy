@@ -1,6 +1,6 @@
 label esc_26C_3:
 
-    scene atrio_iglesia_noche with fade
+    scene bg atrio with fade
 
     n "La lluvia cae con una violencia que parece personal, golpeando las piedras del atrio como si quisiera borrar la escena antes de que suceda."
     n "SCOTT avanza, tambaleante, el abrigo empapado, el broche brillando sobre el pecho."

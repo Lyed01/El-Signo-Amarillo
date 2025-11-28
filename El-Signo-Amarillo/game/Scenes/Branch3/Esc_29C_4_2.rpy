@@ -1,6 +1,6 @@
 label esc_29C_4_2:
 
-    scene estudio_scott_noche with fade
+    scene bg estudioNoche with fade
 
     n "La lámpara parpadea suavemente."
     n "Su luz amarillenta ilumina los papeles desordenados, las páginas abiertas y los trazos incompletos."

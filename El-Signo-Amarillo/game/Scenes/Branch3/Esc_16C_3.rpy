@@ -1,6 +1,6 @@
 label esc_16C_3:
 
-    scene black with fade
+    scene bg sotano_iglesia with fade
 
     n "La penumbra del sótano permanecía suspendida, solo interrumpida por el eco de los pasos del funcionario que se alejaban por la escalera."
     n "La linterna de THOMAS temblaba en su mano, su luz oscilante recorriendo los lienzos, los diarios antiguos, los símbolos dorados sobre la piedra."

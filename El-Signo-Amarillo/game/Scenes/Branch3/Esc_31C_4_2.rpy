@@ -1,6 +1,6 @@
 label esc_31C_4_2:
 
-    scene estudio_scott_noche with fade
+    scene bg estudioNoche with fade
 
     n "TESSIE repasaba los símbolos y las anotaciones, los ojos fijos en cada trazo prohibido."
     n "El sonido del lápiz sobre el papel era leve, pero en el silencio del estudio se sentía como un golpe."

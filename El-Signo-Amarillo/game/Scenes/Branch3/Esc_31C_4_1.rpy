@@ -1,6 +1,6 @@
 label esc_31C_4_1:
 
-    scene bg_sotano_iglesia with fade
+    scene bg sotano_iglesia with fade
 
     n "El sótano estaba húmedo, saturado de polvo y aire viejo."
     n "Cada paso levantaba pequeñas nubes grises que se adherían a la piel y al cabello."

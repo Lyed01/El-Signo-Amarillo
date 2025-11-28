@@ -1,6 +1,6 @@
 label esc_21C_3:
 
-    scene estudio_scott_manana with fade
+    scene bg estudio_scott_tarde_nublada with fade
 
     n "SCOTT despierta en el suelo."
     n "La nuca le duele."
@@ -35,3 +35,4 @@ label esc_21C_3:
     n "El estudio está en silencio, pero la ciudad, detrás del vidrio, parece mirarlo."
 
     return
+

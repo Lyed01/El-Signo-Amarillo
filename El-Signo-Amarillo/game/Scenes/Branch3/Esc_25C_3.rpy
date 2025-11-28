@@ -1,6 +1,6 @@
 label esc_25C_3:
 
-    scene calles_lluvia with fade
+    scene bg calle_noche with fade
 
     n "La ciudad lo devora con su ruido metálico y su respiración artificial."
     n "Sirenas a lo lejos, mezcladas con el rumor del agua cayendo sobre los adoquines."
@@ -27,6 +27,9 @@ label esc_25C_3:
     n "Las torres cubiertas de hollín."
     n "Los vitrales deformados por el tiempo devuelven reflejos amarillos, como ojos cansados que aún vigilan."
     n "El portón metálico, medio abierto, chirría con el movimiento del viento."
+
+    # Aquí es donde aparece el agente → cambiamos la imagen
+    scene bg atrio_iglesia_agente with dissolve
 
     n "SCOTT se detiene a pocos metros. El aguacero cae sobre su rostro. No se mueve."
 
@@ -57,3 +60,4 @@ label esc_25C_3:
     scene black with fade
 
     return
+

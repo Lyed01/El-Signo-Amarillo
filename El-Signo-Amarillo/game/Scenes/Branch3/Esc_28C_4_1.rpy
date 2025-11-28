@@ -1,6 +1,6 @@
 label esc_28C_4_1:
 
-    scene city_streets_night with fade
+    scene bg calle_noche with fade
 
     n "La noche era densa y silenciosa."
     n "Las calles estaban vacías, húmedas por la reciente lluvia."
@@ -52,3 +52,4 @@ label esc_28C_4_1:
     n "como si el lugar hubiera estado esperándolos."
 
     scene black with fade
+

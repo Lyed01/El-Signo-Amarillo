@@ -1,6 +1,6 @@
 label esc_25C_4:
 
-    scene habitacion_tessie_noche with fade
+    scene bg casa_tessie with fade
 
     n "La lluvia cae constante tras las ventanas."
     n "La luz amarillenta de la lámpara vibra sobre los rostros tensos."
@@ -49,3 +49,5 @@ label esc_25C_4:
 
     scene black with fade
     n "CORTE A NEGRO."
+
+    return
