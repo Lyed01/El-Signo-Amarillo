@@ -1,6 +1,6 @@
 label escena_22_opcion_2:
 
-    scene hospedaje_tessie_noche with fade
+    scene bg casa_tessie with fade
 
     n "La lámpara sobre la mesa parpadea."
     n "Su luz amarillenta proyecta sombras que tiemblan sobre los lienzos y los pinceles sin lavar."
