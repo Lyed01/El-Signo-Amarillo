@@ -1,4 +1,4 @@
-label esc_17C:
+label esc_17C_3:
 
     scene atrio_iglesia_lluvia with fade
     play sound "audio/lluvia_suave.ogg"

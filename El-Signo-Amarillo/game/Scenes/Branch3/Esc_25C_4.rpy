@@ -1,4 +1,4 @@
-label escena_25_opcion_2:
+label esc_25C_4:
 
     scene habitacion_tessie_noche with fade
 

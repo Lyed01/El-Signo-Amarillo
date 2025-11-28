@@ -1,4 +1,4 @@
-label escena23_opcion2:
+label esc_23C_4:
 
     scene bg_hospedaje_noche with fade
 

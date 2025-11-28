@@ -1,4 +1,4 @@
-label esc_20_opcion2:
+label esc_20C_4:
 
     scene streets_fog with fade
 

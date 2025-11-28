@@ -1,4 +1,4 @@
-label escena_28_op1_sub1:
+label esc_28C_4_1:
 
     scene city_streets_night with fade
 

@@ -1,4 +1,4 @@
-label escena_33:
+label esc_33C_4_1:
 
     scene basement_night with fade
 

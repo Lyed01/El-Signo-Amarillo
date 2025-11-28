@@ -1,4 +1,4 @@
-label escena24:
+label esc_24C_3:
 
     scene bg estudioNoche with fade
 

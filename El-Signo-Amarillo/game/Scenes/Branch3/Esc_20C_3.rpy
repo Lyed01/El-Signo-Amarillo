@@ -1,4 +1,4 @@
-label esc_20_opcion_1:
+label esc_20C_3:
 
     scene departamento_scott_noche with fade
 

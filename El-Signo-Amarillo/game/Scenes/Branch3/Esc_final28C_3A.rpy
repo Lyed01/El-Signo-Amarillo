@@ -1,4 +1,4 @@
-label escena_final:
+label esc_final28C_3A:
 
     scene black with fade
     n "La cámara se eleva lentamente, mostrando el atrio vacío, inundado por el agua."

@@ -1,4 +1,4 @@
-label escena_32:
+label esc_32C_4_1:
 
     scene sotano_iglesia_noche with fade
 

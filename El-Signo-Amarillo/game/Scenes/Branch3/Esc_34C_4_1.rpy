@@ -1,4 +1,4 @@
-label escena_34A:
+label esc_34C_4_1:
 
     scene black
     with fade
