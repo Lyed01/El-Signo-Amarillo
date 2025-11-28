@@ -1,4 +1,4 @@
-label esc_27C_4:
+label esc_27C_3B:
 
     scene bg atrio_iglesia_agente
     with fade

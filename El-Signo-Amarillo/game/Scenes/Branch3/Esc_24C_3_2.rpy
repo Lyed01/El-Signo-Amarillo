@@ -19,7 +19,7 @@ label esc_24C_3_2:
     n "Sus pasos resuenan en la madera como si el espacio estuviera vacío, hueco, incapaz de devolverle respuesta."
 
     n "Abre la puerta del balcón."
-    scene bg casa_scott with fade
+
 
     n "El viento entra de golpe, frío, empapando el piso con lluvia a cántaros."
     n "Afuera, el mismo paisaje lo espera: torres de vigilancia, humo de fábricas, faroles que proyectan reflejos dorados sobre los charcos."

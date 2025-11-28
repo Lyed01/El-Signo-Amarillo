@@ -15,7 +15,7 @@ label esc_12_3:
     sc "(voz baja, firme) Vamos a la iglesia."
 
     
-    show tho at right
+    show th at right
     th "(sorprendido) ¿A la iglesia, señor?"
     th "No creo que el régimen vea con buenos ojos que entremos sin permiso."
 
@@ -25,7 +25,7 @@ label esc_12_3:
     "El aire parecía cargado de advertencias, pero obedeció sin más."
 
     # Salida del edificio
-    scene bg_stairs with dissolve
+    scene bg sotano_iglesia with dissolve
     play sound audio.sfx_agente_escalera
 
     "Salieron al pasillo, descendiendo las escaleras del edificio."

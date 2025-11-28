@@ -150,3 +150,43 @@ if subbranch == 21:
         else:
             call esc_12C_2
             
+            call esc_12_3
+            call esc_13C_3
+            call esc_14C_3
+            call esc_15C_3
+            call esc_16C_3
+            call esc_17C_3
+            call esc_18C_3
+            call esc_19C_3
+            call esc_20C_3
+            call esc_20C_4
+            call esc_21C_3
+            call esc_21C_4
+            call esc_22C_3
+            call esc_22C_4
+            call esc_23C_3
+            call esc_23C_4
+            call esc_24C_3
+            call esc_24C_4
+            call esc_24C_3_2
+            call esc_25C_3
+            call esc_25C_4
+            call esc_26C_3
+            call esc_26C_4
+            call esc_27C_3
+            call esc_27C_3B
+            call esc_27C_4
+            call esc_28C_4_1
+            call esc_28C_4_2
+            call esc_29C_4_1
+            call esc_29C_4_2
+            call esc_30C_4_1
+            call esc_30C_4_2
+            call esc_31C_4_1
+            call esc_31C_4_2
+            call esc_32C_4_1
+            call esc_33C_4_1
+            call Esc_34C_4_1_2
+            call esc_34C_4_1
+            call esc_final28C_3A
+            call esc_final28C_3B
