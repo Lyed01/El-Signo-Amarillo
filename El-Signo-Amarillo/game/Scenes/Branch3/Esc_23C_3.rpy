@@ -8,6 +8,7 @@ label esc_23C_3:
     n "Su rostro está en sombras."
     n "Las manos, empapadas y temblorosas, brillan bajo la luz vacilante de la lámpara."
 
+    show sc1 at center
     sc "(voz apenas audible) Tessie..."
 
     n "Silencio."

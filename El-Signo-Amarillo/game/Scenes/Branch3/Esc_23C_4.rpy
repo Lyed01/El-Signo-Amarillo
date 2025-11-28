@@ -10,6 +10,7 @@ label esc_23C_4:
     n "Solo se oye el golpeteo de la lluvia y el murmullo lejano de un motor."
     n "Finalmente, TESSIE levanta la vista."
 
+    show te1 at left
     te "No puedo… simplemente olvidar."
     te "No después de lo que vi en tus ojos."
     te "Algo te persigue, Scott… y me lo estás escondiendo."
@@ -17,6 +18,7 @@ label esc_23C_4:
     n "SCOTT cierra los ojos un instante."
     n "Su respiración es tensa."
 
+    show sc1 at right
     sc "Tessie… no sabés lo que decís."
 
     te "Entonces decímelo."

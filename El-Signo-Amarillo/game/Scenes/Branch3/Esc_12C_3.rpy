@@ -25,7 +25,7 @@ label esc_12_3:
     "El aire parecía cargado de advertencias, pero obedeció sin más."
 
     # Salida del edificio
-    scene bg_stairs with dissolve
+    scene bg sotano_iglesia with dissolve
     play sound audio.sfx_agente_escalera
 
     "Salieron al pasillo, descendiendo las escaleras del edificio."
