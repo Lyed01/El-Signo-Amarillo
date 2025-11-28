@@ -1,4 +1,4 @@
-label esc_14C_3:
+label esc_14C_3: #iglesia
 
     scene bg atrio with fade 
     with fade

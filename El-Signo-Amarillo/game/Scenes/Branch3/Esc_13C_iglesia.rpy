@@ -1,4 +1,4 @@
-label esc_13C_3:
+label esc_13C_3: #iglesia
 
 
     scene iglesia_interior with fade

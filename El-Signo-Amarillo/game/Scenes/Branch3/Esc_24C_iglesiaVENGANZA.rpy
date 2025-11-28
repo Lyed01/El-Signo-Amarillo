@@ -1,4 +1,4 @@
-label esc_24C_3:
+label esc_24C_3: #iglesia VENGANZA
 
     scene bg estudioNoche with fade
 

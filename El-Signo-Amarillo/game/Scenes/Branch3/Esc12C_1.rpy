@@ -1,4 +1,4 @@
-label esc_12C_1:
+label esc_12C_1: 
 
     scene bg calle_noche with fade
 

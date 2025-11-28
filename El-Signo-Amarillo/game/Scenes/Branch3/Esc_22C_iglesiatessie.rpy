@@ -1,4 +1,4 @@
-label esc_22C_4:
+label esc_22C_4: #iglesia SI tessie
 
     scene bg casa_tessie with fade
 

@@ -1,4 +1,4 @@
-label esc_22C_3:
+label esc_22C_3: #iglesia NO tessie
 
     scene estudio_scott_noche with fade
 

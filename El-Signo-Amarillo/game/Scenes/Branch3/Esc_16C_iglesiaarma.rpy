@@ -1,4 +1,4 @@
-label esc_16C_3:
+label esc_16C_3: #iglesia + arma
 
     scene bg sotano_iglesia with fade
 

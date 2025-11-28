@@ -1,4 +1,4 @@
-label esc_25C_3:
+label esc_25C_3: #iglesia VENGANZA
 
     scene bg calle_noche with fade
 

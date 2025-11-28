@@ -1,4 +1,4 @@
-label esc_21C_3: #no ir
+label esc_21C_3: #iglesia NO tessie
 
     scene bg estudio_scott_tarde_nublada with fade
 

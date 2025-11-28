@@ -1,4 +1,4 @@
-label esc_27C_4:
+label esc_27C_4:    #iglesia tessie DECISION
 
     scene bg estudioNoche with fade
 

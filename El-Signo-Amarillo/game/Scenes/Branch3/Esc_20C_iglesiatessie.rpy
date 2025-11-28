@@ -1,4 +1,4 @@
-label esc_20C_4: #ir 
+label esc_20C_4: #iglesia SI tessie 
 
     scene bg edificio_frente with fade
 

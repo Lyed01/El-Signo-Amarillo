@@ -1,4 +1,4 @@
-label esc_19C_3: #no ir
+label esc_19C_3: #iglesia NO tessie
 
     scene bg calle_noche with fade
 
