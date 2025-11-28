@@ -1,4 +1,4 @@
-label esc_29C_4_1:
+label esc_29C_4_1: #tessie SI va la iglesia
 
     scene bg iglesia_interior with fade
 

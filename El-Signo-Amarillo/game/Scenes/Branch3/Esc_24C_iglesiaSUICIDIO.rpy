@@ -1,4 +1,4 @@
-label esc_24C_3_2:
+label esc_24C_3_2: #iglesia suicidio
 
     scene bg estudioNoche with fade
 

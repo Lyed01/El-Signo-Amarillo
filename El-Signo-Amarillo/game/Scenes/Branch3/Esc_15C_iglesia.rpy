@@ -1,4 +1,4 @@
-label esc_15C_3:
+label esc_15C_3: #iglesia
 
     scene bg sotano_iglesia
     with fade

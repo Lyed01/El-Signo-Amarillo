@@ -1,4 +1,4 @@
-label esc_26C_3:
+label esc_26C_3: #iglesia VENGANZA PIPA
 
     scene bg atrio with fade
 

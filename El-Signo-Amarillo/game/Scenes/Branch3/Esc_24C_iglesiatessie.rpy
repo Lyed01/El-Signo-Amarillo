@@ -1,4 +1,4 @@
-label esc_24C_4:
+label esc_24C_4:  #iglesia SI tessie
 
     scene bg hospedajeTessieNoche with fade
 

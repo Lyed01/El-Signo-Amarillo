@@ -1,4 +1,4 @@
-label esc_28C_4_1:
+label esc_28C_4_1: #tessie va iglesia
 
     scene bg calle_noche with fade
 

@@ -1,4 +1,4 @@
-label esc_17C_3:
+label esc_17C_3: #iglesia
 
     scene bg atrio with fade
     play sound "audio/lluvia_suave.ogg"

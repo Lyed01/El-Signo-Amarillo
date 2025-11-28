@@ -1,4 +1,4 @@
-label esc_21C_4: #ir
+label esc_21C_4: #iglesia SI tessie
 
     scene bg casa_tessie with fade
 

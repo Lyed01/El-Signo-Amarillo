@@ -1,4 +1,4 @@
-label esc_26C_4:
+label esc_26C_4: #iglesia SI tessie
 
     scene bg estudioNoche with fade
 

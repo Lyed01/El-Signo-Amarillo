@@ -1,4 +1,4 @@
-label esc_20C_3: #no ir
+label esc_20C_3: #iglesia NO tessie
 
     scene bg casa_scott with fade
 

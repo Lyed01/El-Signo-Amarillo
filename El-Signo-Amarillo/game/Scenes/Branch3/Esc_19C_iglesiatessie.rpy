@@ -1,4 +1,4 @@
-label esc_19C_4: #ir
+label esc_19C_4: #iglesia SI tessie
 
     scene bg calle_noche with fade
 

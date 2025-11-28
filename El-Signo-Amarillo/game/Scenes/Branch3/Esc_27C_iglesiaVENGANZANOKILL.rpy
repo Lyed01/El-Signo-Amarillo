@@ -1,4 +1,4 @@
-label esc_27C_3B:
+label esc_27C_3B:   #iglesia VENGANZA NO KILL
 
     scene bg atrio_iglesia_agente
     with fade

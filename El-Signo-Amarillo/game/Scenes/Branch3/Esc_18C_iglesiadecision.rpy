@@ -1,4 +1,4 @@
-label esc_18C_3:
+label esc_18C_3: #iglesia decision
 
     scene bg plaza_iglesia with fade
 

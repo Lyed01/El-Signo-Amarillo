@@ -1,4 +1,4 @@
-label esc_12C_3:
+label esc_12C_3: #iglesia
 
     # Comienza con la bruma exterior y el ambiente tenso
     scene bg plaza_iglesia with fade
