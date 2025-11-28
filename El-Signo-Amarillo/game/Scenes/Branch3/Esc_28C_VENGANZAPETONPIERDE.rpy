@@ -1,4 +1,4 @@
-label esc_final28C_3B:
+label esc_final28C_3B: #venganza peton pierde
 
     scene bg atrio_iglesia_agente with fade
 

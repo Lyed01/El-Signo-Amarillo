@@ -1,4 +1,4 @@
-label esc_23C_3:
+label esc_23C_3: #iglesia venganza decision
 
     scene bg estudioNoche with fade
 

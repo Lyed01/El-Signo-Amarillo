@@ -1,4 +1,4 @@
-label esc_24C_4:
+label esc_24C_4:   #Tessie nova
 
     scene bg casa_tessie_noche with fade
 

@@ -1,4 +1,4 @@
-label esc_final28C_3A:
+label esc_final28C_3A: #iglesia venganza kill
 
     scene black with fade
     n "La cámara se eleva lentamente, mostrando el atrio vacío, inundado por el agua."

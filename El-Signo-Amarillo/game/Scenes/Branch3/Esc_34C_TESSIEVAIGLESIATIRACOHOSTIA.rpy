@@ -1,4 +1,4 @@
-label esc_34C_4_1_2:
+label esc_34C_4_1_2: #tessie va a la iglesia tira coho hostia
 
     scene bg sotano_iglesia with fade
     n "Sótano de la iglesia. Noche. Bruma. Un silencio denso envuelve todo."

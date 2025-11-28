@@ -1,4 +1,4 @@
-label esc_34C_4_1:
+label esc_34C_4_1: #Tessie va a la iglesia y muere
 
     scene bg sotano_iglesia with fade
 
