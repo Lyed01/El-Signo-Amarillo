@@ -1,6 +1,6 @@
 label esc_22C_3: #iglesia NO tessie
 
-    scene estudio_scott_noche with fade
+    scene bg estudioNoche with fade
 
     n "SCOTT abre la puerta del estudio."
     n "La garganta tensa."

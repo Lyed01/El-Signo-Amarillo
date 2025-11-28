@@ -22,7 +22,7 @@ label esc_17C_3: #iglesia
     n "Entonces lo vio."
 
     # Visión de Tessie
-    scene bg flashback with dissolve
+    scene bg flashbackTessie with dissolve
     n "Una visión fugaz lo atravesó: Tessie, sola, bajo la lluvia, la ropa empapada, el rostro vuelto hacia un punto que él no podía ver."
     n "Sobre su pecho brillaba un símbolo dorado, idéntico al descubierto en los vitrales."
     n "La imagen se desvaneció tan rápido como había llegado."

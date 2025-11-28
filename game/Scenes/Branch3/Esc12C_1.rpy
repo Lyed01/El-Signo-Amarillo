@@ -13,8 +13,6 @@ label esc_12C_1:
     n "La ausencia de Tessie lo empujaba hacia un destino incierto."
     n "La ciudad parecía contener el aliento."
 
-    scene bg hospedaje_exterior with dissolve
-
     n "Scott llega al hospedaje. Empuja la puerta."
     play sound audio.sfx_chillido
 
@@ -26,7 +24,7 @@ label esc_12C_1:
 
     n "Silencio. Solo el eco de su voz y la brisa que entra por las ventanas mal cerradas."
 
-    scene bg hospedaje_interior with fade
+    scene bg casa_tessie with fade
 
     n "Scott da un paso, luego otro."
     n "Las habitaciones están en desorden: muebles desplazados, cajones abiertos, papeles dispersos."

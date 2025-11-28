@@ -10,10 +10,7 @@ label esc_21C_1:
     n "La luz de la lámpara titila sobre las paredes."
     n "Las sombras se mueven, alargadas, torcidas."
     n "El lugar parece vivo."
-
-    show sc at left 
-    show te1 at right 
-
+ 
     n "Scott y Tessie se agazapan detrás del caballete."
     n "Sus respiraciones son cortas, medidas."
     n "El latido de sus corazones llena el aire."

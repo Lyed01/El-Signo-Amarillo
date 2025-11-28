@@ -17,9 +17,9 @@ label esc_25C_1A:
     n "Su luz proyectó sombras que se alargaban por las paredes, retorciéndose sobre los símbolos dorados del libro."
 
     # Scott sigue oculto
-    show sc at left
+    show sc1 at left
     n "Scott, oculto tras el armario, vio cómo la puerta se abría del todo."
-    hide sc 
+    hide sc1 
 
     n "Su respiración se detuvo."
     n "No podía moverse. No podía emitir un sonido."
@@ -47,7 +47,7 @@ label esc_25C_1A:
     n "Un corte profundo se abrió en su muñeca y su costado."
     n "La sangre comenzó a correr, lenta, densa, goteando sobre el suelo y sobre las páginas abiertas del libro amarillo."
 
-    hide te 
+    hide te1
 
     n "Scott la vio caer."
     n "Su cuerpo se inclinó un poco hacia adelante, como si fuera a moverse."
@@ -74,7 +74,7 @@ label esc_25C_1A:
     show te1 at right
     n "Tessie, aún en el suelo, sostuvo el libro una última vez."
     n "Su cuerpo tembló."
-    hide te 
+    hide te1 
 
     n "Después, cayó quieta."
 
@@ -89,5 +89,6 @@ label esc_25C_1A:
     n "y se apagó."
 
     scene black with fade
+    "BAD ENDING"
 
     return

@@ -6,9 +6,6 @@ label esc_19C_1:
     n "Las páginas viejas brillan débilmente bajo la luz temblorosa de la lámpara."
     n "Los símbolos parecen respirar en el silencio."
 
-    show sc at left 
-    show te1 at center 
-
     n "Scott y Tessie están frente a él."
     n "No se atreven a tocarlo, pero la cercanía del objeto los mantiene atrapados."
     n "El aire es espeso, cargado de algo que no pertenece solo al miedo, sino también al recuerdo."

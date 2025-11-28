@@ -47,11 +47,6 @@ label esc_22C_1:
     n "Scott la tomó del brazo, la arrastró con suavidad hacia el armario,"
     n "hundidos ambos en la sombra."
 
-    hide sc
-    hide te
-
-    show sc1 at left
-    show te1 at right
 
     n "El caballete quedó frente a ellos,"
     n "y más allá, la mesa con el libro iluminado como un faro."

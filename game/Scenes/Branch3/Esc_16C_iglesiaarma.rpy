@@ -12,6 +12,7 @@ label esc_16C_3: #iglesia + arma
     show tho at left
     th "¿Qué hacemos con esto, señor?"
 
+    hide tho with fade
     n "Scott permaneció inmóvil. El arma pesaba más de lo que parecía."
     n "El silencio del sótano se volvió denso, expectante."
     n "SCOTT cerró los ojos un instante."
