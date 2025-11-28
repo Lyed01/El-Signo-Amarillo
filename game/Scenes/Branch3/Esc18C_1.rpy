@@ -27,7 +27,7 @@ label esc_18C_1:
     n "Scott da un paso, pero es tarde."
 
     # --- EL LIBRO SE ABRE ---
-    play sfx audio.sfx_paper_rustle
+    #play sfx audio.sfx_paper_rustle
 
     n "Ella levanta la tapa."
     n "El sonido seco del cuero al abrirse llena la habitación."

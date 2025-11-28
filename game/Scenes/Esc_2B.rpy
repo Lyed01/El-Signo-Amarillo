@@ -1,6 +1,6 @@
 label bosque_breton_infancia:
 
-    scene bosque_breton_nublado with fade
+    scene bg calle_feliz with fade
     play ambience "bosque_viento.ogg" fadein 2.0
 
     # Narración inicial
@@ -22,7 +22,7 @@ label bosque_breton_infancia:
 
     # Voz de la madre fuera de escena
     voice "madre_llamando.ogg"
-    madre_off "¡Scott! ¡Es hora de volver!"
+    madre "¡Scott! ¡Es hora de volver!"
 
     n "El niño miró el claro una última vez. Las figuras se desvanecieron lentamente."
 

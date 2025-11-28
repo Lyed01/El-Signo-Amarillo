@@ -50,8 +50,8 @@ label start:
         if advertir:
             # RUTA A (original)
             call esc_13A
-            call esc_14A
-            call esc_15A
+            call esc_14A_2A
+            call esc_15A_2A
             call esc_16A
             call esc_17A
             call esc_18A
@@ -130,7 +130,7 @@ label start:
             call esc_23C_1
 
             if choice23 == 1:
-                call esc_24C_1A
+                call esc_24C_1
                 call esc_25C_1A
             else:
                 call esc_24C_1B
