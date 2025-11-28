@@ -25,6 +25,7 @@ image bg campo_fusilacion    = im.Scale("images/bg/campo_fusilacion.png", 1920, 
 image bg carretera    = im.Scale("images/bg/carretera.png", 1920, 1080)
 image bg casa_scott    = im.Scale("images/bg/casa_scott.png", 1920, 1080)
 image bg casa_tessie   = im.Scale("images/bg/casa_tessie.png", 1920, 1080)
+image bg casa_tessie_noche  = im.Scale("images/bg/casa_tessie_noche.png", 1920, 1080)
 image bg casa_tessie_destruida    = im.Scale("images/bg/casa_tessie_destruida.png", 1920, 1080)
 image bg iglesia_interior     = im.Scale("images/bg/iglesia_interior.png", 1920, 1080)
 image bg plaza_iglesia        = im.Scale("images/bg/plaza_iglesia.png", 1920, 1080)
