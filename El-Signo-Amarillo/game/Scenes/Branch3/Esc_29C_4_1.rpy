@@ -1,6 +1,6 @@
 label esc_29C_4_1:
 
-    scene iglesia_interior_noche with fade
+    scene bg iglesia_interior with fade
 
     n "La puerta metálica se abrió con un chirrido grave."
     n "El aire del interior los envolvió de inmediato: olor a humedad, cera vieja y polvo."

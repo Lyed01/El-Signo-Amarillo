@@ -1,6 +1,6 @@
 label esc_26C_4:
 
-    scene estudio_scott_noche with fade
+    scene bg estudioNoche with fade
 
     n "La lluvia seguía cayendo, golpeando los cristales del estudio con un ritmo constante."
     n "El aire olía a polvo, madera húmeda y pintura vieja."

@@ -1,6 +1,6 @@
 label esc_30C_4_2:
 
-    scene estudio_scott_noche with fade
+    scene bg estudioNoche with fade
 
     n "La habitación parecía encogerse con cada respiración."
     n "El aire estaba cargado de humedad, y la luz amarillenta de la lámpara oscilaba sobre los papeles y los símbolos trazados."

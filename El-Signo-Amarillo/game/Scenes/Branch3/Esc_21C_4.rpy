@@ -1,6 +1,6 @@
 label esc_21C_4:
 
-    scene bg_hospedaje_tessie with fade
+    scene bg casa_tessie with fade
 
     n "El aire sigue espeso."
     n "El polvo flota en la luz gris que entra por las rendijas."
@@ -89,3 +89,4 @@ label esc_21C_4:
     scene black with fade
 
     return
+

@@ -1,6 +1,6 @@
 label esc_34C_4_1_2:
 
-    scene black with fade
+    scene bg sotano_iglesia with fade
     n "Sótano de la iglesia. Noche. Bruma. Un silencio denso envuelve todo."
 
     n "SCOTT permanecía en el suelo."

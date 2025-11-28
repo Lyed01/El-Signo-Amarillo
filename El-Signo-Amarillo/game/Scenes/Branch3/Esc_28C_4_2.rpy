@@ -1,6 +1,6 @@
 label esc_28C_4_2:
 
-    scene estudio_scott_noche with fade
+    scene bg estudioNoche with fade
 
     n "La luz de la lámpara caía de forma irregular sobre los papeles y libros apilados."
     n "Las sombras temblaban en las paredes, proyectando fragmentos de símbolos sobre los lienzos manchados."

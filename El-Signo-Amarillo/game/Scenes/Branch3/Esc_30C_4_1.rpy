@@ -1,6 +1,6 @@
 label esc_30C_4_1:
 
-    scene black
+    scene bg sotano_iglesia
     with fade
 
     n "La trampilla al sótano estaba entreabierta."

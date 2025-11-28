@@ -9,6 +9,9 @@ label esc_22C_3:
     n "Los papeles sobre la mesa tiemblan al compás de una corriente mínima."
 
     n "Entonces la ve."
+
+    show bg estudio_tessie_pintada at center
+
     n "TESSIE, tendida en el diván."
     n "El abrigo apretado contra el pecho."
     n "El vestido humedecido pegado a la piel."

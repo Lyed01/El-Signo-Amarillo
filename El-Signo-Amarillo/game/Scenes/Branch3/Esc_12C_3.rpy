@@ -15,7 +15,7 @@ label esc_12_3:
     sc "(voz baja, firme) Vamos a la iglesia."
 
     
-    show tho at right
+    show th at right
     th "(sorprendido) ¿A la iglesia, señor?"
     th "No creo que el régimen vea con buenos ojos que entremos sin permiso."
 

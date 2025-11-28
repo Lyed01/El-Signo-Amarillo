@@ -1,6 +1,6 @@
 label esc_24C_4:
 
-    scene hospedaje_tessie_noche with fade
+    scene bg hospedajeTessieNoche with fade
 
     n "La lámpara sobre la mesa proyecta sombras alargadas sobre los lienzos sin terminar."
     n "El aire del hospedaje parece más pesado, saturado por el silencio que precede a la confesión."

@@ -1,6 +1,6 @@
 label esc_23C_4:
 
-    scene bg_hospedaje_noche with fade
+    scene bg casa_tessie with fade
 
     n "El silencio se ha vuelto insoportable."
     n "La lámpara oscila, lanzando destellos irregulares sobre los lienzos manchados."

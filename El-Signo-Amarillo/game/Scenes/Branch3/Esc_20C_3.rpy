@@ -1,6 +1,6 @@
 label esc_20C_3:
 
-    scene departamento_scott_noche with fade
+    scene bg casa_scott with fade
 
     n "SCOTT deja el abrigo sobre la silla."
     n "Camina hasta la ventana."

@@ -1,6 +1,6 @@
 label esc_23C_3:
 
-    scene estudio_scott_noche with fade
+    scene bg estudioNoche with fade
 
     n "La lluvia golpea las ventanas con la insistencia de un puño que no cesa."
     n "El agua corre por los vidrios empañados, filtrando destellos amarillos en el interior del estudio."
@@ -67,10 +67,9 @@ label esc_23C_3:
 # RUTA A – TOMAR VENGANZA
 # ------------------------------
 
-
 label escena_23_venganza:
 
-    scene estudio_scott_noche with fade
+    scene bg estudioNoche with fade
 
     n "SCOTT toma el revólver del abrigo."
     n "El metal brilla bajo la luz amarilla."
@@ -86,7 +85,7 @@ label escena_23_venganza:
 
 label escena_23_sucumbir:
 
-    scene estudio_scott_noche with dissolve
+    scene bg estudioNoche with dissolve
 
     n "SCOTT no se mueve."
     n "La rabia se disuelve en un temblor profundo."

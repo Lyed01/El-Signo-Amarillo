@@ -1,15 +1,15 @@
 label esc_13C_3:
 
 
-    scene bg iglesia_interior with fade
-    
+    scene black with fade
+
     n "El interior de la iglesia estaba oscuro, impregnado por un olor a humedad y aceite viejo."
     n "Las columnas, ennegrecidas por el hollín, se alzaban como esqueletos bajo una bóveda que había perdido casi todos sus vitrales."
     n "Los pocos que quedaban proyectaban reflejos amarillentos y verdosos sobre los bancos carcomidos, formando sombras que se movían lentamente, como si respiraran."
 
     n "Thomas cerró la puerta detrás de ellos. El ruido metálico se amplificó por todo el recinto."
 
-    show tho at left
+    show th at left
     th "No me gusta esto, señor. Parece que nadie ha estado aquí desde hace meses."  # susurrando
 
     n "Scott avanzó despacio por el pasillo central."

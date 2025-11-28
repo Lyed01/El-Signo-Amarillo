@@ -1,6 +1,6 @@
 label esc_19C_4:
 
-    scene calle_noche_lluvia with fade
+    scene bg calle_noche with fade
 
     n "SCOTT avanzaba solo por las calles grises y empapadas."
     n "La lluvia caía con una constancia mecánica, y la bruma se deslizaba entre los edificios, ocultando los letreros del régimen y los ojos que siempre parecían observar."
@@ -28,3 +28,4 @@ label esc_19C_4:
     scene black with fade
 
     return
+

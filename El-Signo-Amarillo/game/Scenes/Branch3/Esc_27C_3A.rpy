@@ -1,6 +1,6 @@
 label esc_27C_3:
 
-    scene black with fade
+    scene bg atrio_iglesia_agente with fade
     play sound "thunder.wav"
 
     n "El trueno retumba sobre la ciudad."

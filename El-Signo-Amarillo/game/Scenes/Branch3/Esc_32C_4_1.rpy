@@ -1,6 +1,6 @@
 label esc_32C_4_1:
 
-    scene sotano_iglesia_noche with fade
+    scene bg sotano_iglesia with fade
 
     n "Scott se apoyó contra un estante."
     n "Su respiración era irregular, entrecortada."
@@ -36,3 +36,5 @@ label esc_32C_4_1:
     n "Scott comprendió entonces que cualquier movimiento sería el último."
     n "El aire del sótano se volvió más espeso, casi sólido."
     n "Cada respiración, cada destello, era una cuenta regresiva."
+
+    return

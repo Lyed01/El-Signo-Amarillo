@@ -21,7 +21,7 @@ label esc_19C_3:
     n "Lo observó subir los escalones, abrir la puerta y perderse en la penumbra."
     n "La lluvia continuó cayendo, lenta, constante, como si la ciudad lo despidiera con un lamento."
 
-    scene bg estudioNoche with fade
+
 
     n "SCOTT cerró la puerta tras de sí."
     n "La oscuridad del pasillo lo envolvió, espesa, familiar."

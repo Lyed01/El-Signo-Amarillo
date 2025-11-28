@@ -1,7 +1,6 @@
 label esc_34C_4_1:
 
-    scene black
-    with fade
+    scene bg sotano_iglesia with fade
 
     n "El agente se detuvo frente a ellos."
     n "El aire del sótano era tan espeso que cada respiración sonaba como un gemido contenido."
@@ -34,8 +33,7 @@ label esc_34C_4_1:
     n "La luz desapareció."
     n "El sótano quedó sumido en oscuridad total."
 
-    scene black
-    with fade
+    scene black with fade
 
     n "CORTE A NEGRO."
 

@@ -1,6 +1,6 @@
 label esc_33C_4_1:
 
-    scene basement_night with fade
+    scene bg sotano_iglesia with fade
 
     n "Scott trató de levantarse."
     n "Una mano sobre el suelo, la otra apoyada en el estante."

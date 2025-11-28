@@ -1,6 +1,6 @@
-label esc_27C_4:
+label esc_27C_3B:
 
-    scene atrio_iglesia_noche_lluvia
+    scene bg atrio_iglesia_agente
     with fade
 
     n "SCOTT mantiene el arma dentro del abrigo."
@@ -34,7 +34,7 @@ label esc_27C_4:
     n "Pero entonces, el sonido de pasos metálicos resuena detrás de él."
     n "Se gira."
 
-    scene atrio_iglesia_guardias_lluvia
+    scene bg atrio
     with dissolve
 
     n "Sombras uniformadas cruzan el atrio: figuras del régimen, linternas en alto, cascos brillantes bajo la lluvia."

@@ -1,6 +1,6 @@
 label esc_18C_3:
 
-    scene lluvia_plaza with fade
+    scene bg plaza_iglesia with fade
 
     n "La lluvia caía con persistencia sobre la plaza vacía. Los faroles amarillos parpadeaban entre la bruma, y el sonido de los motores lejanos se confundía con el murmullo del viento."
     n "SCOTT permanecía frente a la puerta de la iglesia, la visión de TESSIE aún grabada en su mente. El agua le corría por el rostro, mezclándose con el sudor y la culpa."
@@ -36,7 +36,7 @@ label esc_18C_3:
 
 label esc_18_op1:
 
-    scene lluvia_calles with fade
+    scene bg calle_noche with fade
 
     n "SCOTT levantó la vista hacia los tejados del distrito y exhaló con cansancio."
 
@@ -54,7 +54,7 @@ label esc_18_op1:
 
 label esc_18_op2:
 
-    scene lluvia_camino with fade
+    scene bg carretera with fade
 
     n "SCOTT apretó los puños. La culpa y el miedo se mezclaban con una sensación de urgencia visceral."
 

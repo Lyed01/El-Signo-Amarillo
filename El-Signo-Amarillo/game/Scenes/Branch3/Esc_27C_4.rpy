@@ -1,6 +1,6 @@
 label esc_27C_4:
 
-    scene estudio_scott_noche with fade
+    scene bg estudioNoche with fade
 
     n "La habitación estaba en calma, iluminada apenas por la luz vacilante de la lámpara."
     n "El libro amarillo descansaba sobre la mesa, su presencia imponía una gravedad que llenaba el aire."
@@ -43,11 +43,7 @@ label escena_27_opcion_1:
     n "La lluvia se volvió más intensa."
     n "El libro amarillo quedó sobre la mesa, abierto, sus símbolos brillando débilmente bajo la luz."
 
-    # Aquí puedes enlazar la siguiente escena
-    # jump escena_28_o_lo_que_corresponda
-
     return
-
 
 
 # ================================
