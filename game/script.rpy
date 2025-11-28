@@ -26,9 +26,9 @@ label start:
     call esc_1
 
     if branch == 1:
-        call esc_2A
+        call escena_2_reprimir_recuerdos_branch1
     elif branch == 2:
-        call esc_2B
+        call bosque_breton_infancia
     elif branch == 3:
         call esc_2C
 
@@ -135,7 +135,6 @@ label start:
             else:
                 call esc_24C_1B
                 call esc_25C_1B
-
         else: #iglesia
             call esc_12C_3
             call esc_13C_3
