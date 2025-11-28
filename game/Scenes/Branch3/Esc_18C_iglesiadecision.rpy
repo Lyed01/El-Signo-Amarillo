@@ -26,12 +26,14 @@ label esc_18C_3: #iglesia decision
 
     menu:
         "Ignorar la premonición":
+            $ irtessie = False
             jump esc_18_op1
-            irtessie = False
+            
 
         "Ir al hospedaje de Tessie":
+            $ irtessie = True
             jump esc_18_op2
-            irtessie = True
+            
 
 
 # ----------- OPCIÓN 1: IGNORAR LA PREMONICIÓN -----------

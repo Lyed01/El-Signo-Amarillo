@@ -24,11 +24,13 @@ label esc_27C_4:    #iglesia tessie DECISION
 
     menu:
         "Ir a la iglesia":
+            $ juntosIglesia = True
             jump escena_27_opcion_1
-            juntosIglesia = True
+            
         "Quedarse":
+            $ juntosIglesia = False
             jump escena_27_opcion_2
-            juntosIglesia = False
+           
 
 
 # ================================

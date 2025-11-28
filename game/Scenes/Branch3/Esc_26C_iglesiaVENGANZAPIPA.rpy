@@ -43,10 +43,10 @@ label esc_26C_3: #iglesia VENGANZA PIPA
 
     menu:
         "Disparar" if arma:
-            tiraco = True
+            $tiraco = True
 
         "No hacer nada":
-            tiraco = False
+            $tiraco = False
 
     scene black with fade
 

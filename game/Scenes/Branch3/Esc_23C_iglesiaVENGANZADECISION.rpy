@@ -58,11 +58,11 @@ label esc_23C_3: #iglesia venganza decision
     menu:
         "Opcion A - Tomar venganza":
             jump escena_23_venganza
-            verganza = True
+            $ verganza = True
 
         "Opcion B - Sucumbir":
             jump escena_23_sucumbir
-            verganza = False
+            $ verganza = False
 
 
 # ------------------------------

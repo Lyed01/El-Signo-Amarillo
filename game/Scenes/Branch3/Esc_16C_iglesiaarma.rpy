@@ -21,12 +21,14 @@ label esc_16C_3: #iglesia + arma
     # --- MENÚ DE DECISIÓN ---
     menu:
         "Tomar el arma":
+            $ arma = True
             jump esc_16_opcion_tomar
-            arma = True
+            
 
         "Dejar el arma":
+            $ arma = False
             jump esc_16_opcion_dejar
-            arma = False
+            
 
 # ----------------------
 # RUTA: TOMAR EL ARMA
