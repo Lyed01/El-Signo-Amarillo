@@ -19,7 +19,7 @@ label esc_21C_3:
     n "“Registro de hallazgo: evidencia material relacionada con la subversión cultural."
     n "Conforme a protocolo, proceder según cláusula 7 — eliminación y neutralización inmediata."
     n "Actuación programada: ejecución operativa."
-    n "Firma: [Agente — División de Conservación].”"
+    n "Firma: [[Agente — División de Conservación]]."
     n "Silencio."
     n "No hay destinatario."
     n "Solo una lágrima seca en la esquina, como si alguien lo hubiese dejado caer hace poco."
