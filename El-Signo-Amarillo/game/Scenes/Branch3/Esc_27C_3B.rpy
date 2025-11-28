@@ -1,4 +1,4 @@
-label esc_27C_4:
+label esc_27C_3B:
 
     scene atrio_iglesia_noche_lluvia
     with fade
