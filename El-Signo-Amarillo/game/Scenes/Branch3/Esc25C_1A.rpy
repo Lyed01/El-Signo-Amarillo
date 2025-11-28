@@ -1,6 +1,6 @@
 label esc_25C_1A:
 
-    scene bg hospedaje_noche with fade
+    scene bg casa_tessie_noche with fade
 
     n "El aire vibró."
     n "Un crujido recorrió el piso de madera, seguido por el sonido seco de las ruedas metálicas deteniéndose frente a la puerta."

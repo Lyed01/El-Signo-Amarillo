@@ -1,6 +1,6 @@
 label esc_24C_1:
 
-    scene bg hospedaje_noche with fade
+    scene bg casa_tessie_noche with fade
 
     n "La mesa estaba bañada por una luz gris, filtrada desde la puerta entreabierta."
     n "El libro amarillo parecía absorber la penumbra, y el broche con el signo devolvía un reflejo débil, casi latente."

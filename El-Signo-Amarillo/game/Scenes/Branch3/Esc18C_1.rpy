@@ -1,17 +1,15 @@
 label esc_18C_1:
 
-    scene bg hospedaje_noche with fade
+    scene bg casa_tessie_noche with fade
 
     n "El silencio es absoluto."
     n "Solo el tic-tac del reloj y el leve crepitar de la lámpara rompen la quietud."
     n "El aire parece detenido, expectante."
 
-     
-
     n "Tessie se inclina sobre el libro amarillo."
     n "Sus dedos tiemblan mientras acarician la cubierta gastada."
     n "El cuero refleja la luz de la lámpara con un resplandor enfermizo."
- 
+
     n "Scott está a su lado, inmóvil."
     n "Su corazón late con violencia, sus pensamientos son un torbellino de advertencias."
 

@@ -1,6 +1,6 @@
 label esc_26C_1A:
 
-    scene bg hospedaje_noche with fade
+    scene bg casa_tessie_noche with fade
 
     n "Tessie cayó de rodillas."
     n "El libro amarillo seguía entre sus manos, los dedos resbalando con la sangre."

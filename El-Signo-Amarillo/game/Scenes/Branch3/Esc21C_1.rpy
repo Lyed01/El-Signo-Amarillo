@@ -1,6 +1,6 @@
 label esc_21C_1:
 
-    scene bg hospedaje_noche with fade
+    scene bg casa_tessie_noche with fade
 
     n "El sonido metálico de las ruedas se ha detenido."
     n "Solo queda el silencio."

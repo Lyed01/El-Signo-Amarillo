@@ -1,6 +1,6 @@
 label esc_14C_1:
 
-    scene bg hospedaje_noche with fade
+    scene bg casa_tessie_noche with fade
 
     n "La lámpara sobre la mesa parpadea."
     n "Su luz amarillenta proyecta sombras que tiemblan sobre los lienzos y los pinceles sin lavar."

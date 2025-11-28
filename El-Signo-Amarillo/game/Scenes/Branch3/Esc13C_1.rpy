@@ -1,6 +1,6 @@
 label esc_13C_1:
 
-    scene bg hospedaje_interior with fade
+    scene bg casa_tessie_noche with fade
 
     n "El aire sigue espeso."
     n "El polvo flota en la luz gris que entra por las rendijas."

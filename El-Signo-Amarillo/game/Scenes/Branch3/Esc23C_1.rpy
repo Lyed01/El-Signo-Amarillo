@@ -1,6 +1,6 @@
 label esc_23C_1:
 
-    scene bg hospedaje_noche with fade
+    scene bg casa_tessie_noche with fade
 
     n "El interior del armario trasero estaba envuelto en oscuridad y polvo."
     n "Las perchas se balanceaban apenas, y el olor a lavanda vieja se mezclaba con el aire húmedo."

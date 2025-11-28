@@ -67,11 +67,9 @@ label start:
             call esc_17A_1A
             call esc_18A_1A
             call esc_19A_1A
-       
-       
         
     # -----------------------------
-# SUBBRANCH == 2
+# BRANCH == 2
 # -----------------------------
 if subbranch == 2:
     call esc_7B_2
@@ -116,6 +114,11 @@ if subbranch == 21:
     call esc_21A
     call esc_22A         
     
+
+# -----------------------------
+# SUBBRANCH == 3
+# -----------------------------
+
     if subbranch == 3:
         call esc_7C
         call esc_8C

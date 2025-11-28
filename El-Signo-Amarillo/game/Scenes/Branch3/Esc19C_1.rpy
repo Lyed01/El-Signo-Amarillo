@@ -1,6 +1,6 @@
 label esc_19C_1:
 
-    scene bg hospedaje_noche with fade
+    scene bg casa_tessie_noche with fade
 
     n "El libro amarillo yace abierto sobre la mesa."
     n "Las páginas viejas brillan débilmente bajo la luz temblorosa de la lámpara."

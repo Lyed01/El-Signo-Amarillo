@@ -1,7 +1,7 @@
 label esc_25C_1B:
 
-    scene bg hospedaje_noche_bruma with fade
-    play ambient "amb_bruma_noche.ogg" fadein 1.0
+    scene bg casa_tessie_noche with fade
+    #play ambient "amb_bruma_noche.ogg" fadein 1.0
 
     n "La penumbra se volvió más densa cuando una sombra se deslizó desde la puerta entreabierta."
 
@@ -16,11 +16,11 @@ label esc_25C_1B:
 
     n "Se detuvo ante la mesa. Sus ojos se posaron en el libro amarillo, el volumen que contenía un fragmento del pasado que el régimen había decidido borrar."
 
-    play sound "objeto_recogido.ogg"
+    #play sound "objeto_recogido.ogg"
     n "Con un gesto preciso, lo levantó. La lámpara reflejó el dorado de la cubierta sobre su rostro, y por un instante, pareció comprender el peso de lo que sostenía."
 
     n "Fue entonces cuando vio el broche con el Signo, abandonado junto al libro."
-    play sound "metal_suave.ogg"
+    #play sound "metal_suave.ogg"
     n "Lo tomó con cuidado, sus dedos rozando el metal grabado, como si también lo reconociera."
 
     n "Scott sintió un escalofrío subirle por la espalda."

@@ -1,6 +1,6 @@
 label esc_17C_1:
 
-    scene bg hospedaje_noche with fade
+    scene bg casa_tessie_noche with fade
 
     # Tessie revela que trajo el libro
     show te1 at center 

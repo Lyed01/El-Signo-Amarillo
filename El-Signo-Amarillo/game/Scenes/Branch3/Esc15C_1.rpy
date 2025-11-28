@@ -1,6 +1,6 @@
 label esc_15C_1:
 
-    scene bg hospedaje_noche with fade
+    scene bg casa_tessie_noche with fade
 
     n "El aire es denso, casi irrespirable."
     n "El polvo suspendido en la luz de la lámpara parece moverse con lentitud,"
@@ -11,7 +11,7 @@ label esc_15C_1:
     n "Frente a él, Tessie lo observa, iluminada por la luz amarillenta."
     n "Hay sinceridad en su mirada, pero también una chispa que él teme: curiosidad."
 
-    show te1 at center
+    show te1 at left
 
     te "Scott…"
     te "No quería que te enojaras."
@@ -28,7 +28,7 @@ label esc_15C_1:
     n "Scott respira hondo."
     n "La voz le tiembla cuando habla, pero no hay duda en ella."
 
-    show sc1 at left
+    show sc1 at right
     sc "Olvidá todo esto, Tessie."
     sc "No vuelvas a hablar de ello."
     sc "Fingí que nunca existió."

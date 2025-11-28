@@ -1,6 +1,6 @@
 label esc_16C_1:
 
-    scene bg hospedaje_noche with fade
+    scene bg casa_tessie_noche with fade
 
     n "El silencio llena el lugar."
     n "La orden de Scott aún resuena entre las paredes:"

@@ -1,7 +1,6 @@
 label esc_30C_4_1:
 
-    scene bg sotano_iglesia
-    with fade
+    scene bg sotano_iglesia with fade
 
     n "La trampilla al sótano estaba entreabierta."
     n "Un aire espeso y frío se filtraba hacia arriba, como si el lugar respirara en secreto."
@@ -31,8 +30,7 @@ label esc_30C_4_1:
     n "La atmósfera se volvió más densa, como si el sótano los estuviera absorbiendo lentamente."
     n "Ambos comprendieron —sin decirlo— que habían cruzado el límite entre el pasado prohibido y algo mucho más antiguo, algo que los observaba desde la oscuridad."
 
-    scene black
-    with fade
+    scene black with fade
     n "Corte a negro."
 
     return

@@ -1,6 +1,6 @@
 label esc_24B_C_1:
 
-    scene bg hospedaje_noche with fade
+    scene bg casa_tessie_noche with fade
 
     n "El lugar estaba sumido en una oscuridad densa, rota solo por el parpadeo débil de la lámpara sobre la mesa."
     n "El aire olía a aceite y metal húmedo."

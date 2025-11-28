@@ -1,6 +1,6 @@
 label esc_12C_1:
 
-    scene bg calles_bruma with fade
+    scene bg calle_noche with fade
 
     n "La ciudad está envuelta en humo industrial."
     n "El sonido de los motores lejanos se mezcla con el silbido del viento entre los edificios."

@@ -1,6 +1,6 @@
 label esc_20C_1:
 
-    scene bg hospedaje_noche with fade
+    scene bg casa_tessie_noche with fade
 
     n "El cuarto está en penumbra."
     n "El zumbido de la lámpara es lo único que interrumpe el silencio."
