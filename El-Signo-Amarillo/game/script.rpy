@@ -10,10 +10,9 @@ default rechazoATessie = False
 #default tessieIgnoraScott = False
 
 #variables branch 3
-default pathiglesia = 0
-default arma = 0
-default irtessie = 0   
-
+default pathiglesia = False
+default arma = False
+default irtessie = False   
 default opcion = False
 
 # Flag: whether Scott has his revolver (prevents NameError if unset)
@@ -80,10 +79,9 @@ label start:
                 call esc_8C
                 call esc_9C
                 call esc_10C
-
                 call esc_11C
 
-                if path11 == 1: #noiglesia
+                if pathiglesia == False: #noiglesia
                     call esc_12C_1
                     call esc_13C_1
                     call esc_14C_1
@@ -108,7 +106,6 @@ label start:
                 
                 else: #iglesia
                     call esc_12C_2
-            #sexo
                     call esc_12C_3
                     call esc_13C_3
                     call esc_14C_3
@@ -116,6 +113,9 @@ label start:
                     call esc_16C_3
                     call esc_17C_3
                     call esc_18C_3
+                    if irtessie;
+
+                    else:
                     call esc_19C_3
                     call esc_20C_3
                     call esc_20C_4
