@@ -1,4 +1,4 @@
-label esc_33C_4_1:
+label esc_33C_4_1: #Tessie va a la iglesia
 
     scene bg sotano_iglesia with fade
 

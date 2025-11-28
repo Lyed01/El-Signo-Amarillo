@@ -1,4 +1,4 @@
-label esc_11C:
+label esc_11C: #desicion iglesia / no iglesia
 
     scene bg estudio1 with fade
 

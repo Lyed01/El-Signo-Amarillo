@@ -1,4 +1,4 @@
-label esc_30C_4_2:
+label esc_30C_4_2: #tessie nova
 
     scene bg estudioNoche with fade
 

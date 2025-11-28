@@ -1,4 +1,4 @@
-label esc_22C_3:
+label esc_22C_3: #NO iglesia
 
     scene bg estudioNoche with fade
 
