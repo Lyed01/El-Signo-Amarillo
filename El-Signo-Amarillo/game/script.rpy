@@ -105,25 +105,24 @@ label start:
                         #branch no iglesia 
                 
                 else: #iglesia
-                    call esc_12C_2
-                    call esc_12C_3
-                    call esc_13C_3
-                    call esc_14C_3
-                    call esc_15C_3
-                    call esc_16C_3
-                    call esc_17C_3
-                    call esc_18C_3
+                    call esc_12C_3 #vamo iglesia
+                    call esc_13C_3 #tamo iglesia 
+                    call esc_14C_3 #seguimo iglesia
+                    call esc_15C_3 #tamo iglesia 
+                    call esc_16C_3 #tamo iglesia + arma
+                    call esc_17C_3 #tamo iglesia 
+                    call esc_18C_3 #tamo iglesia + decision
                     if irtessie;
 
                     else:
-                    call esc_19C_3
-                    call esc_20C_3
-                    call esc_20C_4
-                    call esc_21C_3
-                    call esc_21C_4
-                    call esc_22C_3
-                    call esc_22C_4
-                    call esc_23C_3
+                        call esc_19C_3 #noiglesia 
+                    call esc_20C_3 #glesianotessie
+                        call esc_20C_4 #iglesiatessie
+                    call esc_21C_3 #notessie
+                        call esc_21C_4 #tessie
+                    call esc_22C_3 #notessie
+                        call esc_22C_4 #tessie
+                    call esc_23C_3 
                     call esc_23C_4
                     call esc_24C_3
                     call esc_24C_4
