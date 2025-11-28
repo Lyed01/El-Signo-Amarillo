@@ -1,4 +1,4 @@
-label esc_20C_3:
+label esc_20C_3: #no ir
 
     scene bg casa_scott with fade
 

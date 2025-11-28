@@ -10,8 +10,9 @@ default rechazoATessie = False
 #default tessieIgnoraScott = False
 
 #variables branch 3
-default path11 = 0
-default choice23 = 0   
+default pathiglesia = 0
+default arma = 0
+default irtessie = 0   
 
 default opcion = False
 
@@ -82,7 +83,7 @@ label start:
 
                 call esc_11C
 
-                if path11 == 1:
+                if path11 == 1: #noiglesia
                     call esc_12C_1
                     call esc_13C_1
                     call esc_14C_1
@@ -94,18 +95,18 @@ label start:
                     call esc_20C_1
                     call esc_21C_1
                     call esc_22C_1
-
                     call esc_23C_1
 
                     if choice23 == 1:
                         call esc_24C_1A
-                        call esc_25C_1A
+                        call esc_25C_1A #final de algo?
                 
                     else:
                         call esc_24C_1B
                         call esc_25C_1B
+                        #branch no iglesia 
                 
-                else:
+                else: #iglesia
                     call esc_12C_2
             #sexo
                     call esc_12C_3

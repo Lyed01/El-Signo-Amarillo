@@ -1,6 +1,6 @@
 label esc_final28C_3B:
 
-    scene atrio_iglesia_agente with fade
+    scene bg atrio_iglesia_agente with fade
 
     n "La cámara se aleja lentamente."
     n "El atrio se ve enorme, negro, brillante por el agua."

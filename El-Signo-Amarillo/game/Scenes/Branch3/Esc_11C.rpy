@@ -31,8 +31,10 @@ label esc_11C:
     # --- DECISIÓN PRINCIPAL DE LA RAMA ---
     menu:
         "Ir a buscar a Tessie a su hospedaje":
-            $ path11 = 1
+            $ pathiglesia = False
+            
 
         "Ir a la iglesia para investigar la ausencia y la sombra del atrio":
-            $ path11 = 2
+            $ pathiglesia = True
+            
     return

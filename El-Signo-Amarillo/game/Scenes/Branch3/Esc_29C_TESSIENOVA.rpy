@@ -11,7 +11,7 @@ label esc_29C_4_2:
     n "Cada línea le parece esencial; cada coincidencia, una advertencia."
     n "Sus manos tiemblan apenas, no de miedo físico, sino del peso de lo que intenta comprender."
 
-    "TESSIE murmurando" "Hay un patrón… tiene que haberlo."
+    te "Hay un patrón… tiene que haberlo."
 
     n "Scott la observa desde la ventana."
     n "No se atreve a tocar los documentos ni a interrumpirla."

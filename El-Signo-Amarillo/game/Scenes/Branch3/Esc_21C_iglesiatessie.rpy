@@ -1,4 +1,4 @@
-label esc_21C_4:
+label esc_21C_4: #ir
 
     scene bg casa_tessie with fade
 

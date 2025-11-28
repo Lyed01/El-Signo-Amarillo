@@ -22,10 +22,11 @@ label esc_16C_3:
     menu:
         "Tomar el arma":
             jump esc_16_opcion_tomar
+            arma = True
 
         "Dejar el arma":
             jump esc_16_opcion_dejar
-
+            arma = False
 
 # ----------------------
 # RUTA: TOMAR EL ARMA

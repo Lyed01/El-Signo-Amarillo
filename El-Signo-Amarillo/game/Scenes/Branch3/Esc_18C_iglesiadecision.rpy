@@ -27,9 +27,11 @@ label esc_18C_3:
     menu:
         "Ignorar la premonición":
             jump esc_18_op1
+            irtessie = False
 
         "Ir al hospedaje de Tessie":
             jump esc_18_op2
+            irtessie = True
 
 
 # ----------- OPCIÓN 1: IGNORAR LA PREMONICIÓN -----------

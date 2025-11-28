@@ -19,8 +19,8 @@ label esc_28C_4_1:
     n "el rostro tenso,"
     n "los músculos rígidos por la mezcla de ira y preocupación."
 
-    "PERSONAJE Scott" "Si alguien nos ve aquí, no habrá advertencias, Tessie."
-    "PERSONAJE Tessie" "Entonces no deben vernos."
+    sc "Si alguien nos ve aquí, no habrá advertencias, Tessie."
+    te "Entonces no deben vernos."
 
     n "Cada sombra parecía moverse."
     n "Cada sonido distante se amplificaba como un presagio."
@@ -33,8 +33,8 @@ label esc_28C_4_1:
     n "Sus vitrales deformaban la luz de la luna en patrones amarillentos"
     n "que se movían sobre las piedras húmedas de la fachada."
 
-    "PERSONAJE Tessie" "Parece… distinta."
-    "PERSONAJE Scott" "Nada aquí cambia, Tessie. Solo lo que recordamos de ello."
+    te "Parece… distinta."
+    sc "Nada aquí cambia, Tessie. Solo lo que recordamos de ello."
 
     n "El atrio se extendía ante ellos,"
     n "cubierto de charcos y hojas pegadas a la piedra."
@@ -45,7 +45,7 @@ label esc_28C_4_1:
     n "Un trueno lejano cruzó el cielo."
     n "Ambos se miraron, sabiendo que ya no había vuelta atrás."
 
-    "PERSONAJE Scott" "Vamos. Pero rápido."
+    sc "Vamos. Pero rápido."
 
     n "Entraron."
     n "La oscuridad los recibió sin resistencia,"

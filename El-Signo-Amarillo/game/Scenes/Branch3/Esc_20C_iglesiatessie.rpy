@@ -1,4 +1,4 @@
-label esc_20C_4:
+label esc_20C_4: #ir 
 
     scene bg edificio_frente with fade
 

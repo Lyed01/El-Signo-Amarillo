@@ -1,4 +1,4 @@
-label esc_19C_3:
+label esc_19C_3: #no ir
 
     scene bg calle_noche with fade
 
