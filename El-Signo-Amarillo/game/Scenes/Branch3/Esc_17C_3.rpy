@@ -1,6 +1,6 @@
 label esc_17C_3:
 
-    scene bg atrio with dissolve with fade
+    scene bg atrio with fade
     play sound "audio/lluvia_suave.ogg"
 
     # Ascenso desde el sótano

@@ -28,6 +28,7 @@ label esc_19A_1A:
 
     n "Y en el lienzo, la silueta del agente lo miraba, inmóvil, nítida, silenciosa."
 
+    scene black with fade
     n "Sin palabras, sin amenazas directas, pero con la certeza de que su mundo ya no le pertenecía solo a él."
 
     return
